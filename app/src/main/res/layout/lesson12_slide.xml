@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_weight="5"
+    android:layout_height="match_parent"
+    android:id="@+id/lesson12SlideLinearLayout"
+    >
+
+    <LinearLayout
+        android:layout_weight="4.5"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:paddingTop="10dp"
+            android:text="Headline Here !"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:id="@+id/lesson12SlideHeadlineId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="10dp"
+            android:background="@color/metarial_deep_purple"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/lesson12SlideTextViewId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title here"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:id="@+id/lesson12SlideTextDescriptionId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description Here"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

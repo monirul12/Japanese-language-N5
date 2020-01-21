@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Japanese Language N5 </string>
+
+    <string-array name="countryName">
+        <item>Bangladesh</item>
+        <item>india</item>
+        <item>japan</item>
+        <item>Bhutan</item>
+        <item>pakistan</item>
+        <item>bankkok</item>
+        <item>philipain</item>
+        <item>Barma</item>
+        <item>autralia</item>
+        <item>canada</item>
+        <item>german</item>
+        <item>america</item>
+        <item>spain</item>
+        <item>nepal</item>
+        <item>london</item>
+        <item>dubai</item>
+    </string-array>
+
+
+    <string-array name="abbriviation_header">
+        <item>aa</item>
+        <item>acs</item>
+        <item>cdrcp</item>
+        <item>ebics</item>
+        <item>fsc</item>
+        <item>hkea</item>
+        <item>mepe</item>
+    </string-array>
+
+    <string-array name="abbriviation_View_child">
+        <item>allitration and assinance</item>
+        <item>acredetting commision for school</item>
+        <item>contractive development ressorse center programme </item>
+        <item>Emergence behavior of itergetted cellular systems </item>
+        <item>fundamental of sciense </item>
+        <item>HongKOng Examination authority</item>
+        <item>Mechanecal and process Engineering</item>
+    </string-array>
+
+    <string name="grammerName">ব্যাকরণ</string>
+    <string name="vocabularyName">শব্দার্থ</string>
+    <string name="liseningName">লিসেনিং</string>
+    <string name="kanjiName">কানজি</string>
+
+
+</resources>

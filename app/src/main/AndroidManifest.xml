@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mymusic">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/music"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".kanji_03Activity"></activity>
+        <activity android:name=".lisening_01Activity" />
+        <activity android:name=".kanji_02Activity" />
+        <activity android:name=".kanji_01Activity" />
+        <activity android:name=".lesson_15Activity" />
+        <activity android:name=".lesson15Activity" />
+        <activity android:name=".lesson_14Activity" />
+        <activity android:name=".lesson14Activity" />
+        <activity android:name=".lesson_13Activity" />
+        <activity android:name=".lesson13Activity" />
+        <activity android:name=".lesson_12Activity" />
+        <activity android:name=".lesson12Activity" />
+        <activity android:name=".lesson_11Activity" />
+        <activity android:name=".lesson11Activity" />
+        <activity android:name=".lesson_10Activity" />
+        <activity android:name=".lesson10Activity" />
+        <activity android:name=".lesson_09Activity" />
+        <activity android:name=".lesson9Activity" />
+        <activity android:name=".lesson_08Activity" />
+        <activity android:name=".lesson8Activity" />
+        <activity android:name=".lesson_07Activity" />
+        <activity android:name=".lesson7Activity" />
+        <activity android:name=".lesson_06Activity" />
+        <activity android:name=".lesson6Activity" />
+        <activity android:name=".lesson_05Activity" />
+        <activity android:name=".lesson5Activity" />
+        <activity android:name=".lesson_04Activity" />
+        <activity android:name=".lesson4Activity" />
+        <activity android:name=".lesson03Activity" />
+        <activity android:name=".lesson_03Activity" />
+        <activity android:name=".lesson2Activity" />
+        <activity android:name=".lesson_02Activity" />
+        <activity
+            android:name=".KanjiActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".lesson_01Activity" />
+        <activity
+            android:name=".lessonActivity"
+            android:parentActivityName=".MenuItem" />
+        <activity android:name=".ExpandableListActivity" />
+        <activity android:name=".FeedbackActivity" />
+        <activity
+            android:name=".MenuItem"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".splashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

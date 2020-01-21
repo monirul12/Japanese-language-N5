@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_color"
+    android:gravity="center"
+    tools:context=".splashScreen">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/nihongo"/>
+
+<TextView
+    android:layout_marginTop="20dp"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:textColor="@color/metarial_deep_purple"
+    android:layout_height="45dp"
+    android:textStyle="bold"
+    android:text="JAPANESE LANGUAGE"
+    android:textSize="30dp"
+    />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textColor="@color/metarial_deep_purple"
+        android:layout_height="25dp"
+        android:textStyle="italic"
+        android:text="LEVEL N5"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textColor="@color/metarial_deep_purple"
+        android:layout_height="25dp"
+        android:textStyle="italic"
+        android:text="BY:MONIRUL ISLAM"
+        android:textSize="20sp"
+        />
+
+
+
+<ProgressBar
+    android:progressBackgroundTint="#FDF6F6"
+    android:progressTint="#B0C3EB"
+    android:layout_margin="80dp"
+    android:id="@+id/progressBarId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@android:style/Widget.ProgressBar.Horizontal"
+
+    />
+
+
+</LinearLayout>

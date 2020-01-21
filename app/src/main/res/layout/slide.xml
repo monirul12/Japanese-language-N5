@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/slideLinearLayout"
+    android:gravity="center">
+    
+
+    <ImageView
+            android:id="@+id/slideImg"
+            android:layout_width="200dp"
+            android:layout_height="200dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="10dp"
+        android:background="@color/metarial_deep_purple"
+        />
+
+        <TextView
+            android:id="@+id/slideTextViewId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title here"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_marginTop="40dp"
+            />
+        <TextView
+            android:id="@+id/textDescriptionId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description Here"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="40dp"
+            />
+
+</LinearLayout>

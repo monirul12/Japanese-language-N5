@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#54e687"
+    android:orientation="vertical"
+    android:weightSum="4"
+    tools:context=".FeedbackActivity">
+
+   <LinearLayout
+       android:layout_weight="0.5"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       >
+       <EditText
+           android:textSize="17sp"
+           android:textStyle="bold"
+           android:id="@+id/nameEditTextId"
+           android:layout_marginRight="20dp"
+           android:layout_marginLeft="10dp"
+           android:hint="Enter your name"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           />
+
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+
+        <EditText
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:id="@+id/messageEditTextId"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="10dp"
+            android:hint="Enter your Message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+        <AutoCompleteTextView
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold|italic"
+            android:textSize="20sp"
+            android:hint="Enter your Country name "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/autoCompleteId"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:text="send"
+            android:id="@+id/sendButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:text="clear"
+            android:id="@+id/clearButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
