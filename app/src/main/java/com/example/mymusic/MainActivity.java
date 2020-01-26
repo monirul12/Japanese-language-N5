@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.Menu;
@@ -21,8 +22,6 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity{
 private Button nextButton;
 private CardView japaneseLesson,alphabetText;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -46,10 +45,13 @@ private CardView japaneseLesson,alphabetText;
         alphabetText.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent alphabet = new Intent(MainActivity.this,KanjiActivity.class);
+
+                Intent alphabet = new Intent(MainActivity.this,alphabetScreenActivity.class);
                 startActivity(alphabet);
 
             }
         });
+
+
     }
 }

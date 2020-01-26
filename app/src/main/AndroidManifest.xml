@@ -3,6 +3,8 @@
     package="com.example.mymusic">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.sensor.compass"
+        android:required="true" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +13,23 @@
         android:roundIcon="@drawable/music"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".kanji_03Activity"></activity>
+        <activity android:name=".vocabulary_03Activity"></activity>
+        <activity android:name=".vocabulary_02Activity" />
+        <activity android:name=".vocabulary_01Activity" />
+        <activity android:name=".kanji_14Activity" />
+        <activity android:name=".kanji_13Activity" />
+        <activity android:name=".kanji_12Activity" />
+        <activity android:name=".kanji_11Activity" />
+        <activity android:name=".kanji_10Activity" />
+        <activity android:name=".katakanaActivity" />
+        <activity android:name=".alphabetScreenActivity" />
+        <activity android:name=".kanji_09Activity" />
+        <activity android:name=".kanji_08Activity" />
+        <activity android:name=".kanji_07Activity" />
+        <activity android:name=".kanji_06Activity" />
+        <activity android:name=".kanji_05Activity" />
+        <activity android:name=".kanji_04Activity" />
+        <activity android:name=".kanji_03Activity" />
         <activity android:name=".lisening_01Activity" />
         <activity android:name=".kanji_02Activity" />
         <activity android:name=".kanji_01Activity" />

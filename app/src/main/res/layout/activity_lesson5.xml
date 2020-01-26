@@ -166,7 +166,7 @@
             android:foreground="?selectableItemBackground"
             android:clickable="true"
             android:layout_margin="10dp"
-            android:id="@+id/kanjiCardViewId"
+            android:id="@+id/kanji5CardViewId"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent">
