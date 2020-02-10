@@ -4,17 +4,46 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
+import android.widget.ExpandableListView;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 public class vocabulary_01Activity extends AppCompatActivity {
-    private ViewPager viewPager;
-    private vocabulary1SlideAdapter myAdapter;
+    private ExpandableListView expandableListView;
+    private CustomAdapter1 customAdapter1;
+
+    List<String> listDataHeader;
+    HashMap<String,List<String>> listDataChild;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vocabulary_01);
+        prepareListdata();
 
-        viewPager = findViewById(R.id.viewpager);
-        myAdapter = new vocabulary1SlideAdapter(this);
-        viewPager.setAdapter(myAdapter);
+        expandableListView = findViewById(R.id.expandableListView1);
+        customAdapter1 = new CustomAdapter1(this,listDataHeader,listDataChild);
+        expandableListView.setAdapter(customAdapter1);
+
+    }public void prepareListdata()
+
+    {
+        String[] headerString = getResources().getStringArray(R.array.vocabulary01_title);
+        String[] childString = getResources().getStringArray(R.array.vocabulary01_description);
+
+        listDataHeader = new ArrayList<>();
+        listDataChild = new HashMap<>();
+
+        for (int i=0; i<headerString.length;i++)
+        {
+
+            listDataHeader.add(headerString[i]);
+            List<String> child = new ArrayList<>();
+            child.add(childString[i]);
+
+            listDataChild.put(listDataHeader.get(i),child);
+
+        }
     }
 }

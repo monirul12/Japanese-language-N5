@@ -9,7 +9,7 @@ import android.view.View;
 
 public class lesson10Activity extends AppCompatActivity implements View.OnClickListener {
 
-    private CardView grammer10CardView,kanji10CardView;
+    private CardView grammer10CardView,kanji10CardView,vocabulary10CardView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,9 @@ public class lesson10Activity extends AppCompatActivity implements View.OnClickL
 
         kanji10CardView = findViewById(R.id.kanji10CardViewId);
         kanji10CardView.setOnClickListener(this);
+
+        vocabulary10CardView = findViewById(R.id.vocabulary10CardViewId);
+        vocabulary10CardView.setOnClickListener(this);
     }
 
     @Override
@@ -34,6 +37,9 @@ public class lesson10Activity extends AppCompatActivity implements View.OnClickL
             Intent kanji10 = new Intent(lesson10Activity.this,kanji_10Activity.class);
             startActivity(kanji10);
 
+        }else if (v.getId()==R.id.vocabulary10CardViewId){
+            Intent vocabulary10 = new Intent(lesson10Activity.this,vocabulary_10Activity.class);
+            startActivity(vocabulary10);
         }
 
 

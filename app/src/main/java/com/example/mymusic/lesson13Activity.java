@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class lesson13Activity extends AppCompatActivity implements View.OnClickListener {
-    private CardView grammer13CardView,kanji13CardView;
+    private CardView grammer13CardView,kanji13CardView,vocabulary13CardView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,6 +18,9 @@ public class lesson13Activity extends AppCompatActivity implements View.OnClickL
         grammer13CardView.setOnClickListener(this);
         kanji13CardView  = findViewById(R.id.kanji13CardViewId);
         kanji13CardView.setOnClickListener(this);
+        vocabulary13CardView = findViewById(R.id.vocabulary13CardViewId);
+        vocabulary13CardView.setOnClickListener(this);
+
     }
 
     @Override
@@ -30,6 +33,12 @@ public class lesson13Activity extends AppCompatActivity implements View.OnClickL
 
             Intent kanji13 = new Intent(lesson13Activity.this,kanji_13Activity.class);
             startActivity(kanji13);
+
+        }else if (v.getId() == R.id.vocabulary13CardViewId){
+
+            Intent vocabulary13 = new Intent(lesson13Activity.this,vocabulary_13Activity.class);
+            startActivity(vocabulary13);
+
         }
 
     }

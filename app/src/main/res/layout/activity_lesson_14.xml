@@ -6,10 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".lesson_14Activity">
 
-    <androidx.viewpager.widget.ViewPager
-        android:id="@+id/viewpager"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </androidx.viewpager.widget.ViewPager>
+    <ExpandableListView
+        android:id="@+id/expandableListView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        >
+    </ExpandableListView>
 
 </LinearLayout>

@@ -5,18 +5,48 @@ import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ExpandableListView;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 public class kanji_03Activity extends AppCompatActivity {
-    private ViewPager viewPager;
-    private kanji3SlideAdapter myAdapter;
+    private ExpandableListView expandableListView;
+    private CustomAdapter1 customAdapter1;
+
+    List<String> listDataHeader;
+    HashMap<String,List<String>> listDataChild;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kanji_03);
 
-        viewPager = findViewById(R.id.viewpager);
-        myAdapter = new kanji3SlideAdapter(this);
-        viewPager.setAdapter(myAdapter);
+        prepareListdata();
+
+        expandableListView = findViewById(R.id.expandableListView1);
+        customAdapter1 = new CustomAdapter1(this,listDataHeader,listDataChild);
+        expandableListView.setAdapter(customAdapter1);
+
+    }public void prepareListdata()
+
+    {
+        String[] headerString = getResources().getStringArray(R.array.kanji03_titles);
+        String[] childString = getResources().getStringArray(R.array.kanji03_details);
+
+        listDataHeader = new ArrayList<>();
+        listDataChild = new HashMap<>();
+
+        for (int i=0; i<headerString.length;i++)
+        {
+
+            listDataHeader.add(headerString[i]);
+            List<String> child = new ArrayList<>();
+            child.add(childString[i]);
+
+            listDataChild.put(listDataHeader.get(i),child);
+
+        }
     }
 
 }

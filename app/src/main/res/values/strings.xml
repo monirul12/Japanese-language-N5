@@ -21,25 +21,4989 @@
     </string-array>
 
 
-    <string-array name="abbriviation_header">
-        <item>aa</item>
-        <item>acs</item>
-        <item>cdrcp</item>
-        <item>ebics</item>
-        <item>fsc</item>
-        <item>hkea</item>
-        <item>mepe</item>
+    //for vocabulary arraylist
+    <string-array name="vocabulary01_title">
+        <item>わたし\n
+        watashi
+        </item>
+        <item>わたしたち\n
+        watashitachi
+        </item>
+        <item>あなた\n
+        anata
+        </item>
+        <item>あのひと\n
+        ano hito
+        </item>
+        <item>あのかた\n
+        ano kata
+        </item>
+        <item>みなさん\n
+        minasan
+        </item>
+        <item>〜さん\n
+        -san
+        </item>
+        <item>〜ちゃん\n
+        -chan
+        </item>
+        <item>〜くん\n
+            -kun
+        </item>
+        <item>〜じん\n
+        -jin
+        </item>
+        <item>せんせい\n
+        sensei
+        </item>
+        <item>きょうし\n
+        kyoushi
+        </item>
+        <item>がくせい\n
+        gakusei
+        </item>
+        <item>かいしゃいん\n
+        kaishain
+        </item>
+        <item>しゃいん\n
+        shain
+        </item>
+        <item>ぎんこういん\n
+        ginkou in
+        </item>
+        <item>いしゃ\n
+        isha
+        </item>
+        <item>けんきゅうしゃ\n
+            kenkyuu sha
+        </item>
+        <item>エンジニア\n
+        enjinia
+        </item>
+        <item>だいがく\n
+        daigaku
+        </item>
+        <item>びょういん\n
+            byouin
+        </item>
+
+        <item>でんき\n
+        denki
+        </item>
+        <item>だれ（どなた）\n
+        dare(donota)
+        </item>
+        <item>〜さい\n
+        - sai
+        </item>
+        <item>なんさい（おいくつ）\n
+        nan sai (oikutsu)
+        </item>
+        <item>はい\n
+        hai
+        </item>
+        <item>いいえ\n
+        iie
+        </item>
+        <item>しつれいですが\n
+        shitsurei desu ga
+        </item>
+        <item>おなまえは？\n
+        onamae ha ?
+        </item>
+        <item>はじめまして。\n
+        hajimemashite
+        </item>
+        <item>どうぞよろしくおねがいします。\n
+        douzo yoroshiku onegaishimasu
+        </item>
+        <item>こちらは〜さんです。\n
+        kochira wa - san desu
+        </item>
+        <item>〜からきました\n
+        - kara kimashita
+        </item>
+        <item>アメリカ\n
+        amerika
+        </item>
+        <item>イギリス\n
+        igirisu
+        </item>
+        <item>インド\n
+        indo
+        </item>
+        <item>インドネシア\n
+        indoneshia
+        </item>
+        <item>かんこく\n
+        kannkoku
+        </item>
+        <item>タイ\n
+            tai
+        </item>
+        <item>ちゅうごく\n
+        chugoku
+        </item>
+        <item>ドイツ\n
+        doitsu
+        </item>
+        <item>にほん\n
+            nihon
+        </item>
+        <item>フランス\n
+            furansu
+        </item>
+        <item>ブラジル\n
+            burajiru
+        </item>
+        <item>さくらだいがく\n
+            sakura daigaku
+        </item>
+        <item>ふじだいがく\n
+            fuji daigaku
+        </item>
+        <item>IMC/パワーでんき/ブラジルエアー\n
+            IMC/ Pawaa denki / burajirueaa
+        </item>
+        <item>AKC\n
+            AKC
+        </item>
+        <item>こうべびょういん\n
+            koube byouin
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary01_description">
+        <item>আমি।\n</item>
+        <item>আমরা।\n</item>
+        <item>আপনি/তুমি।\n</item>
+        <item>ঐ বাক্তি।\n</item>
+        <item>ঐ বাক্তি (সন্মান সূচক)।\n</item>
+        <item>আপনারা সকলে /শুধিবৃন্দ।\n</item>
+        <item>জনাব/বেগম (নামের সাথে ব্যাবহার করা হয়)।\n</item>
+        <item>ছোট শিশুর নামের সাথে ব্যাবহার করা হয়।\n</item>
+        <item>বালকের নামের সাথে ব্যাবহার করা হয়।\n</item>
+        <item>নাগরিত্ব বোঝানোর জন্য ব্যাবহার করা হয়।
+            \nযেমনঃ amerikajin (আমেরিকান)।\n</item>
+        <item>শিক্ষক (তবে নিজের পেশা বলার ক্ষেত্রে ব্যাবহার করা হয় না ।)\n</item>
+        <item>শিক্ষক।\n</item>
+        <item>ছাত্র/ছাত্রী।\n</item>
+        <item>কোম্পানিতে চাকরিরত বাক্তি।\n</item>
+        <item> যেকোনো নামের কোম্পানিতে চাকরিরত বাক্তি। যেমনঃJMCতে চাকরিরত বাক্তি।\n</item>
+        <item> কোন ব্যাংকে চাকরিরত বাক্তি।\n</item>
+        <item> ডাক্তার।\n</item>
+        <item> গবেষক।\n</item>
+        <item> প্রকৌশলী।\n</item>
+        <item> বিশ্ববিদ্যালয়।\n</item>
+        <item> হাসপাতাল।\n</item>
+        <item> বিদ্যুৎ।\n</item>
+        <item> কে (সন্মানসূচক)।\n</item>
+        <item> - বৎসর বয়স।\n</item>
+        <item> বয়স কত?\nবয়স কত সন্মান করে বলার সময় ব্যাবহার করা হয়।\n</item>
+        <item> জি/হ্যাঁ।\n</item>
+        <item> না\n</item>
+        <item> যদি কিছু মনে না করেন।\n</item>
+        <item> আপনার নাম জানতে পারি কি ?\n</item>
+        <item> আপনার সাথে প্রথমবারের মত দেখা হলো।নিজের পরিচয় দেওয়ার সময় ব্যাবহার করা হয় ।\n</item>
+        <item> আপনার সাথে পরিচিত হয়ে আমি আনন্দিত ।\n</item>
+        <item> ইনি হলেন জনাব/ বেগম।\n</item>
+        <item> আমি এসেছি - থেকে।\n</item>
+        <item> আমেরিকা / যুক্তরাস্ট।\n</item>
+        <item> যুক্তরাজ্য।\n</item>
+        <item> ভারত।\n</item>
+        <item> ইন্দোনেশিয়া।\n</item>
+        <item> দক্ষিণ কোরিয়া\n</item>
+        <item> থাইল্যান্ড\n</item>
+        <item> চীন\n</item>
+        <item> জার্মানি\n</item>
+        <item>　জাপান\n</item>
+        <item>　ফ্রান্স\n</item>
+        <item>　ব্রাজিল\n</item>
+        <item>　সাকুরা বিশ্ববিদ্যালয়।\n</item>
+        <item>　ফুজি বিশ্ববিদ্যালয়।\n</item>
+        <item>　ব্রাজিল এয়ারলাইন্স।\n</item>
+        <item>　কাল্পনিক প্রতিষ্ঠান।\n</item>
+        <item>　কোবে হাসপাতাল।\n</item>
     </string-array>
 
-    <string-array name="abbriviation_View_child">
-        <item>allitration and assinance</item>
-        <item>acredetting commision for school</item>
-        <item>contractive development ressorse center programme </item>
-        <item>Emergence behavior of itergetted cellular systems </item>
-        <item>fundamental of sciense </item>
-        <item>HongKOng Examination authority</item>
-        <item>Mechanecal and process Engineering</item>
+    <string-array name="vocabulary02_title">
+        <item>これ\n
+        kore
+        </item>
+        <item>それ\n
+        sore
+        </item>
+        <item>あれ\n
+        are
+        </item>
+        <item>この〜\n
+        kono-
+        </item>
+        <item>その〜\n
+        sono-
+        </item>
+        <item>あの〜\n
+       ano-
+        </item>
+        <item>ほん\n
+        hon
+        </item>
+        <item>じしょ\n
+        jisho
+        </item>
+        <item>ざっし\n
+            zasshi
+        </item>
+        <item>しんぶん\n
+        shinbun
+        </item>
+        <item>ノート\n
+        nooto
+        </item>
+        <item>てちょう\n
+        techou
+        </item>
+        <item>めいし\n
+        meishi
+        </item>
+        <item>カード\n
+        kaado
+        </item>
+        <item>テレホンカード\n
+        terehonkaado
+        </item>
+        <item>えんぴつ\n
+        enpitsu
+        </item>
+        <item>ボールペン\n
+        boorupen
+        </item>
+        <item>シャープペンシル\n
+            shaapupen shiru
+        </item>
+        <item>かぎ\n
+        kagi
+        </item>
+        <item>とけい\n
+        tokei
+        </item>
+        <item>かさ\n
+            kasa
+        </item>
+
+        <item>かばん\n
+        kaban
+        </item>
+        <item>カセットテープ\n
+        kasetto tepu
+        </item>
+        <item>テープレコーダー\n
+        teepu rekoodaa
+        </item>
+        <item>テレビ\n
+        terebi
+        </item>
+        <item>ラジオ\n
+        rajio
+        </item>
+        <item>カメラ\n
+        kamera
+        </item>
+        <item>コンピューター\n
+        konpyuutaa
+        </item>
+        <item>じどうしゃ\n
+        jidousha
+        </item>
+        <item>つくえ\n
+        tsukue
+        </item>
+        <item>いす\n
+        isu
+        </item>
+        <item>チョコレート\n
+        chokoreeto
+        </item>
+        <item>コーヒー\n
+        koohii
+        </item>
+        <item>えいが\n
+        eiga
+        </item>
+        <item>にほんご\n
+        nihongo
+        </item>
+        <item>〜ご\n
+        -go
+        </item>
+        <item>なん\n
+        nan
+        </item>
+        <item>そう\n
+        sou
+        </item>
+        <item>ちがいます\n
+            chigaimasu
+        </item>
+        <item>そうですか\n
+        sou desu ka
+        </item>
+        <item>あのう\n
+        anou
+        </item>
+        <item>ほんのきもちです\n
+            hon no kimochi desu
+        </item>
+        <item>どうぞ\n
+            douzo
+        </item>
+        <item>どうもありがとうございます\n
+            doumo arigatou gozaimasu
+        </item>
+        <item>これからおせわになります。\n
+            kore kara osewa ni narimasu
+        </item>
+        <item>こちらこそよろしく\n
+            kochira koso yoroshiku
+        </item>
+
     </string-array>
+    <string-array name="vocabulary02_description">
+        <item>এটা (বস্তু)\n</item>
+        <item>সেটা (বস্তু)\n</item>
+        <item>ঐটা(বস্তু)\n</item>
+        <item>এই- (বস্তু বা প্রাণী।)\n</item>
+        <item>ওই(বস্তু বা প্রাণী।)\n</item>
+        <item>ঐ(একটু দুরের বস্তু বা প্রাণী ।)\n</item>
+        <item>বই\n</item>
+        <item>অভিধানী / ডিকশনারি।\n</item>
+        <item>ম্যাগাজিন।\n</item>
+        <item>খবরের কাগজ।\n</item>
+        <item>নোটবুক\n</item>
+        <item>পকেটে রাখার/ডায়েরি।\n</item>
+        <item>ভিজিটিং কার্ড।\n</item>
+        <item>কার্ড/ তাস\n</item>
+        <item> টেলিফোন কার্ড।\n</item>
+        <item> পেন্সিল।\n</item>
+        <item> বলপেন।\n</item>
+        <item> শার্প পেন্সিল।\n</item>
+        <item> চাবি।\n</item>
+        <item> ঘড়ি।\n</item>
+        <item> ছাতা।\n</item>
+        <item> ব্যাগ/ ব্রিফকেস।\n</item>
+        <item>ডক্যাসেট টেপ।\n</item>
+        <item> টেপ রেকর্ডার।\n</item>
+        <item> টেলিভিশন।\n</item>
+        <item> রেডিও/বেতার।\n</item>
+        <item> ক্যামেরা।\n</item>
+        <item> কম্পিউটার।\n</item>
+        <item> মটর গাড়ী।\n</item>
+        <item> ডেস্ক/টেবিল।\n</item>
+        <item> চেয়ার।\n</item>
+        <item> চকলেট।\n</item>
+        <item> কফি।\n</item>
+        <item> ইংরেজি ভাষা।\n</item>
+        <item> জাপানি ভাষা।\n</item>
+        <item> -ভাষা।\n</item>
+        <item> কি?।\n</item>
+        <item> তাই।\n</item>
+        <item> না সেটা নয়।/আপনার বক্তব্য ঠিক নয়।\n</item>
+        <item> আচ্ছা/তাই নাকি?\n</item>
+        <item> কিছু বলার পূর্বে দ্বিধাবোধ করা জন্য ব্যাবহার হয়।\n</item>
+        <item> এটা তো কিছুই না। /সামান্য কৃতজ্ঞতার প্রতীক।\n</item>
+        <item> অনুগ্রহ পূর্বক।\n</item>
+        <item>　আপনাকে অনেক ধন্যবাদ।\n</item>
+        <item>　এখন থেকে আপনার অনুগ্রহ/সাহায্য আশা করি ।\n</item>
+        <item>　আমার তরফ থেকে একইভাবে আশা করি।\n</item>
+    </string-array>
+
+    <string-array name="vocabulary03_title">
+        <item>ここ\n
+        koko
+        </item>
+        <item>そこ\n
+        soko
+        </item>
+        <item>あそこ\n
+        asoko
+        </item>
+        <item>どこ\n
+        doko
+        </item>
+        <item>こちら\n
+        kochira
+        </item>
+        <item>そちら\n
+       sochira
+        </item>
+        <item>あちら\n
+        achira
+        </item>
+        <item>どちら\n
+        dochira
+        </item>
+        <item>きょうしつ\n
+        kyoushitsu
+        </item>
+        <item>しょくどう\n
+        shokudou
+        </item>
+        <item>じむしょ\n
+        jimusho
+        </item>
+        <item>かいぎしつ\n
+        kaigishitsu
+        </item>
+        <item>うけつけ\n
+        uketsuke
+        </item>
+        <item>へや\n
+        heya
+        </item>
+        <item>おてあらい\n
+        otearai
+        </item>
+        <item>かいだん\n
+        kaidan
+        </item>
+        <item>おくに\n
+        okuni
+        </item>
+        <item>かいしゃ\n
+        kaisha
+        </item>
+        <item>うち\n
+        uchi
+        </item>
+        <item>でんわ\n
+        denwa
+        </item>
+        <item>くつ\n
+        kutsu
+        </item>
+        <item>たばこ\n
+            tabako
+        </item>
+
+        <item>うりば\n
+        uriba
+        </item>
+        <item>ちか\n
+        chika
+        </item>
+        <item>なんがい\n
+        nan gai
+        </item>
+        <item>いくら\n
+        ikura
+        </item>
+        <item>ひゃく\n
+        hyaku
+        </item>
+        <item>せん\n
+        sen
+        </item>
+        <item>まん\n
+        man
+        </item>
+        <item>〜えん\n
+        -en
+        </item>
+        <item>〜がい\n
+        -gai
+        </item>
+        <item>すみません\n
+        sumimasen
+        </item>
+        <item>〜でございます\n
+        -degozaimasu
+        </item>
+        <item>をみせてください\n
+        -wo misete kudasai
+        </item>
+        <item>じゃ\n
+        ja
+        </item>
+        <item>をください\n
+        - wo kudasai
+        </item>
+        <item>しんおおさか\n
+        shin osaka
+        </item>
+        <item>イタリア\n
+        itaria
+        </item>
+        <item>スイス\n
+        suisu
+        </item>
+        <item>ロビー\n
+            robii
+        </item>
+        <item>エレベーター\n
+        ere-beta-
+        </item>
+        <item>エスカレーター\n
+        esukare-ta-
+        </item>
+        <item>ワイン\n
+            wain
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary03_description">
+        <item>এখানে।(আমার কাছের স্থান।)\n</item>
+        <item>ওখানে।(আপনার কাছের স্থান।)\n\n</item>
+        <item>ঐখানে।(একটু দুরের স্থান।)\n</item>
+        <item>কোথায়।\n</item>
+        <item>এই দিকে।(ここএর মার্জিত রূপ ।)\n</item>
+        <item>ওই দিকে।(আপনার কাছের স্থান।)\n</item>
+        <item>ঐ দিকে।(একটু দুরের স্থান।)\n</item>
+        <item>কোনদিকে।(どこএর মার্জিত রূপ ।)\n</item>
+        <item>ক্লাসরুম।\n</item>
+        <item>ক্যান্টিন।\n</item>
+        <item>অফিস রুম।\n</item>
+        <item> মিটিংরুম।\n</item>
+        <item>রিশিপশন ডেস্ক।\n</item>
+        <item> রুম/কক্ষ।\n</item>
+        <item> টয়লেট।\n</item>
+        <item> সিঁড়ি।\n</item>
+        <item> আপনার দেশ।\n</item>
+        <item> কোম্পানি।\n</item>
+        <item> বাসা/বাড়ি।\n</item>
+        <item> টেলিফোন।\n</item>
+        <item>জুতা\n</item>
+        <item> সিগারেট।\n</item>
+        <item>ডিপার্টমেন্ট ষ্টোর এর বিভিন্ন কাউন্টার।\n</item>
+        <item> মাটির নিচের তলা।\n</item>
+        <item>কোনতলা?\n</item>
+        <item>কত দাম?\n</item>
+        <item>একশত।\n</item>
+        <item> এক হাজার।\n</item>
+        <item>দশ হাজার।\n</item>
+        <item>-ইয়েন।\n</item>
+        <item>-তলা।\n</item>
+        <item>একটু শুনুন।\n</item>
+        <item>-দেসু এর মার্জিত রূপ।\n</item>
+        <item>দয়াকরে -টা দেখাবেন।\n</item>
+        <item> তাহলে।\n</item>
+        <item>দয়া করে - টা আমাকে দিন।\n</item>
+        <item>ওওসাকার একটি রেলস্টেশনএর নাম।\n</item>
+        <item>ইতালি।\n</item>
+        <item>সুইজারল্যান্ড।\n</item>
+        <item>লবি।\n</item>
+        <item>লিফট।\n</item>
+        <item>চলন্ত সিঁড়ি।\n</item>
+        <item>　ওয়াইন।\n</item>
+    </string-array>
+
+    <string-array name="vocabulary04_title">
+        <item>おきます\n
+        okimasu
+        </item>
+        <item>ねます\n
+        nemasu
+        </item>
+        <item>はたらきます\n
+        hatarakimasu
+        </item>
+        <item>やすみます\n
+        yasumimasu
+        </item>
+        <item>べんきょうします\n
+        benkyoushimasu
+        </item>
+        <item>おわります\n
+        owarimasu
+        </item>
+        <item>デーパト\n
+        depato
+        </item>
+        <item>ぎんこう\n
+        ginkou
+        </item>
+        <item>ゆうびんきょく\n
+        yuubinkyoku
+        </item>
+        <item>としょかん\n
+        toshokan
+        </item>
+        <item>びじゅつかん\n
+        bijutsukan
+        </item>
+        <item>いま\n
+        ima
+        </item>
+        <item>〜じ\n
+        -ji
+        </item>
+        <item>〜ふん（ぶん）\n
+        -fun (pun)
+        </item>
+        <item>はん\n
+        han
+        </item>
+        <item>なんじ\n
+        nan ji
+        </item>
+        <item>なんぷん\n
+        nan pun
+        </item>
+        <item>ごぜん\n
+        gozen
+        </item>
+        <item>ごご\n
+        gogo
+        </item>
+        <item>あさ\n
+        asa
+        </item>
+        <item>ひる\n
+        hiru
+        </item>
+        <item>ばん（よる）\n
+        ban (yoru)
+        </item>
+        <item>おととい\n
+        ototoi
+        </item>
+        <item>きのう\n
+        kinou
+        </item>
+        <item>きょう\n
+        kyou
+        </item>
+        <item>あした\n
+        ashita
+        </item>
+        <item>あさって\n
+        ashita</item>
+        <item>けさ\n
+        kesa
+        </item>
+        <item>こんばん\n
+        konban
+        </item>
+        <item>やすみ\n
+        yasumi
+        </item>
+        <item>ひるやすみ\n
+        hiru yasumi
+        </item>
+        <item>まいあさ\n
+        mai asa
+        </item>
+        <item>まいばん\n
+        mai ban
+        </item>
+        <item>まいにち\n
+        mai nichi
+        </item>
+        <item>げつようび\n
+        getsu youbi
+        </item>
+        <item>かようび\n
+        ka youbi
+        </item>
+        <item>すいようび\n
+        sui youbi
+        </item>
+        <item>もくようび\n
+        moku youbi
+        </item>
+        <item>きんようび\n
+        kin youbi
+        </item>
+        <item>どようび\n
+        do youbi
+        </item>
+        <item>にちようび\n
+        nichi youbi
+        </item>
+        <item>なんようび\n
+        nan youbi
+        </item>
+        <item>ばんごう\n
+        bangou
+        </item>
+        <item>なんばん\n
+        nan ban
+        </item>
+        <item>〜から\n
+        -kara
+        </item>
+        <item>〜まで\n
+        -made
+        </item>
+        <item>〜と〜\n
+        -to-
+        </item>
+        <item>そちら\n
+        sochira
+        </item>
+        <item>たいへんですね\n
+        taihen desu ne
+        </item>
+        <item>えーと\n
+        e-to
+        </item>
+        <item>おねがいします\n
+        onegaishimasu
+        </item>
+        <item>かしこまりました\n
+        kashikomarimashita
+        </item>
+        <item>おといあわせのばんごう\n
+        otoiawasenobangou
+        </item>
+        <item>どうぞありがとうございました\n
+        douzo youroshiku onegaishimasu
+        </item>
+        <item>ニューヨーク\n
+        nyuuyouku
+        </item>
+        <item>ペキン\n
+        pekin
+        </item>
+        <item>ロンドン\n
+        rondon
+        </item>
+        <item>ロザンゼルス\n
+        rosanzerusu
+        </item>
+        <item>やまだびじゅつかん\n
+        yamada bijutsukan
+        </item>
+        <item>おおさかデパート\n
+        oosaka depato
+        </item>
+        <item>みどりとしょかん\n
+        midori toshokan
+        </item>
+        <item>アップルぎんこう\n
+        appuru ginkou
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary04_description">
+        <item>ঘুম থেকে উঠা। / উঠবো।</item>
+        <item>ঘুমাব/ঘুমান।</item>
+        <item>কাজ করা।/কাজ করব।</item>
+        <item>বিশ্রাম করা।/ছুটি নেয়া।</item>
+        <item>পড়াশোনা করা।</item>
+        <item>শেষ করা।</item>
+        <item>ডিপার্টমেন্টাল ষ্টোর।</item>
+        <item>ব্যাংক।</item>
+        <item>পোস্ট অফিস।</item>
+        <item>লাইব্রেরি।</item>
+        <item>চারুকলা জাদুকর</item>
+        <item>এখন</item>
+        <item>- টা বাজে।(সময়)</item>
+        <item>- মিনিট।</item>
+        <item>অর্ধেক।</item>
+        <item>কয়টা বাজে?</item>
+        <item>কত মিনিট?</item>
+        <item>পূর্বাহ্ন,সকাল।</item>
+        <item>অপরাহ্ন,বিকাল।</item>
+        <item>সকালবেলা।</item>
+        <item>দুপুরবেলা।</item>
+        <item>রাত্রিবেলা।</item>
+        <item>গত পরশু</item>
+        <item>গতকাল</item>
+        <item>আজ</item>
+        <item>আগামীকাল</item>
+        <item>আগামী পরশু</item>
+        <item>আজ সকালে</item>
+        <item>আজ সন্ধায়/রাত্রে।</item>
+        <item>বিশ্রাম / ছুটি।</item>
+        <item>দুপুরের বিরতি।</item>
+        <item>রোজ সকালে।</item>
+        <item>রোজ রাত্রে।</item>
+        <item>রোজ /প্রতিদিন।</item>
+        <item>সোমবার।</item>
+        <item>মঙ্গলবার।</item>
+        <item>বুধবার।</item>
+        <item>বৃহস্পতিবার।</item>
+        <item>শুক্রবার।</item>
+        <item>শনিবার।</item>
+        <item>রবিবার।</item>
+        <item>কি বার?</item>
+        <item>নম্বর</item>
+        <item>কত নম্বর?</item>
+        <item>-থেকে</item>
+        <item>-পর্যন্ত</item>
+        <item>〜এবং〜</item>
+        <item>আপনার স্থান</item>
+        <item>বেশ কস্ট তাই না ?</item>
+        <item>আচ্ছা দেখি ।</item>
+        <item>অনুরোধ করছি।</item>
+        <item>অবশই(জনাব / জনাবা)</item>
+        <item>জে নম্বর জানতে চেয়েছিলেন।</item>
+        <item>অনেক ধন্যবাদ ।</item>
+        <item>নিউইয়র্ক।</item>
+        <item>বেইজিং।</item>
+        <item>লন্ডন।</item>
+        <item>লস এঞ্জেলস।</item>
+        <item>ইয়ামাদা জাদুঘর।</item>
+        <item>ওসাকা ডিপার্টমেন্টাল ষ্টোর।</item>
+        <item>মিদরি লাইব্রেরি কাল্পনিক নাম।</item>
+        <item>আপেল ব্যাঙ্ক পাল্পনিক নাম ।</item>
+    </string-array>
+
+    <string-array name="vocabulary05_title">
+        <item>いきます\n
+        ikimasu
+        </item>
+        <item>きます\n
+        kimasu
+        </item>
+        <item>かえります\n
+        kaerimasu
+        </item>
+        <item>がっこう\n
+        gakkou
+        </item>
+        <item>スーパー\n
+        suupaa
+        </item>
+        <item>えき\n
+        eki
+        </item>
+        <item>ひこうき\n
+        hikouki
+        </item>
+        <item>ふね\n
+        fune
+        </item>
+        <item>でんしゃ\n
+        densha
+        </item>
+        <item>ちかてつ\n
+        chikatetsu
+        </item>
+        <item>しんかんせん\n
+        shinkansen
+        </item>
+        <item>バス\n
+        ima
+        </item>
+        <item>タクシー\n
+        takushi
+        </item>
+        <item>じてんしゃ\n
+        jitensha
+        </item>
+        <item>あるいて\n
+        aruite
+        </item>
+        <item>ひと\n
+        hito
+        </item>
+        <item>ともだち\n
+        tomodachi
+        </item>
+        <item>かれ\n
+        kare
+        </item>
+        <item>かのじょ\n
+        kanojo
+        </item>
+        <item>かぞく\n
+        kazoku
+        </item>
+        <item>ひとりで\n
+        hitori de
+        </item>
+        <item>せんしゅう\n
+        senshuu
+        </item>
+        <item>こんしゅう\n
+        konshuu
+        </item>
+        <item>らいしゅう\n
+        raishuu
+        </item>
+        <item>せんげつ\n
+        sengetsu
+        </item>
+        <item>こんげつ\n
+        kongetsu
+        </item>
+        <item>らいげつ\n
+        raigetsu
+        </item>
+        <item>きょねん\n
+        kyonen
+        </item>
+        <item>ことし\n
+        kotoshi
+        </item>
+        <item>らいねん\n
+        rainen
+        </item>
+        <item>〜がつ\n
+        -gatsu
+        </item>
+        <item>なんがつ\n
+        nan gatsu
+        </item>
+        <item>ついたち\n
+        tsuitachi
+        </item>
+        <item>ふつか\n
+        futsuka
+        </item>
+        <item>みっか\n
+        mikka
+        </item>
+        <item>よっか\n
+        yokka
+        </item>
+        <item>いつか\n
+        itsuka
+        </item>
+        <item>むいか\n
+        muika
+        </item>
+        <item>なのか\n
+        nanoka
+        </item>
+        <item>ようか\n
+        youka
+        </item>
+        <item>ここのか\n
+        kokonoka
+        </item>
+        <item>とおか\n
+        tooka
+        </item>
+        <item>じゅうよっか\n
+        juuyokka
+        </item>
+        <item>はつか\n
+        hatsuka
+        </item>
+        <item>にじゅうよっか\n
+            nijuuyokka
+        </item>
+        <item>〜にち\n
+        -nichi
+        </item>
+        <item>なんにち\n
+        nan nichi
+        </item>
+        <item>いつ\n
+        itsu
+        </item>
+        <item>たんじょうび\n
+        tanjoubi
+        </item>
+        <item>ふつう\n
+        futsuu
+        </item>
+        <item>きゅうこう\n
+        kyuukou
+        </item>
+        <item>とっきゅう\n
+       tokkyuu
+        </item>
+        <item>つぎの\n
+        tsugino
+        </item>
+        <item>どういたしまして\n
+        douitashimashite
+        </item>
+        <item>〜ばんせん\n
+        -ban sen
+        </item>
+        <item>はかた\n
+        hakata
+        </item>
+        <item>ふしみ\n
+        fushimi
+        </item>
+        <item>こうしえん\n
+        koushien
+        </item>
+        <item>おおさかじょう\n
+        oosakajouu
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary05_description">
+        <item>যাওয়া।</item>
+        <item>আসা।</item>
+        <item> ফিরে যাওয়া / ফিরে আসা।</item>
+        <item> স্কুল / বিদ্যালয়।</item>
+        <item> সুপার মার্কেট।</item>
+        <item> স্টেশন।</item>
+        <item> উড়োজাহাজ।</item>
+        <item> জাহাজ।</item>
+        <item> ট্রেন।</item>
+        <item> মাটির নিচে চলা ট্রেন।</item>
+        <item> শিনকানসেন নামের দ্রুতগামী বুলেট ট্রেন।</item>
+        <item> বাস</item>
+        <item> ট্যাক্সি।</item>
+        <item> সাইকেল।</item>
+        <item> পায়ে হেটে।</item>
+        <item> মানুষ / লোক।</item>
+        <item> বন্ধু।</item>
+        <item> সে / ছেলে বন্ধু / প্রেমিক।</item>
+        <item> সে /　মেয়ে বন্ধু / প্রেমিকা।</item>
+        <item> পরিবার।</item>
+        <item> একা একা।</item>
+        <item> গত সপ্তাহ।</item>
+        <item> এই সপ্তাহ।</item>
+        <item> আগামী সপ্তাহ। </item>
+        <item> গত মাস।</item>
+        <item> এই মাস।</item>
+        <item> আগামী মাস।</item>
+        <item> গত বৎসর। </item>
+        <item> এই বৎসর।</item>
+        <item> আগামী বৎসর।</item>
+        <item> মাস।</item>
+        <item> কত মাস।</item>
+        <item> মাসের ১ম দিন/ তারিখ।</item>
+        <item> মাসের ২য় দিন/ তারিখ।</item>
+        <item> মাসের ৩য় দিন/ তারিখ।</item>
+        <item> মাসের ৪র্থ দিন/ তারিখ।</item>
+        <item> মাসের ৫ম দিন/ তারিখ।</item>
+        <item> মাসের ৬ দিন/ তারিখ।</item>
+        <item> মাসের ৭ম দিন/ তারিখ।</item>
+        <item> মাসের ৮ম দিন/ তারিখ।</item>
+        <item> মাসের ৯ম দিন/ তারিখ।</item>
+        <item> মাসের ১০ম দিন/ তারিখ।</item>
+        <item> মাসের ১৪ তম দিন/ তারিখ।</item>
+        <item> মাসের ২০ তম দিন/ তারিখ।</item>
+        <item> মাসের ২৪ তম দিন/ তারিখ।</item>
+        <item> - দিন।</item>
+        <item> মাসের কয় দিন/ কত তারিখ?</item>
+        <item> কবে / কখন?</item>
+        <item> জন্মদিন।</item>
+        <item> লোকাল ট্রেন।</item>
+        <item> এক্সপ্রেস ট্রেন।</item>
+        <item> বিশেষ এক্সপ্রেস ট্রেন।</item>
+        <item> পরবর্তী।</item>
+        <item> এর জন্য ধন্যবাদ দেয়ার দরকার নাই। এটা আমার কর্তব্য।</item>
+        <item> - প্লাটফরম।</item>
+        <item> কিউশুর একটা শহরের নাম।</item>
+        <item> কিউতোর একটা শহরের নাম।</item>
+        <item> ওসাকার একটি শহরের নাম। </item>
+        <item> ওসাকা ক্যাসেল।</item>
+    </string-array>
+
+    <string-array name="vocabulary06_title">
+        <item>০১) たべます\n
+        tabemasu
+        </item>
+        <item>০২) のみます\n
+        nomimasu
+        </item>
+        <item>০৩) すいます「たばこを〜」\n
+        suimasu [tabako wo-]
+        </item>
+        <item>০৪) みます\n
+        mimasu
+        </item>
+        <item>০৫) ききます\n
+        kikimasu
+        </item>
+        <item>০৬) よみます\n
+        yomimasu
+        </item>
+        <item>০৭) かきます\n
+        kikimasu
+        </item>
+        <item>০৮) かいます\n
+        kaimasu
+        </item>
+        <item>০৯) とります「しゃしんを〜」\n
+        torimasu[shashin wo - ]
+        </item>
+        <item>১০) します\n
+        shimasu
+        </item>
+        <item>১১) あいます「ともだちに」\n
+        aimasu [tomodachi ni - ]
+        </item>
+        <item>১২) ごはん\n
+        gohan
+        </item>
+        <item>১৩) あさごはん\n
+        asa gohan
+        </item>
+        <item>১৪) ひるごはん\n
+        hiru gohan
+        </item>
+        <item>১৫) ばんごはん\n
+        ban gohan
+        </item>
+        <item>১৬) パン\n
+        pan
+        </item>
+        <item>১৭) たまご\n
+        tamago
+        </item>
+        <item>১৮) にく\n
+        niku
+        </item>
+        <item>১৯) さかな\n
+        sakana
+        </item>
+        <item>২০) やさい\n
+        yasai
+        </item>
+        <item>২১) くだもの\n
+        kudamono
+        </item>
+        <item>২২) みず\n
+        mizu
+        </item>
+        <item>২৩) おちゃ\n
+        ocha
+        </item>
+        <item>২৪) こうちゃ\n
+        koucha
+        </item>
+        <item>২৫) ぎゅうにゅう「ミルク」\n
+        gyunyu [miruku]
+        </item>
+        <item>২৬) ジュース\n
+        juusu
+        </item>
+        <item>২৭) ビール\n
+        biiru
+        </item>
+        <item>২৮) 「お」さけ\n
+        osake
+        </item>
+        <item>২৯) ビデオ\n
+        bideo
+        </item>
+        <item>৩০) えいが\n
+        eiga
+        </item>
+        <item>৩১) CD\n
+        CD
+        </item>
+        <item>৩২) てがみ\n
+        tegami
+        </item>
+        <item>৩৩) レポート\n
+        rpooto
+        </item>
+        <item>৩৪) しゃしん\n
+        shashin
+        </item>
+        <item>৩৫) みせ\n
+        mise
+        </item>
+        <item>৩৬) レストラン\n
+            resutoran
+        </item>
+        <item>৩৭) にわ\n
+        niwa
+        </item>
+        <item>৩৮) しゅくだい\n
+        shukudai
+        </item>
+        <item>৩৯) テニス\n
+        tenisu
+        </item>
+        <item>৪০) サッカー\n
+        sakkaa
+        </item>
+        <item>৪১)「お」はなみ\n
+        hanami
+        </item>
+        <item>৪২) なに\n
+        nani
+        </item>
+        <item>৪৩) いっしょに\n
+        isshoni
+        </item>
+        <item>৪৪) ちょっと\n
+            chtto
+        </item>
+        <item>৪৫) いつも\n
+        itsumo
+        </item>
+        <item>৪৬) ときどき\n
+        tokidoki
+        </item>
+        <item>৪৭) それから\n
+        sorekara
+        </item>
+        <item>৪৮) ええ\n
+        ee
+        </item>
+        <item>৪৯) いいですね\n
+        ii desu ne
+        </item>
+        <item>৫০) わかりました\n
+        wakarimashita
+        </item>
+        <item>৫১) なんですか\n
+       nan desu ka
+        </item>
+        <item>৫২) じゃ、また「あした」\n
+        ja mata ashita
+        </item>
+        <item>৫৩) メキシコ\n
+       mekishiko
+        </item>
+        <item>৫৪) おおさかじょうこうえん\n
+        oosakajoukouen
+        </item>
+        <item>৫৫) きります\n
+        kirimasu
+        </item>
+
+        <item>৫৬) おくります\n
+        okurimasu
+        </item>
+        <item>৫৭) あげます\n
+        agemasu
+        </item>
+        <item>৫৮) もらいます\n
+        moraimasu
+        </item>
+        <item>৬০) かします\n
+        kashimasu
+        </item>
+        <item>৬১) かります\n
+        karimasu
+        </item>
+        <item>৬২) おしえます\n
+        oshiemasu
+        </item>
+        <item>৬৩) ならいます\n
+        naraimasu
+        </item>
+        <item>৬৪) かけます「でんわを〜」\n
+        kakemasu[denwa wo]
+        </item>
+        <item>৬৫) て\n
+        te
+        </item>
+        <item>৬৬) はし\n
+        hashi
+        </item>
+        <item>৬৭) スポーン\n
+        supoon
+        </item>
+        <item>৬৮) ナイフ\n
+        naifu
+        </item>
+        <item>৬৯) フォーク\n
+        fooku
+        </item>
+        <item>৭০) はさみ\n
+        hasami
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary06_description">
+        <item> খাওয়া।</item>
+        <item> পান করা।</item>
+        <item> ধূমপান বা বায়ু সেবন করা।[সিগারেট পান করা]।</item>
+        <item> দেখা বা তাকানো।</item>
+        <item> শোনা বা স্রবণ করা।</item>
+        <item> পড়া।</item>
+        <item> লেখা/ছবি আঁকা।</item>
+        <item> ক্রয় করা।</item>
+        <item> তলা (ফটো)।</item>
+        <item> করা।</item>
+        <item> দেখা করা।(বন্ধুর সাথে।)</item>
+        <item> ভাত/খাবার।</item>
+        <item> সকালের খাবার।</item>
+        <item> দুপুরের খাবার।</item>
+        <item> রাতের খাবার।</item>
+        <item> রুটি।</item>
+        <item> ডিম।</item>
+        <item> মাংস।</item>
+        <item> মাছ।</item>
+        <item> তরি-তরকারি।</item>
+        <item> ফলমূল।</item>
+        <item> পানি।</item>
+        <item> চা / সবুজ চা।</item>
+        <item> চা / কালো চা।</item>
+        <item> গরুর দুধ।</item>
+        <item> জুস।</item>
+        <item> বিয়ার।</item>
+        <item> জাপানিজ রাইস ওয়াইন/ এলকোহল যুক্ত পানীয় দ্রব্য।</item>
+        <item> ভিডিও টেপ / ডেক।</item>
+        <item> মুভি / চলচ্চিত্র।</item>
+        <item> সিডি।</item>
+        <item> চিঠি।</item>
+        <item> রিপোর্ট।</item>
+        <item> ফটো</item>
+        <item> দোকান/ষ্টোর।</item>
+        <item> রেস্টুরেন্ট।</item>
+        <item> বাগান।</item>
+        <item> বাড়ির কাজ।</item>
+        <item> টেনিস।</item>
+        <item> ফুটবল।</item>
+        <item> চেরিব্লসোম দেখা।</item>
+        <item> কি?</item>
+        <item> একত্রে।</item>
+        <item> সামান্য একটু সময়/ দ্রব্য।</item>
+        <item> সবসময় / সাধারণত।</item>
+        <item> মাঝে মাঝে।</item>
+        <item> তারপর।</item>
+        <item> হ্যাঁ।</item>
+        <item> সেটা ভাল।</item>
+        <item> ঠিক আছে।/বুঝেছি।</item>
+        <item> জি বলুন / আপনার জন্য কি করতে পারি?</item>
+        <item> তাহলে দেখা হবে আগামীকাল ।</item>
+        <item> মেক্সিকো।</item>
+        <item> ওসাকা কাশল পার্ক।</item>
+        <item> কাটা / স্লাইস করা।</item>
+        <item> পাঠানো।</item>
+        <item> দেওয়া।</item>
+        <item> পাওয়া।</item>
+        <item> ধার দেওয়া।</item>
+        <item> ধার করা।</item>
+        <item> শিখানো।</item>
+        <item> শেখা/পড়া।</item>
+        <item> করা[টেলিফোন কল]।</item>
+        <item> হাত।</item>
+        <item> চপস্টিক।</item>
+        <item> চামচ।</item>
+        <item> চাকু।</item>
+        <item> কাটা চামচ।</item>
+        <item> কাঁচি।</item>
+    </string-array>
+
+    <string-array name="vocabulary07_title">
+        <item>০১) ファクス\n
+        foakusu
+        </item>
+        <item>০২) ワープロ\n
+        waapuro
+        </item>
+        <item>০৩) パソコン\n
+        pasokon
+        </item>
+        <item>০৪) パンチ\n
+        panchi
+        </item>
+        <item>০৫) ホッチキス\n
+        hocchikisu
+        </item>
+        <item>০৬) セロテープ\n
+        seroteepu
+        </item>
+        <item>০৭) けしゴム\n
+        keshigomi
+        </item>
+        <item>০৮) かみ\n
+        kami
+        </item>
+        <item>০৯) はな\n
+        hana
+        </item>
+        <item>১০) シャツ\n
+        shatsu
+        </item>
+        <item>১১) プレゼント\n
+        purezento
+        </item>
+        <item>১২) にもつ\n
+        nimotsu
+        </item>
+        <item>১৩) おかね\n
+        okane
+        </item>
+        <item>১৪) きっぷ\n
+        kippu
+        </item>
+        <item>১৫) クリスマス\n
+        kurisumasu
+        </item>
+        <item>১৬) ちち\n
+        chichi
+        </item>
+        <item>১৭) はは\n
+        haha
+        </item>
+        <item>১৮) おとうさん\n
+        otousan
+        </item>
+        <item>১৯) おかあさん\n
+        okaasan
+        </item>
+        <item>২০) もう\n
+        mou
+        </item>
+        <item>২১) まだ\n
+        mada
+        </item>
+        <item>২২) これから\n
+        kore kara
+        </item>
+        <item>২৩) 〜すてきですね\n
+        suteki desu ne
+        </item>
+        <item>২৪) ごめんください\n
+        gomen kudasai
+        </item>
+        <item>২৫) いらっしゃい\n
+        irasshai
+        </item>
+        <item>২৬) どうぞおあがりください\n
+        douzo oagari kudasai
+        </item>
+        <item>২৭) しつれいします\n
+        shitsurei shimasu
+        </item>
+        <item>২৮) 〜はいかがですか\n
+        - wa ikaga desu ka
+        </item>
+        <item>২৯) いただきます\n
+        itadakimasu
+        </item>
+        <item>৩০) りょこう\n
+        ryokou
+        </item>
+        <item>৩১) おみやげ\n
+        omiyage
+        </item>
+        <item>৩২) ヨーロッパ\n
+        yooroppa
+        </item>
+        <item>৩৩) スペイン\n
+        supein
+        </item>
+        <item>৩৪) ハンサム「な」\n
+        hansamu
+        </item>
+        <item>৩৫) きれい「な」\n
+        kirei
+        </item>
+        <item>৩৬) しずか「な」\n
+        shizuka
+        </item>
+        <item>৩৭) にぎやか「な」\n
+        nigiyaka
+        </item>
+        <item>৩৮) ゆうめい「な」\n
+        yuumei
+        </item>
+        <item>৩৯) しんせつ「な」\n
+        shinsetsu
+        </item>
+        <item>৪০) げんき「な」\n
+        genki
+        </item>
+        <item>৪১)　ひま「な」\n
+        hima
+        </item>
+        <item>৪২) べんり「な」\n
+        benri
+        </item>
+        <item>৪৩) すてき「な」\n
+        suteki
+        </item>
+        <item>৪৪) 大きいい\n
+            ookii
+        </item>
+        <item>৪৫) ちいさい\n
+        chiisai
+        </item>
+        <item>৪৬) あたらしい\n
+        atarashii
+        </item>
+        <item>৪৭) ふるい\n
+        furui
+        </item>
+        <item>৪৮) いい（よい）\n
+        ii[yoi]
+        </item>
+        <item>৪৯) わるい\n
+        warui
+        </item>
+        <item>৫০) あつい\n
+        atsui
+        </item>
+        <item>৫১) さむい\n
+       samui
+        </item>
+        <item>৫২) つめたい\n
+        tsumetai
+        </item>
+        <item>৫৩) むずかしい\n
+        muzukashii
+        </item>
+        <item>৫৪) やさしい\n
+        yasashii
+        </item>
+        <item>৫৫) たかい\n
+        takai
+        </item>
+
+        <item>৫৬) やすい\n
+        yasui
+        </item>
+        <item>৫৭) ひくい\n
+        hikui
+        </item>
+        <item>৫৮) おもしろい\n
+        omoshiroi
+        </item>
+        <item>৬০) おいしい\n
+        oishii
+        </item>
+        <item>৬১) いそがしい\n
+        ishogashii
+        </item>
+        <item>৬২) たのしい\n
+        tanoshii
+        </item>
+        <item>৬৩) しろい\n
+        shiroi
+        </item>
+        <item>৬৪) くろい\n
+        kuroi
+        </item>
+        <item>৬৫) あかい\n
+        akai
+        </item>
+        <item>৬৬) あおい\n
+        aoi
+        </item>
+        <item>৬৭) さくら\n
+        sakura
+        </item>
+        <item>৬৮) やま\n
+        yama
+        </item>
+        <item>৬৯) まち\n
+        machi
+        </item>
+        <item>৭০) たべもの\n
+        tabemono
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary07_description">
+        <item> ফ্যাক্স।</item>
+        <item> ওয়ার্ড প্রসেসর।</item>
+        <item> পারসোনাল কম্পিউটার</item>
+        <item> পাঞ্চ মেশিন।</item>
+        <item> স্টাপ্লার মেশিন।</item>
+        <item> স্কচ টেপ।</item>
+        <item> রাবার।</item>
+        <item> কাগজ।</item>
+        <item> ফুল।</item>
+        <item> শার্ট।</item>
+        <item> উপহার।</item>
+        <item> মালপত্র।</item>
+        <item> টাকা।</item>
+        <item> টিকেট।</item>
+        <item> বড় দিন।</item>
+        <item> (আমার) বাবা।</item>
+        <item> (আমার) মা।</item>
+        <item> (আপনার বা অন্য কারো)বাবা।</item>
+        <item> (আপনার বা অন্য কারো)মা।</item>
+        <item> যা হয়ে গেছে বা ঘটে গেছে।</item>
+        <item> যা এখন করা হয়নি বা ঘটে নি।</item>
+        <item> এখন থেকে বা শিগ্রই।</item>
+        <item> কি সুন্দর।</item>
+        <item> কেউ ভিতরে আছেন নাকি ? ভেতরে আসতে পারি কি?</item>
+        <item> আসুন আসুন(সাদর আমন্ত্রণ)।</item>
+        <item> ভেতরে আসুন।</item>
+        <item> ধন্যবাদ , একটু বিরক্ত করব।</item>
+        <item> -খাবেন নাকি? (কোন খাবার বা পান করার বস্তু সামনে দিয়ে বলা হয়।)</item>
+        <item> ধন্যবাদ আমি নিচ্ছি।(খাওয়া বা পান করবার শুরুতে বলা হয়।)</item>
+        <item> ভ্রমণ করা।</item>
+        <item> উপহার।</item>
+        <item> ইউরোপ।</item>
+        <item> স্পেন।</item>
+        <item> সুদর্শন।</item>
+        <item> সুন্দর / পরিষ্কার।</item>
+        <item> নীরব /শান্ত।</item>
+        <item> সরগরম/জমজমাট।</item>
+        <item> বিখ্যাত/ নামকরা।</item>
+        <item> দয়ালু।</item>
+        <item> সজীব/স্বাস্থ্যবান।</item>
+        <item> অবসর।</item>
+        <item> সুবিধাজনক/সুবিধা।</item>
+        <item> চমৎকার।</item>
+        <item> বড়/ বিসাল।</item>
+        <item> ছোট বা ক্ষুদ্র।</item>
+        <item> নতুন।</item>
+        <item> পুরানো।</item>
+        <item> ভাল।</item>
+        <item> খারাপ।</item>
+        <item> গরম।</item>
+        <item> শীত।</item>
+        <item> ঠাণ্ডা ।</item>
+        <item> কঠিন।</item>
+        <item> সহজ।</item>
+        <item> দাম বেশি।</item>
+        <item> সস্তা।</item>
+        <item> নিচু।</item>
+        <item> মজার(কথা,গল্প ইত্যাদি)।</item>
+        <item> সুস্বাদু,মজার(খাবার,পানীয় ইত্যাদি)।</item>
+        <item> বাস্ত।</item>
+        <item> আনন্দদায়ক।</item>
+        <item> সাদা।</item>
+        <item> কালো।</item>
+        <item> লাল।</item>
+        <item> নীল।</item>
+        <item> চেরি ফুল।</item>
+        <item> পাহাড়/পর্বত।</item>
+        <item> শহর।</item>
+        <item> খাবার</item>
+    </string-array>
+
+    <string-array name="vocabulary08_title">
+        <item>০১) くるま\n　
+            kuruma　    　
+        </item>　
+        <item>০২) ところ\n　
+        tokoro　     
+        </item>　
+        <item>০৩) りょう\n　
+        ryou　     
+        </item>
+        <item>০৪) べんきょう\n　
+            benkyou　　
+        </item>　
+        <item>০৫) せいかつ\n　
+        seikatsu　 
+        </item>　
+        <item>০৬) おしごと\n　
+        oshigoto　
+        </item>
+        <item>০৭) どう\n　
+            dou　         　
+        </item>　
+        <item>০৮) ど〜\n　
+        donna　       
+        </item>　
+        <item>০৯) どれ\n　
+        dore　      
+        </item>
+        <item>১০) とても\n　
+            totemo　    　
+        </item>　
+        <item>১১) あまり\n　
+            amari　     
+        </item>　
+        <item>১২)　そして\n　
+            soshite　  
+        </item>
+        <item>১৩) 〜が〜\n
+            　- ga -      
+        </item>
+        <item>১৪) げんきですか\n
+        genki desu ka
+        </item>
+        <item>১৫) そうですね\n
+        sou desu ne
+        </item>
+        <item>১৬) にほんのせいかつになれましたか。\n
+        nihon no sekatsu ni naremashita ka .
+        </item>
+        <item>১৭) 〜もういっぱいいかがですか。\n
+        - mou ippai ikaga desu ka .
+        </item>
+        <item>১৮) いいえけっこうです。\n
+        iie kekkou desu
+        </item>
+        <item>১৯) もう〜です「ね」\n
+        mou - desu .
+        </item>
+        <item>২০) おろそろしつれいします\n
+        soro soro shitsurei shimasu
+        </item>
+        <item>২১) またいらっしゃってください\n
+        mata irasshatte kudasai
+        </item>
+        <item>২২) ふじさん\n
+        fuji san
+        </item>
+        <item>২৩) びわこ\n
+        biwako
+        </item>
+        <item>২৪) シャンハイ\n
+        shanhai
+        </item>
+        <item>২৫) しちにんのさむらい\n
+        shichinin no samurai
+        </item>
+        <item>২৬) きんかくじ\n
+        kinkakuji
+        </item>
+        <item>২৭) わかります\n
+        wakarimasu
+        </item>
+        <item>২৮) あります\n
+        arimasu
+        </item>
+        <item>২৯) すき「な」\n
+        suki
+        </item>
+        <item>৩০) きらい「な」\n
+        kirai
+        </item>
+        <item>৩১)　じょうず「な」\n
+        jouzu
+        </item>
+        <item>৩২) へた「な」\n
+        heta
+        </item>
+        <item>৩৩) りょうり\n
+        ryouri
+        </item>
+        <item>৩৪) のみもの\n
+        nomimono
+        </item>
+        <item>৩৫) スポーツ\n
+        supotsu
+        </item>
+        <item>৩৬) やきゅう\n
+        yakyuu
+        </item>
+        <item>৩৭) ダンス\n
+        dansu
+        </item>
+        <item>৩৮) おんがく\n
+        ongaku
+        </item>
+        <item>৩৯) うた\n
+        uta
+        </item>
+        <item>৪০) クラシック\n
+        kurashikku
+        </item>
+        <item>৪১)　ジャズ\n
+        jazu
+        </item>
+        <item>৪২) コンサート\n
+        konsa-to
+        </item>
+        <item>৪৩) カラオケ\n
+        karaoke
+        </item>
+        <item>৪৪) かぶき\n
+            kabuki
+        </item>
+        <item>৪৫) え\n
+        e
+        </item>
+        <item>৪৬) じ\n
+        ji
+        </item>
+        <item>৪৭) かんじ\n
+        kanji
+        </item>
+        <item>৪৮) ひらがな\n
+        hiragana
+        </item>
+        <item>৪৯) かたかな\n
+        katakana
+        </item>
+        <item>৫০) ロマーじ\n
+        romaji
+        </item>
+        <item>৫১) こまかいおかね\n
+       komakai okane
+        </item>
+        <item>৫২) チケット\n
+        chiketto
+        </item>
+        <item>৫৩) じかん\n
+        jikan
+        </item>
+        <item>৫৪) ようじ\n
+        youji
+        </item>
+        <item>৫৫) ざんねんですね\n
+        zan nen desu ne
+        </item>
+        <item>৫৭) ごしゅじん\n
+        goshujin
+        </item>
+        <item>৫৮) おっと・しゅじん\n
+        otto/shujin
+        </item>
+        <item>৬০) おくさん\n
+        okusan
+        </item>
+        <item>৬১) つま・かない\n
+        tsuma/kanai
+        </item>
+        <item>৬২) こども\n
+        kodomo
+        </item>
+        <item>৬৩) よく\n
+        yoku
+        </item>
+        <item>৬৪) だいたい\n
+        daitai
+        </item>
+        <item>৬৫) たくさん\n
+        takusan
+        </item>
+        <item>৬৬) すこし\n
+        sukoshi
+        </item>
+        <item>৬৭) ぜんぜん\n
+        zenzen
+        </item>
+        <item>৬৮) はやく\n
+        hayaku
+        </item>
+        <item>৬৯) 〜から\n
+        -kara
+        </item>
+        <item>৭০) どうして\n
+        dooushite
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary08_description">
+        <item> গাড়ি/যানবাহন।</item>
+        <item> স্থান।</item>
+        <item> হোস্টেল/ডরমিটরি।</item>
+        <item> লেখাপড়া।</item>
+        <item> জীবনযাপন।</item>
+        <item> কাজ/পেশা।</item>
+        <item> কেমন।</item>
+        <item> কি রকম?</item>
+        <item> কোনটা?(তিনটা অথবা তাঁর অধিক দ্রব্যের মধ্যে)।</item>
+        <item> খুব/বেশি।</item>
+        <item> তেমন না ।(না বোধক এর ব্যাবহার)।</item>
+        <item> এবং (বাক্য সংযুক্ত করা জন্য ব্যাবহার)।</item>
+        <item> - কিন্তু- ।</item>
+        <item> কেমন আছেন?/ ভাল আছেন?।</item>
+        <item> আচ্ছা (কথা বার্তা মধ্যে সাময়িক বিরতি নেবার জন্য ব্যাবহার করা হয়।)</item>
+        <item> জাপানের জীবনযাত্রার সাথে অভ্যস্ত হেসেন কি ?</item>
+        <item> আর এক কাপ চলবে কি (পান করা)।</item>
+        <item> না ধন্যবাধ যথেষ্ট হয়েছে।।</item>
+        <item> এখনতো - হয়ে গেছে।।</item>
+        <item> এখন আস্তে আস্তে উঠতে হচ্ছে।</item>
+        <item> আবার আসবেন।</item>
+        <item> ফুজি পর্বত (জাপানের সবচেয়ে উঁচু পর্বত)</item>
+        <item> লেক বিওয়া (জাপানের সবচেয়ে বড় লেক)</item>
+        <item> সাংহাই।</item>
+        <item> সাতজন সামুরাই নামের ছায়াছবি।</item>
+        <item> কিংকাকুজি মন্দির (সোনালি রঙের)।</item>
+        <item> বুঝা।</item>
+        <item> আছে।</item>
+        <item> পছন্দ করা।/পছন্দের।</item>
+        <item> অপছন্দ করা / অপছন্দের।</item>
+        <item> পারদর্শী।</item>
+        <item> অপারদর্শী।</item>
+        <item> রান্না করা।</item>
+        <item> পানীয় দ্রব্য।</item>
+        <item> খেলাধুলা।</item>
+        <item> বেইজবল।</item>
+        <item> ডান্স।</item>
+        <item> গানবাজনা/সঙ্গীত।</item>
+        <item> গান।</item>
+        <item> ক্লাসিকাল সঙ্গীত।</item>
+        <item> জাজ সঙ্গীত।</item>
+        <item> কনসার্ট সঙ্গীত।</item>
+        <item> কারাওকে সঙ্গীত।</item>
+        <item> কাবুকি নামের জাপানিজ ঐতিহ্যবাহী নাটক।</item>
+        <item> ছবি / ড্রইং।</item>
+        <item> অক্ষর।</item>
+        <item> চাইনিজ অক্ষর।</item>
+        <item> হিরাগানা নামের অক্ষর।</item>
+        <item> কাতাকানা নামের অক্ষর।</item>
+        <item> রোমান / ইংরেজি লেখার অক্ষর।</item>
+        <item> অল্প মানের টাকা পয়সা।</item>
+        <item> টিকেট।</item>
+        <item> সময়।</item>
+        <item> প্রতিজ্ঞা।</item>
+        <item> এটা দুঃখ জনক।</item>
+        <item> আপনার বা অন্য কারো স্বামী।</item>
+        <item> আমার স্বামী।</item>
+        <item> আপনার বা অন্য কারো বউ।</item>
+        <item> আমার বউ।</item>
+        <item> বাচ্চা।</item>
+        <item> ভাল/বেশ/অনেক।</item>
+        <item> প্রায় / মোটামুটি।</item>
+        <item> অনেকগুলো / অনেক।</item>
+        <item> কয়েকটি / অল্প।</item>
+        <item> মটেইনা।</item>
+        <item> তাড়াতাড়ি।</item>
+        <item> - এই কারণে / সেই জন্যে।</item>
+        <item> কেন?</item>
+
+    </string-array>
+
+
+    <string-array name="vocabulary09_title">
+        <item>০১) すみません\n　
+            sumimasen  　
+        </item>　
+        <item>০২) もしもし\n　
+        moshimoshi
+        </item>　
+        <item>০৩) ああ\n　
+        aa
+        </item>
+        <item>০৪) いっしょにいかがですか\n　
+            isshoni ikaga desu ka 　
+        </item>　
+        <item>০৫) 「〜は」ちょっと・・・\n　
+        - ha chotto....
+        </item>　
+        <item>০৬) だめですか\n　
+        dame desu ka
+        </item>
+        <item>০৭) また　こんど\n　
+            mata kondo         　
+        </item>　
+        <item>০৮) おねがいします\n　
+        onegaishimasu　
+        </item>　
+        <item>০৯) おざわせいじ\n　
+        ozawasiji
+        </item>
+        <item>১০) います\n　
+            imasu  　
+        </item>　
+        <item>১১) あります\n　
+            arimasu
+        </item>　
+        <item>১২)　いろいろ「な」\n　
+            iroiro
+        </item>
+        <item>১৩) おとこのひと\n
+            otoko no hito
+        </item>
+        <item>১৪) おんなのひと\n
+        onna no hito
+        </item>
+        <item>১৫) おとこのこ\n
+        otoko no ko
+        </item>
+        <item>১৬) おんなのこ\n
+        onna no ko
+        </item>
+        <item>১৭)　いぬ\n
+        inu
+        </item>
+        <item>১৮) ねこ\n
+        neko
+        </item>
+        <item>১৯) き\n
+        ki
+        </item>
+        <item>২০) もの\n
+        mono
+        </item>
+        <item>২১) フィルム\n
+        firumu
+        </item>
+        <item>২২) でんち\n
+        denchi
+        </item>
+        <item>২৩) はこ\n
+        hako
+        </item>
+        <item>২৪) スイッチ\n
+        sittchi
+        </item>
+        <item>২৫) れいぞうこ\n
+        rezouko
+        </item>
+        <item>২৬) テーブル\n
+        teeburu
+        </item>
+        <item>২৭) ベッド\n
+        beddo
+        </item>
+        <item>২৮) たな\n
+        tana
+        </item>
+        <item>২৯) ドア\n
+        doa
+        </item>
+        <item>৩০　まど\n
+        mado
+        </item>
+        <item>৩১)　ポスト\n
+        posuto
+        </item>
+        <item>৩২) ビル\n
+        biru
+        </item>
+        <item>৩৩) こうえん\n
+        kouen
+        </item>
+        <item>৩৪) きっさてん\n
+        kissaten
+        </item>
+        <item>৩৫) ほんや\n
+        honya
+        </item>
+        <item>৩৬) 〜や\n
+        -ya
+        </item>
+        <item>৩৭)　のりば\n
+        noriba
+        </item>
+        <item>৩৮) けん\n
+        ken
+        </item>
+        <item>৩৯) うえ\n
+        ue
+        </item>
+        <item>৪০) した\n
+        shita
+        </item>
+        <item>৪১)　まえ\n
+        mae
+        </item>
+        <item>৪২) うしろ\n
+        ushiro
+        </item>
+        <item>৪৩) みぎ\n
+        migi
+        </item>
+        <item>৪৪) ひだり\n
+            hidari
+        </item>
+        <item>৪৫) なか\n
+        naka
+        </item>
+        <item>৪৬) そと\n
+        soto
+        </item>
+        <item>৪৭) となり\n
+        tonari
+        </item>
+        <item>৪৮) ちかく\n
+        chikaku
+        </item>
+        <item>৪৯) あいだ\n
+        aida
+        </item>
+        <item>৫০) 〜や〜　など\n
+        -y- nado
+        </item>
+        <item>৫১) いちばん\n
+       ichiban
+        </item>
+        <item>৫২) だんめ\n
+        danme
+        </item>
+        <item>৫৩) どうも　すみません\n
+        doumo sumimasen
+        </item>
+        <item>৫৪) チリソース\n
+        chili soosu
+        </item>
+        <item>৫৫) おく\n
+        oku
+        </item>
+        <item>৫৭) スパイスコーナー\n
+        supaisukoonaa
+        </item>
+        <item>৫৮) とうきょうデイズニーランド\n
+        toukyou dizuniirando
+        </item>
+        <item>৬০) ユニューヤ・ストア\n
+        yunyuuya/sutoa
+        </item>
+        <item>৬১) います「こどもが〜」\n
+        imasu [kodomo ga - ]
+        </item>
+        <item>৬২) います「にほんに〜」\n
+        imasu [nihon ni - ]
+        </item>
+        <item>৬৩) かかります\n
+        kakarimasu
+        </item>
+        <item>৬৪) やすみます「かいしゃを」\n
+        yasumimasu [kaisha wo ]
+
+        </item>
+        <item>৬৫) ひとつ\n
+        hitotsu
+        </item>
+        <item>৬৬) ふたつ\n
+        futatsu
+        </item>
+        <item>৬৭) みっつ\n
+        mittsu
+        </item>
+        <item>৬৮)　よっつ\n
+        yottsu
+        </item>
+        <item>৬৯) いつつ\n
+        itsustu
+        </item>
+        <item>৭০) むっつ\n
+        muttsu
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary09_description">
+        <item> আমি দুঃখিত/ মাফ করবেন।</item>
+        <item> হ্যালো হ্যালো (টেলিফোন এ কথা বলার সময়ই ব্যাবহার কর হয়।)</item>
+        <item> আচ্ছা।</item>
+        <item> আপনি কি আমার/ আমাদের সাথে যোগ দিবেন ।</item>
+        <item> [-]একটু অসুবিধা আছে (কোন দাওয়াত বা প্রস্তাব গ্রহণ না করতে পারলে ব্যাবহার করা হয়।)</item>
+        <item> সত্যি আপনি পারবেন না ?/সত্যি আপনার দ্বারা সম্ভব না?।</item>
+        <item> আবার ভবিষ্যৎ দেখা যাবে।</item>
+        <item> কোন দাওয়াত / প্রস্তাব ভদ্র ভাবে নাকচ করার ক্ষেত্রে ব্যাবহার করা হয়।</item>
+        <item> একজন জাপানি বিখ্যাত মিউজিক কন্ডাক্টরের নাম(১৯৩৫)।</item>
+        <item> আছে /অবস্থান করছে (মানুষ বা জীবন্ত প্রাণীর ক্ষেত্রে ব্যাবহার করা হয়।)</item>
+        <item> আছে।(নিষ্প্রাণ বস্তুর ক্ষেত্রে ব্যাবহার করা হয়।)</item>
+        <item> বিভিন্ন।</item>
+        <item> পুরুষ।</item>
+        <item> মহিলা।</item>
+        <item> বালক।</item>
+        <item> বালিকা</item>
+        <item> কুকুর ।</item>
+        <item> বিড়াল।</item>
+        <item> গাছ/কাঠ।</item>
+        <item> জিনিস/দ্রব্য।</item>
+        <item> ফিল্ম।</item>
+        <item> ব্যাটারি</item>
+        <item> বক্স।</item>
+        <item> সুইচ।</item>
+        <item> ফ্রিজ।</item>
+        <item> টেবিল।</item>
+        <item> বেড।</item>
+        <item> শেলফ।</item>
+        <item> দরজা।</item>
+        <item> জানালা।</item>
+        <item> চিঠি পোস্ট করার বক্স।</item>
+        <item> বিল্ডিং।</item>
+        <item> পার্ক।</item>
+        <item> কফি শপ /চায়ের দোকান।</item>
+        <item> বইয়ের দোকান।</item>
+        <item> - দোকান/ষ্টোর।</item>
+        <item> ট্যাক্সি/বাস স্ট্যান্ড।</item>
+        <item> বিভাগের মত।</item>
+        <item> উপরে।</item>
+        <item> নিচে।</item>
+        <item> সামনে।</item>
+        <item> পিছনে।</item>
+        <item> ডান ।</item>
+        <item> বাম।</item>
+        <item> ভিতরে।</item>
+        <item> বাইরে।</item>
+        <item> পাশে।</item>
+        <item> কাছে/নিকটবর্তী।</item>
+        <item> মাঝখানে / মধ্যে।</item>
+        <item> -এবং- ইত্যাদি।</item>
+        <item> সবচেয়ে / -সবচেয়ে উপরে।</item>
+        <item> - নম্বর শেলফ।</item>
+        <item> বিরক্ত করলাম।</item>
+        <item> চিলি সস।</item>
+        <item> ভিতরে /পিছনে।</item>
+        <item> স্পাইস কর্নার।</item>
+        <item> টোকিয়ো ডিজনিল্যান্ড।</item>
+        <item> সুপার মার্কেট।</item>
+        <item> আছে (একটি বাচ্চা)।</item>
+        <item> অবস্থান করা (জাপানে)</item>
+        <item> প্রয়োজন(সময় / টাকা)।</item>
+        <item> ছুটি নেওয়া/ বিশ্রাম করা।(অফিস থেকে ছুটি নেওয়া।)</item>
+        <item> একটি (কোন দ্রব্য গণনা করার সময়)।</item>
+        <item> দুইটি।</item>
+        <item> তিনটি।</item>
+        <item> চারটি।</item>
+        <item> পাচটি।</item>
+        <item> ছয়টি।</item>
+
+    </string-array>
+
+    <string-array name="vocabulary10_title">
+        <item>০১　ななつ\n　
+            nanatsu  　
+        </item>　
+        <item>০২) やっつ\n　
+        yattsu
+        </item>　
+        <item>০৩) ここのつ\n　
+        kokonotsu
+        </item>
+        <item>০৪) とお\n　
+            too 　
+        </item>　
+        <item>০৫) いくつ\n　
+        ikutsu
+        </item>　
+        <item>০৬) ひとり\n　
+        hitori
+        </item>
+        <item>০৭) ふたり\n　
+            futari        　
+        </item>　
+        <item>০৮) 〜にん\n　
+        - nin
+        </item>　
+        <item>০৯) 〜だい\n　
+        - dai
+        </item>
+        <item>১০) 〜まい\n　
+            - mai　
+        </item>　
+        <item>১১) 〜かい\n　
+            - kai
+        </item>　
+        <item>১২)　りんご\n　
+            ringo
+        </item>
+        <item>১৩) みかん\n
+            mikan
+        </item>
+        <item>১৪) サンドイッチ\n
+        sandoicchi
+        </item>
+        <item>১৫) カレー「ライス」\n
+        karee [raisu]
+        </item>
+        <item>১৬) アイスクリム\n
+        aisukurimu
+        </item>
+        <item>১৭)　きって\n
+        kitte
+        </item>
+        <item>১৮) はがき\n
+        hagaki
+        </item>
+        <item>১৯) ふうとう\n
+        fuutou
+        </item>
+        <item>২০) そくたつ\n
+        sokutatsu
+        </item>
+        <item>২১) かきとめ\n
+        kakitome
+        </item>
+        <item>২২) エアメール\n
+        eameeru
+        </item>
+        <item>২৩) ふなびん\n
+        funabin
+        </item>
+        <item>২৪) りょうしん\n
+        tyoushin
+        </item>
+        <item>২৫) きょうだい\n
+        kyoudai
+        </item>
+        <item>২৬) あに\n
+        ani
+        </item>
+        <item>২৭) おにいさん\n
+        oniisan
+        </item>
+        <item>২৮) あね\n
+        ane
+        </item>
+        <item>২৯) おねえさん\n
+            oneesan
+        </item>
+        <item>৩০　おとうと\n
+        otouto
+        </item>
+        <item>৩১)　おとうとさん\n
+        otoutosan
+        </item>
+        <item>৩২) いもうと\n
+        imouto
+        </item>
+        <item>৩৩) いもうとさん\n
+        imoutosan
+        </item>
+        <item>৩৪) がいこく\n
+        gaikoku
+        </item>
+        <item>৩৫) 〜じかん\n
+        - jikan
+        </item>
+        <item>৩৬) 〜しゅうかん\n
+        - shuukan
+        </item>
+        <item>৩৭)　〜かげつ\n
+        - kagetsu
+        </item>
+        <item>৩৮) 〜ねん\n
+        - nen
+        </item>
+        <item>৩৯) 〜ぐらい\n
+        - gurai
+        </item>
+        <item>৪০) どのぐらい\n
+        dono gurai
+        </item>
+        <item>৪১)　ぜんぶで\n
+        zenbude
+        </item>
+        <item>৪২) みんな\n
+        minna
+        </item>
+        <item>৪৩) 〜だけ\n
+        - deke
+        </item>
+        <item>৪৪) いらっしゃいませ。\n
+            irasshaimase
+        </item>
+        <item>৪৫) いいてんきですね。\n
+        ii tenki desu ne
+        </item>
+        <item>৪৬) おでかけですか。\n
+        odekake desu ka
+        </item>
+        <item>৪৭) ちょっと〜まで\n
+        chotto - made
+        </item>
+        <item>৪৮) いっていらっしゃい。\n
+        itte irasshai
+        </item>
+        <item>৪৯) いってまいります。\n
+        itte mairimasu
+        </item>
+        <item>৫০) それから\n
+        sorekara
+        </item>
+        <item>৫১) オーストラリア\n
+       oosutoraria
+        </item>
+        <item>৫২) かんたん「な」\n
+        kantan
+        </item>
+        <item>৫৩) ちかい\n
+        chikai
+        </item>
+        <item>৫৪) とおい\n
+        tooi
+        </item>
+        <item>৫৫) はやい\n
+        hayai
+        </item>
+        <item>৫৭) おそい\n
+        osoi
+        </item>
+        <item>৫৮) おおい「ひとが〜」\n
+        ooi[hito ga - ]
+        </item>
+        <item>৬০) すくない「ひとが〜」\n
+        sukunai [hito ga -]
+        </item>
+        <item>৬১) あたたかい\n
+        atatakai
+        </item>
+        <item>৬২) すずしい\n
+        suzushii
+        </item>
+        <item>৬৩) あまい\n
+        amai
+        </item>
+        <item>৬৪) からい\n
+        karai
+
+        </item>
+        <item>৬৫) おもい\n
+        omoi
+        </item>
+        <item>৬৬) かるい\n
+       karui
+        </item>
+        <item>৬৭) いい「コーヒーが〜」\n
+       ii [koohii ga - ]
+        </item>
+        <item>৬৮)　きせつ\n
+        kisetsu
+        </item>
+        <item>৬৯) はる\n
+        haru
+        </item>
+        <item>৭০) なつ\n
+        natsu
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary10_description">
+        <item> সাতটি।</item>
+        <item> আটটি।</item>
+        <item> নয়টি।</item>
+        <item> দশটি।</item>
+        <item> কয়টি?</item>
+        <item> একজন।</item>
+        <item> দুইজন।</item>
+        <item> - জন (লোক)।</item>
+        <item> টি (মেশিন ,গাড়ি ইত্যাদি)।</item>
+        <item> পাতলা জিনিস।(কাগজ , টিকেট,)</item>
+        <item> বার।</item>
+        <item> আপেল।</item>
+        <item> কমলা।</item>
+        <item> স্যান্ডউইচ।</item>
+        <item> করি এবং ভাত।</item>
+        <item> আইসক্রিম।</item>
+        <item> ডাকটিকেট।</item>
+        <item> পোস্ট কার্ড।</item>
+        <item> এনভেলপ।</item>
+        <item> এক্সপ্রেস ডেলিভারি।</item>
+        <item> রেজিস্ট্রি করা মেইল।</item>
+        <item> এয়ার মেইল।</item>
+        <item> সি-মেইল।</item>
+        <item> মা-বাবা।</item>
+        <item> ভাইবোন।</item>
+        <item> (আমার)বড় ভাই।</item>
+        <item> আপনার বা অন্য কারো বড় ভাই।</item>
+        <item> (আমার)বড় বোন।</item>
+        <item> আপনার বা অন্য কারো বড় বোন।</item>
+        <item> (আমার)ছোট ভাই।</item>
+        <item> আপনার বা অন্য কারো ছোট ভাই।</item>
+        <item> (আমার)ছোট বোন।</item>
+        <item> আপনার বা অন্য কারো ছোট বোন।</item>
+        <item> বিদেশ।</item>
+        <item> - ঘণ্টা।</item>
+        <item> - সপ্তাহ।</item>
+        <item> - মাস।</item>
+        <item> - বছর।</item>
+        <item> প্রায়- </item>
+        <item> কত দিন/কতক্ষণ।</item>
+        <item> মোট।</item>
+        <item> সকল/সব।</item>
+        <item> মাত্র- ।</item>
+        <item> স্বাগতম,আসুন,আপনার জন্য কি করতে পারি।</item>
+        <item> কি সুন্দর/ভাল আবহাওয়া তাই না।</item>
+        <item> আপনি কি বাইরে যাচ্ছেন?</item>
+        <item> একটু - এ যাচ্ছি।</item>
+        <item> গিয়ে আসুন (যে বাইরে যাবে তাকে বলা হয়।)।</item>
+        <item> আমি যাচ্ছি বা চললাম (যে বাইরে যাবে সে বলবে)</item>
+        <item> এবং তারপর।</item>
+        <item> অস্ট্রেলিয়া।</item>
+        <item> সহজ।</item>
+        <item> কাছে/নিকটে।</item>
+        <item> দুরে।</item>
+        <item> তাড়াতাড়ি/দ্রুত/নির্ধারিত সময়ের আগে।</item>
+        <item> দেরী/ধীর/নির্ধারিত সময়ের পরে।</item>
+        <item> অনেক লোক / অনেক বেশি (কোন দ্রব্য)।</item>
+        <item> কম (লোক বা দ্রব্য)।</item>
+        <item> সুখপ্রদ গরম বা মৃদু গরম।</item>
+        <item> সুখপ্রদ ঠাণ্ডা বা মৃদু ঠাণ্ডা।</item>
+        <item> মিস্টি।</item>
+        <item> ঝাল বা অতিরিক্ত মশলার স্বাদ।</item>
+        <item> ওজন বেশি।</item>
+        <item> হাল্কা।</item>
+        <item> ভাল(কফি হলে)।</item>
+        <item> ঋতু/মৌসুমি।</item>
+        <item> বসন্তকাল।</item>
+        <item> গ্রীষ্মকাল/গরমকাল।</item>
+
+    </string-array>
+
+    <string-array name="vocabulary11_title">
+        <item>০১ あき\n　
+            aki 　
+        </item>　
+        <item>০২) ふゆ\n　
+        fuyu
+        </item>　
+        <item>০৩) てんき\n　
+        tenki
+        </item>
+        <item>০৪)　あめ\n　
+            ame
+        </item>　
+        <item>০৫) ゆき\n　
+        yuki
+        </item>　
+        <item>০৬) くもり\n　
+        kumori
+        </item>
+        <item>০৭) ホテル\n　
+            hoteru      　
+        </item>　
+        <item>০৮) くうこう\n　
+        kuukou
+        </item>
+        <item>০৯) うみ\n　
+        umi
+        </item>
+        <item>১০) せかい\n
+            sekai
+        </item>　
+        <item>১১) パーティー\n　
+            paateii
+        </item>　
+        <item>১২)　おまつり\n　
+            omatsuri
+        </item>
+        <item>১৩) しけん\n
+            shiken
+        </item>
+        <item>১৪) すきやき\n
+        sukiyaki
+        </item>
+        <item>১৫) さしみ\n
+        sashimi
+        </item>
+        <item>১৬) おすし\n
+        oshushi
+        </item>
+        <item>১৭)　てんぷら\n
+        tenpura
+        </item>
+        <item>১৮) いけばな\n
+        ikebana
+        </item>
+        <item>১৯) もみじ\n
+        momiji
+        </item>
+        <item>২০) どちら\n
+        dochira
+        </item>
+        <item>২১) どちらも\n
+        dochiramo
+        </item>
+        <item>২২) ずっと\n
+        zutto
+        </item>
+        <item>২৩) はじめて\n
+        hajimete
+        </item>
+        <item>২৪) ただいま\n
+        tadaima
+        </item>
+        <item>২৫) おかえりなさい\n
+        okaerinasai
+        </item>
+        <item>২৬) すごいですね\n
+        sugoidesune
+        </item>
+        <item>২৭) でも\n
+        demo
+        </item>
+        <item>২৮) つかれました\n
+            tsukaremashita
+        </item>
+        <item>২৯) ぎおんまつり\n
+            gionmatsuri
+        </item>
+        <item>৩০　ホンコン\n
+        honkon
+        </item>
+        <item>৩১)　シンガプル\n
+        shingapuru
+        </item>
+        <item>৩২) まいにちや\n
+        mainichiya
+        </item>
+        <item>৩৩) ていしょく\n
+        teishoku
+        </item>
+        <item>৩৪) あそびます\n
+        asobimasu
+        </item>
+        <item>৩৫) およぎます\n
+        oyogimasu
+        </item>
+        <item>৩৬) むかいます\n
+        mukaimasu
+        </item>
+        <item>৩৭)　つかれます\n
+        tsukaremasu
+        </item>
+        <item>৩৮) だします「てがみを〜」\n
+        dashimasu[tegami wo]
+        </item>
+        <item>৩৯) はいります「きっさてんに〜」\n
+        hairimasu[kissaten ni]
+        </item>
+        <item>৪০) でます「きっさてんを〜」\n
+        demasu [kissaten wo]
+        </item>
+        <item>৪১)　けっこんします\n
+        kekkon shimasu
+        </item>
+        <item>৪২) かいものします\n
+        kaimono shimasu
+        </item>
+        <item>৪৩) しょくじします\n
+        shokuji shimasu
+        </item>
+        <item>৪৪) さんぽします「こうえんを〜」\n
+            sanposhimasu [kouen o]
+        </item>
+        <item>৪৫) たいへん「な」\n
+        taihen
+        </item>
+        <item>৪৬) ほしい\n
+        hoshii
+        </item>
+        <item>৪৭) さびしい\n
+        kibishii
+        </item>
+        <item>৪৮) せまい\n
+        semai
+        </item>
+        <item>৪৯) ひろい\n
+        hiroi
+        </item>
+        <item>৫০) しやくしょ\n
+        shiyakusho
+        </item>
+        <item>৫১) プール\n
+       puuru
+        </item>
+        <item>৫২) かわ\n
+        kawa
+        </item>
+        <item>৫৩) けいざい\n
+        keizai
+        </item>
+        <item>৫৪) びじゅつ\n
+        bujutsu
+        </item>
+        <item>৫৫)　つり\n
+        tsuri
+        </item>
+        <item>৫৭) スキー\n
+        sukii
+        </item>
+        <item>৫৮) かいぎ\n
+        kaigi
+        </item>
+        <item>৬০) とうろく\n
+        touroku
+        </item>
+        <item>৬১) しゅうまつ\n
+       shuumatsu
+        </item>
+        <item>৬২) ごろ\n
+        goro
+        </item>
+        <item>৬৩) なにか\n
+        nani ka
+        </item>
+        <item>৬৪) どこか\n
+        doko ka
+
+        </item>
+        <item>৬৫) おなかがすきました\n
+        onaka ga tsukimashita
+        </item>
+        <item>৬৬) おなかがいっぱいです\n
+       onaka ga ippaidesu
+        </item>
+        <item>৬৭) のどがかわきました\n
+       nodo ga kawakimashita
+        </item>
+        <item>৬৮)　そうですね\n
+        sou desu ne
+        </item>
+        <item>৬৯)　そうしましょう\n
+        sou shimashou
+        </item>
+        <item>৭০) ごちゅうもんは\n
+        go chumon wa
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary11_description">
+        <item> শরৎকাল।</item>
+        <item> শীতকাল।</item>
+        <item> আবহাওয়া।</item>
+        <item> বৃষ্টি।</item>
+        <item> তুষার।</item>
+        <item> মেঘলা।</item>
+        <item> হোটেল।</item>
+        <item> এয়ারপোর্ট/বিমানবন্দর।</item>
+        <item> সাগর / মহাসাগর।</item>
+        <item> পৃথিবী।</item>
+        <item> পার্টি(দেওয়া / আয়োজন করা)।</item>
+        <item> উৎসব।</item>
+        <item> পরীক্ষা।</item>
+        <item> সুকিয়াকি (গরুরু মাংস এবং তরিতরকারির হটপট)।</item>
+        <item> সাশিমি (পাতলা করে কাটা মাস)।</item>
+        <item> সুশি(ভিনেগারযুক্ত ভাতের উপর কাছা মাছ বসানো খাবার)।</item>
+        <item> তেনপুরা(শিফুড এবং সবজির ডীপ ফ্রাই।)</item>
+        <item> ফুল সাজানো।</item>
+        <item> মাপলের লাল রঙের পাতা। (শরৎকালে দেখা যায়।)</item>
+        <item> কোনটি?(দুইটি জিনিশের মধ্যে)</item>
+        <item> দুটোই।</item>
+        <item> বেশ/ খুব/অনেকটা,একটানা,অবিরাম।</item>
+        <item> প্রথমবার।</item>
+        <item> আমি ফিরে এসেছি।</item>
+        <item> এসো ,এসো (ভিতরে থাকা লোকে বলে)।</item>
+        <item> এটা বিরাট বেপার তাই না।</item>
+        <item> কিন্তু।</item>
+        <item> (আমি )ক্লান্ত হয়েছি।</item>
+        <item> গিওন উৎসব।(কিইয়োত শহরের সবচেয়ে বড় উৎসব।)</item>
+        <item> হংকং।</item>
+        <item> সিঙ্গাপুর।</item>
+        <item> মাইনিচি সুপারমার্কেট(কাল্পনিক নাম)।</item>
+        <item> সেট করা মেনু খাবার।</item>
+        <item> খেলা করা।/আনন্দ করা।</item>
+        <item> সাঁতার কাটা।</item>
+        <item> সাদর আমন্ত্রণ জানানো/　কোন স্থান পর্যন্ত গিয়ে কাউকে নিয়ে আসা।</item>
+        <item> ক্লান্ত হওয়া।</item>
+        <item> দেওয়া অথবা পাঠানো (চিঠি দেওয়া)</item>
+        <item> কফি সপ(প্রবেশ করা)।</item>
+        <item> বের হওয়া(বের হওয়া)।</item>
+        <item> বিবাহ করা।</item>
+        <item> কেনাকাটা করা।</item>
+        <item> খাওয়া দাওয়া করা।</item>
+        <item> হাটা চলা করা (পার্কে হাটা চলা করা)।</item>
+        <item> কষ্ট/কষ্টকর/কঠিন।</item>
+        <item> চাই(কোন জিনিস)।</item>
+        <item> একাকী / নিঃসঙ্গ / নিরজন</item>
+        <item> অপ্রশস্ত।</item>
+        <item> প্রশস্ত।</item>
+        <item> সিটি অফিস।</item>
+        <item> সুইমিং পুল।</item>
+        <item> নদী।</item>
+        <item> অর্থনীতি/আর্থিক অবস্থা।</item>
+        <item> চারুকলা।</item>
+        <item> বরশী দিয়ে।</item>
+        <item> সুকি (সুকি করা)।</item>
+        <item> মিটিং করা।</item>
+        <item> নিবন্ধন/তালিকা ভুক্ত করা।</item>
+        <item> সপ্তাহের শেষে।</item>
+        <item> আনুমানিক/ প্রায় (সময়)।</item>
+        <item> কিছু।</item>
+        <item> কোথায়।</item>
+        <item> (আমার)খিদে লেগেছে।</item>
+        <item> (আমার)পেট ভরে গেছে।</item>
+        <item> (আমার)গলা শুকিয়েছে।</item>
+        <item> আচ্ছা ,আচ্ছা।</item>
+        <item> তাহলে তাই করা যাক।</item>
+        <item> আপনার অর্ডার নিতে পারি কি?</item>
+
+    </string-array>
+
+    <string-array name="vocabulary12_title">
+        <item>০১　つきます\n　
+            tsukimasu
+        </item>　
+        <item>০২) けします\n　
+        keshimasu
+        </item>　
+        <item>০৩) あけます\n　
+        akemasu
+        </item>
+        <item>০৪)　しめます\n　
+            shimemasu
+        </item>　
+        <item>০৫) いそぎます\n　
+        isogimasu
+        </item>　
+        <item>০৬) まちます\n　
+        machimasu
+        </item>
+        <item>০৭) とめます\n　
+            tomemasu     　
+        </item>　
+        <item>০৮) まがります「みぎへ」\n　
+        magarimasu
+        </item>
+        <item>০৯) もちます\n　
+        mochimasu
+        </item>
+        <item>১০) とります\n
+            torimasu
+        </item>　
+        <item>১১) てつだいます\n　
+            tetsudaimasu
+        </item>　
+        <item>১২)　よびます\n　
+            yobimasu
+        </item>
+        <item>১৩) はなします\n
+            hanashimasu
+        </item>
+        <item>১৪) みせます\n
+        misemasu
+        </item>
+        <item>১৫) おしえます「じゅうしょを
+            〜」\n
+        oshiemasu
+        </item>
+        <item>১৬) はじめます\n
+        hajimemasu
+        </item>
+        <item>১৭)　ふります「あめが〜」\n
+        furimasu
+        </item>
+        <item>১৮) コピーします\n
+        kopiishimasu
+        </item>
+        <item>১৯)　エアコン\n
+        eakon
+        </item>
+        <item>২০) パスポート\n
+        pasupooto
+        </item>
+        <item>২১) なまえ\n
+        namae
+        </item>
+        <item>২২) じゅうしょ\n
+        juusho
+        </item>
+        <item>২৩) ちず\n
+        chizu
+        </item>
+        <item>২৪) しお\n
+        shio
+        </item>
+        <item>২৫) さとう\n
+        satou
+        </item>
+        <item>২৬) よみかた\n
+        yomikata
+        </item>
+        <item>২৭) 〜かた\n
+        - kata
+        </item>
+        <item>২৮) ゆっくり\n
+            yukkuri
+        </item>
+        <item>২৯) すぐ\n
+            sugu
+        </item>
+        <item>৩০　また\n
+        mata
+        </item>
+        <item>৩১)　あとで\n
+        ato de
+        </item>
+        <item>৩২) もうすこし\n
+        mou sukoshi
+        </item>
+        <item>৩৩) もう〜\n
+        mou-
+        </item>
+        <item>৩৪) いいですよ。\n
+        ii desu yo
+        </item>
+        <item>৩৫) さあ\n
+        saa
+        </item>
+        <item>৩৬) あれ？\n
+        are?
+        </item>
+        <item>৩৭)　たちます\n
+        tachimasu
+        </item>
+        <item>৩৮) すわります\n
+        suwarimasu
+        </item>
+        <item>৩৯) つかいます\n
+        tsukaimasu
+        </item>
+        <item>৪০) おきます\n
+        okimasu
+        </item>
+        <item>৪১)　つくります\n
+        tsukurimasu
+        </item>
+        <item>৪২) うります\n
+        urimasu
+        </item>
+        <item>৪৩) しります\n
+        shirimasu
+        </item>
+        <item>৪৪) すみます\n
+            sumimasu
+        </item>
+        <item>৪৫) けんきゅうします\n
+        kenkyuushimasu
+        </item>
+        <item>৪৬) しっています\n
+        shitteimasu
+        </item>
+        <item>৪৭) すんでいます「おおさかに」\n
+        sunde imasu [oosakani]
+        </item>
+        <item>৪৮)　しりょう \n
+        shiryou
+        </item>
+        <item>৪৯) カタログ\n
+        katarogu
+        </item>
+        <item>৫০) じこくひょう\n
+        jikokuhyou
+        </item>
+        <item>৫১) ふく\n
+       fuku
+        </item>
+        <item>৫২) せいひん\n
+        seihin
+        </item>
+        <item>৫৩) ソフト\n
+        sofuto
+        </item>
+        <item>৫৪) せんもん\n
+        senmon
+        </item>
+        <item>৫৫)　はいしゃ\n
+        haisha
+        </item>
+        <item>৫৭) とこや\n
+        tokoya
+        </item>
+        <item>৫৮) プレイガイド\n
+        pureigaido
+        </item>
+        <item>৬০) どくしん\n
+        dokshin
+        </item>
+        <item>৬১)　のります「でんしゃに〜」 \n
+       norimasu [denshani]
+        </item>
+        <item>৬২) おります「でんしゃを〜」\n
+        orimasu [densha wo]
+        </item>
+        <item>৬৩) のりかえます\n
+        norikaemasu
+        </item>
+        <item>৬৪) あびます「シャワーを〜」\n
+        abimasu [shawaa wo]
+
+        </item>
+        <item>৬৫) いれます\n
+        iremasu
+        </item>
+        <item>৬৬) だします\n
+       dashimasu
+        </item>
+        <item>৬৭) はいります「だいがくに〜」\n
+       hairimasu [daigaku ni - ]
+        </item>
+        <item>৬৮)　でます「だいがくに〜」\n
+        demasu [daigaku ni -]
+        </item>
+        <item>৬৯)　やめます「かいしゃを〜」\n
+        yamemasu [kaisha wo - ]
+        </item>
+        <item>৭০) おします\n
+        oshimasu
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary12_description">
+        <item> জ্বালানো (আগুন/আল)।</item>
+        <item> নিবানো (আগুন/আল)।।</item>
+        <item> খুলে দেওয়া(দরজা / বক্স)।</item>
+        <item> বন্ধ করা (দরজা / বক্স)।</item>
+        <item> তাড়াহুড়া করা।।</item>
+        <item> অপেক্ষা করা।</item>
+        <item> বন্ধ করা /গাড়ি পার্ক করা।</item>
+        <item> মোড় নেওয়া। (ডান দিকে)</item>
+        <item> ধরে রাখা ।</item>
+        <item> তুলে নেওয়া।</item>
+        <item> সাহায্য করা।</item>
+        <item> ডাকা।</item>
+        <item> কথা বলা।</item>
+        <item> দেখান।</item>
+        <item> শিখানো/বলে দেওয়া।[ঠিকানা]</item>
+        <item> শুরু করা।</item>
+        <item> উপর থেকে পড়া [বৃষ্টি]</item>
+        <item> কপি করা ।</item>
+        <item> এয়ার কন্ডিশনার।</item>
+        <item> পাসপোর্ট।</item>
+        <item> নাম।</item>
+        <item> ঠিকানা।</item>
+        <item> ম্যাপ।</item>
+        <item> লবণ।</item>
+        <item> চিনি।</item>
+        <item> কিভাবে পড়তে হয় /পড়ার পদ্ধতি।</item>
+        <item> কিভাবে?</item>
+        <item> আস্তে আস্তে ।</item>
+        <item> এখনি,সাথে সাথে</item>
+        <item> আবার।</item>
+        <item> পরে।</item>
+        <item> আর একটু।</item>
+        <item> আর।</item>
+        <item> ঠিক আছে।</item>
+        <item> তাহলে।</item>
+        <item> আরে! (কিছু অবাক)।</item>
+        <item> দাঁড়ান।</item>
+        <item> বসা</item>
+        <item> ব্যাবহার করা।</item>
+        <item> রাখা।</item>
+        <item> তৈরি করা।</item>
+        <item> বিক্রি করা।</item>
+        <item> জানা।</item>
+        <item> বাস করা।</item>
+        <item> গবেষণা করা।</item>
+        <item> জানি/জানে।</item>
+        <item> বাস করি/ বাস করে।</item>
+        <item> নথি পত্র।</item>
+        <item> ক্যাটালগ।</item>
+        <item> টাইমটেবিল।</item>
+        <item> কাপড় চোপড়।</item>
+        <item> তৈরি করা দ্রব্য।</item>
+        <item> সফটওয়ার।</item>
+        <item> বিশেষজ্ঞ /গবেষণা / লেখাপড়ার বিভাগ।</item>
+        <item> দাঁতের ডাক্তার।</item>
+        <item> চুল কাটার দোকান।</item>
+        <item> টিকেট বিক্রির এজেন্সি।</item>
+        <item> অবিবাহিত।</item>
+        <item> চড়া বা আরোহণ করা[ট্রেনে]।</item>
+        <item> নামা [ট্রেন থেকে]।</item>
+        <item> বদলি করা।[এক যানবাহন থেকে অন্য যানবাহনে ]</item>
+        <item> নেওয়া বা করা [গোসল করা]।</item>
+        <item> ঢুকান।</item>
+        <item> বের করা।</item>
+        <item> ভর্তি হওয়া।[বিশ্ববিদ্যালয় এ ]</item>
+        <item> বের হওয়া[বিশ্ববিদ্যালয় থেকে]।</item>
+        <item> ছেড়ে দেওয়া / ত্যাগ করা [কোম্পানি চাকুরী]।</item>
+        <item> চাপ বা ধাক্কা দেওয়া ।</item>
+
+    </string-array>
+
+    <string-array name="vocabulary13_title">
+        <item>০১　わかい\n　
+            wakai
+        </item>　
+        <item>০২) ながい\n　
+        nagai
+        </item>　
+        <item>০৩) みじかい\n　
+        mijikai
+        </item>
+        <item>০৪)　あかるい\n　
+            akarui
+        </item>　
+        <item>০৫) くらい\n　
+        kurai
+        </item>　
+        <item>০৬) せがたかい\n　
+        se ga takai
+        </item>
+        <item>০৭) あたまがいい\n　
+            atama ga ii   　
+        </item>　
+        <item>০৮) からだ\n　
+        karada
+        </item>
+        <item>০৯) あたま\n　
+        atama
+        </item>
+        <item>১০) かみ\n
+            kami
+        </item>　
+        <item>১১) かお\n　
+            kao
+        </item>　
+        <item>১২)　め\n　
+            me
+        </item>
+        <item>১৩) みみ\n
+           mimi
+        </item>
+        <item>১৪)　くち\n
+        kuchi
+        </item>
+        <item>১৫)　は\n
+        ha
+        </item>
+        <item>১৬) おなか\n
+        onaka
+        </item>
+        <item>১৭)　あし\n
+        ashi
+        </item>
+        <item>১৮) サービス\n
+        saabisu
+        </item>
+        <item>১৯)　ジョギング\n
+        jogingu
+        </item>
+        <item>২০) シャワー\n
+        shawaa
+        </item>
+        <item>২১) おてら\n
+       otera
+        </item>
+        <item>২২) じんじゃ\n
+        jinja
+        </item>
+        <item>২৩) りゅうがくせい\n
+        ryuugakusei
+        </item>
+        <item>২৪) 〜ばん\n
+        - ban
+        </item>
+        <item>২৫) どうやって\n
+        douyatte
+        </item>
+        <item>২৬) どの〜\n
+        dono-
+        </item>
+        <item>২৭) いいえ、まだまだです。\n
+        iie mada mada desu
+        </item>
+        <item>২৮) おぼえます\n
+            oboemasu
+        </item>
+        <item>২৯) わすれます\n
+            wasuremasu
+        </item>
+        <item>৩০　なくします\n
+        nakushimasu
+        </item>
+        <item>৩১)　だします「レーぽとを〜」\n
+        dashimasu [repooto wo -]
+        </item>
+        <item>৩২) はらいます\n
+        haraimasu
+        </item>
+        <item>৩৩) かえします\n
+        kaeshimasu
+        </item>
+        <item>৩৪) でかけます\n
+        dekakemasu
+        </item>
+        <item>৩৫) ぬぎます\n
+        nugimasu
+        </item>
+        <item>৩৬) もっていきます\n
+        motte ikimasu
+        </item>
+        <item>৩৭)　もってきます\n
+        motte kimasu
+        </item>
+        <item>৩৮) しんぱいします\n
+            shinpai shimasu
+        </item>
+        <item>৩৯) ざんぎょうします\n
+        zangyoushimasu
+        </item>
+        <item>৪০) しゅっちょうします\n
+        shucchushiasu
+        </item>
+        <item>৪১)　のみます「くすりを〜」\n
+        nomimasu [kusuri -]
+        </item>
+        <item>৪২) はいります「おふろに〜」\n
+        hairimasu [ofuro ni]
+        </item>
+        <item>৪৩) たいせつ「な」\n
+       taisetsu
+        </item>
+        <item>৪৪) だいじょうぶ「な」\n
+            daijoubu
+        </item>
+        <item>৪৫) あぶない\n
+        abunai
+        </item>
+        <item>৪৬) もんだい\n
+        mondai
+        </item>
+        <item>৪৭) こたえ\n
+        kotae
+        </item>
+        <item>৪৮)　きんえん \n
+        kinen
+        </item>
+        <item>৪৯) 「けんこう」ほけんしょう\n
+        kenkou hokenshou
+        </item>
+        <item>৫০　かぜ\n
+        kaze
+        </item>
+        <item>৫১) ねつ\n
+       netsu
+        </item>
+        <item>৫২) びょうき\n
+        byouki
+        </item>
+        <item>৫৩) くすり\n
+       kusuri
+        </item>
+        <item>৫৪) おふろ\n
+        ofuro
+        </item>
+        <item>৫৫)　うわぎ\n
+        uwagi
+        </item>
+        <item>৫৭) したぎ\n
+        shitagi
+        </item>
+        <item>৫৮) せんせい\n
+        sensei
+        </item>
+        <item>৬০) ２、３にち\n
+        2, 3 nichi
+        </item>
+        <item>৬১)　〜までに \n
+       made ni
+        </item>
+        <item>৬২) ですから\n
+        desu kara
+        </item>
+        <item>৬৩) できます\n
+       dekimasu
+        </item>
+        <item>৬৪) あらいます\n
+        araimasu
+
+        </item>
+        <item>৬৫) ひきます\n
+       hikimasu
+        </item>
+        <item>৬৬) うたいます\n
+       utaimasu
+        </item>
+        <item>৬৭) あつめます\n
+       atsumemasu
+        </item>
+        <item>৬৮)　すてます\n
+        sutemasu
+        </item>
+        <item>৬৯)　かえます\n
+       kaemasu
+        </item>
+        <item>৭০)　うんてんします\n
+        untenshimasu
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary13_description">
+        <item> বয়স কম(যুবক/যুবতি)।</item>
+        <item> লম্বা।</item>
+        <item> খাটো।</item>
+        <item> উজ্জ্বল।</item>
+        <item> অন্ধকার।</item>
+        <item> লম্বা শরীর।</item>
+        <item> বুদ্ধিমান।</item>
+        <item> শরীর।</item>
+        <item> মাথা ।</item>
+        <item> চুল।</item>
+        <item> মুখমণ্ডল।</item>
+        <item> চোখ।</item>
+        <item> কান।</item>
+        <item> মুখ।</item>
+        <item> দাঁত।</item>
+        <item> পেট।</item>
+        <item> পা।</item>
+        <item> সার্ভিস।</item>
+        <item> জগিং।</item>
+        <item> শাওয়ার।</item>
+        <item> বুদ্দমন্দির।</item>
+        <item> শিন্ত মন্দির।</item>
+        <item> বিদেশি ছাত্র।</item>
+        <item> নং।</item>
+        <item> কিভাবে/কি করে?</item>
+        <item> কোনটা/কোন জন?</item>
+        <item> [না]এখনো অনেক বাকী।</item>
+        <item> মনে রাখা/মুখস্থ করা।</item>
+        <item> ভুলে যাওয়া।</item>
+        <item> হারিয়ে ফেলা।</item>
+        <item> জমা দেওয়া।[রিপোর্ট]</item>
+        <item> টাকা পয়সা দেওয়া।</item>
+        <item> ফেরত দেওয়া।</item>
+        <item> বিয়ারে যাওয়া।</item>
+        <item> খুলে ফেলা [কাপড়,জুতা ইত্যাদি]।</item>
+        <item> (কিছু)নিয়ে যাওয়া।</item>
+        <item> (কিছু)নিয়ে আসা।</item>
+        <item> চিন্তা করা/উদ্বিগ্ন হওয়া।</item>
+        <item> ওভার টাইম কজা করা।</item>
+        <item> বিজনেস ট্রিপে যাওয়া।</item>
+        <item> খাওয়া/ পান করা [ঔষুধ]।</item>
+        <item> প্রবেশ করা।</item>
+        <item> দরকারি।</item>
+        <item> ঠিক আছে।</item>
+        <item> বিপদ জনক।</item>
+        <item> সমস্যা / প্রশ্ন।</item>
+        <item> উত্তর।</item>
+        <item> ধূমপান নিষেধ।</item>
+        <item> হেলথ ইনস্যুরেন্স কার্ড।</item>
+        <item> সর্দি।</item>
+        <item> জ্বর।</item>
+        <item> অসুখ।</item>
+        <item> ওষুধ।</item>
+        <item> জাপানিজ স্টাইলের বাথ ট্যাব।</item>
+        <item> জ্যাকেট।</item>
+        <item> আন্ডার ওয়ার।</item>
+        <item> একজন ডাক্তারকে বলা যায়।</item>
+        <item> দুই,তিন দিন/কয়েক দিন।</item>
+        <item> পর্যন্ত।</item>
+        <item> সেজন্য।</item>
+        <item> [কিছু করতে]পারা।</item>
+        <item> পরিষ্কার করা।</item>
+        <item> বাজান [পিয়ানো/গিটার]।</item>
+        <item> গান গাওয়া।</item>
+        <item> একত্রিত করা।</item>
+        <item> ফেলে দেওয়া।</item>
+        <item> বদলান।</item>
+        <item> গাড়ি বা মেশিন চালান।</item>
+
+
+    </string-array>
+
+    <string-array name="vocabulary14_title">
+        <item>০১　よやくします\n　
+            yaku shimasu
+        </item>　
+        <item>০২)　けんがくします\n　
+       kengakushimasu
+        </item>　
+        <item>০৩) ピアノ\n　
+        piano
+        </item>
+        <item>০৪)　〜メートル\n　
+            - meetoru
+        </item>　
+        <item>০৫)　こくさい〜\n　
+        kokusai
+        </item>　
+        <item>০৬) げんきん\n　
+        genkin
+        </item>
+        <item>০৭) しゅみ\n　
+           shumi　
+        </item>　
+        <item>০৮) にっき\n　
+       nikki
+        </item>
+        <item>০৯) おいのり\n　
+        oinori
+        </item>
+        <item>১০) かちょう\n
+           kachou
+        </item>　
+        <item>১১)　ぶちょう\n　
+            buchou
+        </item>　
+        <item>১২)　しゃちょう\n　
+          shachou
+        </item>
+        <item>১৩) のぼります「やまに〜」\n
+           noborimasu[yama ni]
+        </item>
+        <item>১৪)　とまります「ホテルに〜」\n
+        tomarimasu[hoteru ni]
+        </item>
+        <item>১৫)　そうじします\n
+        souji shimasu
+        </item>
+        <item>১৬)　せんたくします\n
+        sentaku shimasu
+        </item>
+        <item>১৭)　れんしゅうします\n
+        renshuushimasu
+        </item>
+        <item>১৮) なります\n
+        narimasu
+        </item>
+        <item>১৯)　ねむい\n
+        nemui
+        </item>
+        <item>২০) つよい\n
+        tsuyoi
+        </item>
+        <item>২১) よわい\n
+       yowai
+        </item>
+        <item>২২) ちょうしがいい\n
+        choushi ga ii
+        </item>
+        <item>২৩) ちょうしがわるい\n
+            choushi ga warui
+        </item>
+        <item>২৪) ちょうし\n
+        choushi
+        </item>
+        <item>২৫)　ゴルフ\n
+        gorufu
+        </item>
+        <item>২৬) すもう\n
+        sumou
+        </item>
+        <item>২৭) パチンコ\n
+        pachinko
+        </item>
+        <item>২৮) おちゃ\n
+            ocha
+        </item>
+        <item>২৯) ひ\n
+           hi
+        </item>
+        <item>৩০　いちど\n
+       ichido
+        </item>
+        <item>৩১)　いちども\n
+        ichido mo
+        </item>
+        <item>৩২) だんだん\n
+        dandan
+        </item>
+        <item>৩৩) もうすぐ\n
+        mousugu
+        </item>
+        <item>৩৪) おかげさまで\n
+        okagesamade
+        </item>
+        <item>৩৫)　いります「ビザが〜」\n
+        irimasu
+        </item>
+        <item>৩৬) しらべます\n
+        shirabemasu
+        </item>
+        <item>৩৭)　なおします\n
+        naoshimasu
+        </item>
+        <item>৩৮)　しゅうりします\n
+           shuurishimasu
+        </item>
+        <item>৩৯) でんわします\n
+        denwashimasu
+        </item>
+        <item>৪০) ぼく\n
+        boku
+        </item>
+        <item>৪১)　きみ\n
+       kimi
+        </item>
+        <item>৪২) 〜くん\n
+        - kun
+        </item>
+        <item>৪৩) うん\n
+       un
+        </item>
+        <item>৪৪) ううん\n
+          uun
+        </item>
+        <item>৪৫) サラリーマン\n
+        sarariiman
+        </item>
+        <item>৪৬) ことば\n
+        kotoba
+        </item>
+        <item>৪৭) ぶっか\n
+        bukka
+        </item>
+        <item>৪৮)　きもの \n
+            kimono
+        </item>
+        <item>৪৯) ビザ\n
+       biza
+        </item>
+        <item>৫০　はじめ\n
+        hajime
+        </item>
+        <item>৫১) おわり\n
+       owari
+        </item>
+        <item>৫২) こっち\n
+        kocchi
+        </item>
+        <item>৫৩) そっち\n
+       socchi
+        </item>
+        <item>৫৪) あっち\n
+        acchi
+        </item>
+        <item>৫৫)　どっち\n
+        docchi
+        </item>
+        <item>৫৭) このあいだ\n
+        kono aida
+        </item>
+        <item>৫৮) みんなで\n
+        minna de
+        </item>
+        <item>৬০) 〜けど\n
+            - kedo
+        </item>
+        <item>৬১)　おもいます \n
+       omoimasu
+        </item>
+        <item>৬২) いいます\n
+        iimasu
+        </item>
+        <item>৬৩) たります\n
+       tarimasu
+        </item>
+        <item>৬৪) かちます\n
+        kachimasu
+
+        </item>
+        <item>৬৫) まけます\n
+       makemasu
+        </item>
+        <item>৬৬) あります\n
+       arimasu
+        </item>
+        <item>৬৭) やくにたちます\n
+       yaku ni tachimasu
+        </item>
+        <item>৬৮)　むだ「な」\n
+        muda
+        </item>
+        <item>৬৯)　ふべん「な」\n
+       fuben
+        </item>
+        <item>৭০)　おなじ\n
+        onaji
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary14_description">
+        <item> আগাম বুক করা।</item>
+        <item> শিক্ষা সফরে যাওয়া।</item>
+        <item> পিয়ানো।</item>
+        <item> -মিটার।</item>
+        <item> আন্তর্জাতিক।</item>
+        <item> কাশ টাকা।</item>
+        <item> শোঁখের বসে যা করা হয়।</item>
+        <item> ডায়রি।</item>
+        <item> প্রাথনা করা।</item>
+        <item> সেকশন ম্যানেজার।</item>
+        <item> ডিপার্টমেন্ট ম্যানেজার।</item>
+        <item> কোম্পানির মালিক।</item>
+        <item> (উপরে) উপরে উঠা (পাহাড়ের উপরে উঠা)।</item>
+        <item> রাতে থাকা (হোটেলে)।</item>
+        <item> পরিষ্কার করা।</item>
+        <item> কাপড় পরিষ্কার করা।</item>
+        <item> চর্চা করা।</item>
+        <item> শিক্ষক হওয়া।</item>
+        <item> ঘুম ঘুম ভাব।</item>
+        <item> শক্তিশালী বা পারদর্শী।</item>
+        <item> দুর্বল অথবা অপারদর্শী।</item>
+        <item> শারীরিক ভাল অবস্থা।</item>
+        <item> শারিরক খারাপ অবস্থা।</item>
+        <item> অবস্থা।</item>
+        <item> গলফ খেলা</item>
+        <item> জাপানের কুস্তি খেলা</item>
+        <item> একটি পিন বল খেলার নাম।</item>
+        <item> পাচিঙ্ক খেলা।</item>
+        <item> চা।</item>
+        <item> দিন/তারিখ।</item>
+        <item> এক বার]</item>
+        <item> কখনো না /একবারও না ।</item>
+        <item> ক্রমে ক্রমে বা আস্তে আস্তে ।</item>
+        <item> একটু পরে।</item>
+        <item> আপনার দোয়ায়।</item>
+        <item> দরকার আছে (ভিসার)।</item>
+        <item> অনুসন্ধান করা / খোঁজ করা।</item>
+        <item> মেরামত করা বা ঠিক করা।</item>
+        <item> যন্ত্রপাতি মেরামত করা।</item>
+        <item> আমি।</item>
+        <item> তুমি।</item>
+        <item> মিঃ।</item>
+        <item> হ্যাঁ।</item>
+        <item> না।</item>
+        <item> অফিসে চাকুরী করে এমন মানুষ।</item>
+        <item> শব্দ বা ভাষা।</item>
+        <item> দ্রব্যের মূল্য।</item>
+        <item> ঐতিহ্যবাহী পোশাকের নাম (জাপানিজ মেয়েদের)।</item>
+        <item> ভিসা।</item>
+        <item> প্রথমে বা শুরুতে।</item>
+        <item> শেষ।</item>
+        <item> এইদিকে।</item>
+        <item> ওইদিকে।</item>
+        <item> ঐদিকে।</item>
+        <item> কোনটা।</item>
+        <item> কয়েকদিন আগে সেইদিন।</item>
+        <item> সবাই মিলে বা সবাই একত্রে ।</item>
+        <item> কিন্তু।</item>
+        <item> মনে করা।</item>
+        <item> বলা।</item>
+        <item> যথেষ্ট হওয়া।</item>
+        <item> জয়লাভ করা।</item>
+        <item> পরাজিত হওয়া।</item>
+        <item> অনুষ্ঠিত হওয়া।</item>
+        <item> কাজে লাগা বা উপকার হওয়া।</item>
+        <item> অকেজো / বৃথা।</item>
+        <item> অসুবিধা জনক।</item>
+        <item> একই বা সমান।</item>
+
+
+    </string-array>
+
+    <string-array name="vocabulary15_title">
+        <item>০১　すごい\n　
+            yaku shimasu
+        </item>　
+        <item>০২)　しゅしょう\n　
+       kengakushimasu
+        </item>　
+        <item>০৩) だいとうりょう\n　
+        piano
+        </item>
+        <item>০৪)　せいじ\n　
+            - meetoru
+        </item>　
+        <item>০৫)　ニュース\n　
+        kokusai
+        </item>　
+        <item>০৬) スピーチ\n　
+        genkin
+        </item>
+        <item>০৭) しあい\n　
+           shumi　
+        </item>　
+        <item>০৮) アルバイト\n　
+       nikki
+        </item>
+        <item>০৯) いけん\n　
+        oinori
+        </item>
+        <item>১০) おはなし\n
+           kachou
+        </item>　
+        <item>১১)　ユーモア\n　
+            buchou
+        </item>　
+        <item>১২)　デザイン\n　
+          shachou
+        </item>
+        <item>১৩) こうつう\n
+           noborimasu[yama ni]
+        </item>
+        <item>১৪)　ラッシュ\n
+        tomarimasu[hoteru ni]
+        </item>
+        <item>১৫)　さいきん\n
+        souji shimasu
+        </item>
+        <item>১৬)　たぶん\n
+        sentaku shimasu
+        </item>
+        <item>১৭)　きっと\n
+        renshuushimasu
+        </item>
+        <item>১৮) ほんとうに\n
+        narimasu
+        </item>
+        <item>১৯)　そんなに\n
+        nemui
+        </item>
+        <item>২০) 〜について\n
+        tsuyoi
+        </item>
+        <item>২১) しかたがありません\n
+       yowai
+        </item>
+        <item>২২) きます「サッツを〜」\n
+        choushi ga ii
+        </item>
+        <item>২৩) はきます「くつを〜」\n
+            choushi ga warui
+        </item>
+        <item>২৪) かぶります「ぼうしを〜」\n
+        choushi
+        </item>
+        <item>২৫)　かけます「メガネを〜」\n
+        gorufu
+        </item>
+        <item>২৬) うまれます\n
+        sumou
+        </item>
+        <item>২৭) コート\n
+        pachinko
+        </item>
+        <item>২৮) スーツ\n
+            ocha
+        </item>
+        <item>২৯) セーター\n
+           hi
+        </item>
+        <item>৩০　ぼうし\n
+       ichido
+        </item>
+        <item>৩১)　めがね\n
+        ichido mo
+        </item>
+        <item>৩২) よく\n
+        dandan
+        </item>
+        <item>৩৩) おめでとうございます\n
+        mousugu
+        </item>
+        <item>৩৪) ききます「せんせいに〜」\n
+        okagesamade
+        </item>
+        <item>৩৫)　まわします\n
+        irimasu
+        </item>
+        <item>৩৬) ひきます\n
+        shirabemasu
+        </item>
+        <item>৩৭)　かえます\n
+        naoshimasu
+        </item>
+        <item>৩৮)　さわります「ドアに〜」\n
+           shuurishimasu
+        </item>
+        <item>৩৯) でます「おつりが〜」\n
+        denwashimasu
+        </item>
+        <item>৪০)　うごきます「とけいが〜」\n
+        boku
+        </item>
+        <item>৪১)　あるきます「みちを〜」\n
+       kimi
+        </item>
+        <item>৪২) わたります「はしを〜」\n
+        - kun
+        </item>
+        <item>৪৩) きをつけます「くるまに〜」\n
+       un
+        </item>
+        <item>৪৪) じっこしします\n
+          uun
+        </item>
+        <item>৪৫) でんきや\n
+        sarariiman
+        </item>
+        <item>৪৬) 〜や\n
+        kotoba
+        </item>
+        <item>৪৭) サイズ\n
+        bukka
+        </item>
+        <item>৪৮)　おと \n
+            kimono
+        </item>
+        <item>৪৯) きかい\n
+       biza
+        </item>
+        <item>৫০　つまみ\n
+        hajime
+        </item>
+        <item>৫১) こしょう\n
+       owari
+        </item>
+        <item>৫২) みち\n
+        kocchi
+        </item>
+        <item>৫৩) こうさてん\n
+       socchi
+        </item>
+        <item>৫৪) しんごう\n
+        acchi
+        </item>
+        <item>৫৫)　かど\n
+        docchi
+        </item>
+        <item>৫৭) はし\n
+        kono aida
+        </item>
+        <item>৫৮) ちゅうしゃじょう\n
+        minna de
+        </item>
+        <item>৬০)　おしょうがつ\n
+            - kedo
+        </item>
+        <item>৬১)　ごちそうさまでした \n
+       omoimasu
+        </item>
+        <item>৬২) くれます\n
+        iimasu
+        </item>
+        <item>৬৩)　つれていきます\n
+       tarimasu
+        </item>
+        <item>৬৪) つれてきます\n
+        kachimasu
+
+        </item>
+        <item>৬৫) おくります「ひとを〜」\n
+       makemasu
+        </item>
+        <item>৬৬) しょうかいします\n
+       arimasu
+        </item>
+        <item>৬৭) あんないします\n
+       yaku ni tachimasu
+        </item>
+        <item>৬৮)　せつめいします\n
+        muda
+        </item>
+        <item>৬৯)　いれます「コーヒー」\n
+       fuben
+        </item>
+        <item>৭০)　ぜんぶ\n
+        onaji
+        </item>
+
+    </string-array>
+    <string-array name="vocabulary15_description">
+        <item> দারুণ/বিরাট[অবাক হলে বলা হয়।]।</item>
+        <item> প্রধানমন্ত্রী।</item>
+        <item> রাষ্ট্রপ্রতি।</item>
+        <item> রাজনীতি।</item>
+        <item> খবর।</item>
+        <item> বক্তৃতা।</item>
+        <item> খেলার ম্যাচ।</item>
+        <item> সাইড জব।</item>
+        <item> মতামত।</item>
+        <item> গল্প/কথা।</item>
+        <item> রসিকতা।</item>
+        <item> ডিজাইন।</item>
+        <item> ট্রাফিক।</item>
+        <item> ভিড়ের সময়।</item>
+        <item> সাম্প্রদায়িক।</item>
+        <item> মনে হয়/ হতে পারে।</item>
+        <item> খুব সম্ববত।</item>
+        <item> সত্যি।</item>
+        <item> অত বেশি না।</item>
+        <item> সম্পর্কে।</item>
+        <item> অন্য কোন উপায় নাই।</item>
+        <item> পরিধান করা (শার্ট ইত্যাদি)।</item>
+        <item> পরিধান করা (জুতা,প্যান্ট ইত্যাদি)।</item>
+        <item> পরিধান করা (টুপি)।</item>
+        <item> পরিধান করা (চশমা)</item>
+        <item> জন্ম।</item>
+        <item> কোট।</item>
+        <item> সুট।</item>
+        <item> সোয়েটার।</item>
+        <item> টুপি।</item>
+        <item> চশমা</item>
+        <item> প্রায়ই ।</item>
+        <item> সাদর অভিনন্দন নিন(জন্মদিন,বিবাহের দিন,নববর্ষের দিন বলা হয়।)।</item>
+        <item> জিজ্ঞাসা করা।</item>
+        <item> ঘুরানো।</item>
+        <item> টানা বা পুল করা।</item>
+        <item> বদলানো।</item>
+        <item> টাচ করা।</item>
+        <item> বের হয়ে আসা(খুচরা টাকা)।</item>
+        <item> চলাচল করা।</item>
+        <item> পায়ে হাটা।</item>
+        <item> পারাপার হওয়া।</item>
+        <item> সাবধানে থাকা।</item>
+        <item> বদলানো।</item>
+        <item> ইলেকট্রিকের দোকান।</item>
+        <item> - দোকান।</item>
+        <item> সাইজ।</item>
+        <item> শব্দ।</item>
+        <item> মেশিন।</item>
+        <item> ধরার জন্য।</item>
+        <item> নষ্ট/অচল।</item>
+        <item> রাস্তা/পথ।</item>
+        <item> রাস্তার ক্রসিং।</item>
+        <item> ট্রাফিক লাইট।</item>
+        <item> কর্নার।</item>
+        <item> পুল।</item>
+        <item> গাড়ি রাখার স্থান।</item>
+        <item> নববর্ষ।</item>
+        <item> মজার খাবার খেয়েছি,ধন্যবাদ।</item>
+        <item> দেওয়া(আমাকে)।</item>
+        <item> সাথে করে নিয়ে যাওয়া।</item>
+        <item> সাথে করে নিয়ে আসা।</item>
+        <item> পাঠানো/এগিয়ে দেওয়া।</item>
+        <item> পরিচয় করিয়ে দেওয়া।</item>
+        <item> পথ দেখানো।</item>
+        <item> বিশ্লেষণ করা।</item>
+        <item> তৈরি করে দেওয়া [কফি]।</item>
+        <item> সব।</item>
+
+
+    </string-array>
+
+    // for grammer arraylist
+    <string-array name="grammer01_titles">
+        <item>০১)は〜এর ব্যাবহার </item>
+        <item>০২)です〜এর ব্যাবহার </item>
+        <item>০৩)じゃありません〜এর ব্যাবহার </item>
+        <item>০৪)か〜এর ব্যাবহার </item>
+
+    </string-array>
+    <string-array name="grammer01_details">
+       <item>বাক্যে Topic ( বিষয় / প্রসঙ্গ ) আলোচনার বিষয় এর পর は বসে।はParticle টি わএর মত উচ্চারিত হয়।একটি বাক্যে は Particle কখনো দুইবার বসে না ।\n
+           ভোগলিক অবস্থা বা স্থানকে সময় প্রকাশকে বা নির্দেশক শব্দকে Topic হিসেবে ব্যবহার এর জন্য এগুলো Noun এর পর は বসে। Object কে বাক্যের Topic করতে হলে わ
+           এর পরিবর্তে は বসে।\n
+           যেমনঃ\n\n
+                    •\tわたしはがくせいです。\n
+                    •\tにほんはあんせんなくにです。\n
+                    •\tどようびはなにをしますか。\n
+                    •\tにむつはここにおかないでください。\n
+                    •\tかいしゃのしょくどうでひるごはんをたべます。\n
+                    •\tひるごはんはかいしゃのしょくどうでたべます。\n\
+       </item>
+
+        <item>
+            です এর সাথে Noun ব্যবহৃত হয়ে particles (বিদেয় / উদ্দেশ্যর ধর্ম/ গুণ) হিসেবে কাজ করে।বিবৃতিমূলক বাক্যের শেষে です বসে ।\n
+            বাক্যের শেষে です থাকলে বুঝতে হবে বাক্যটি polite ( শালীন, ভদ্র, মার্জিত,শিষ্টাচার যুক্ত ) বাক্যে।
+            です দিয়ে ইংরেজিতে  am , is, are বুঝায়।\n
+            যেমনঃ\n\n
+                    o\tわたしはがくせいです。\n
+                    o\tでは, じつは\n
+                    o\tわたしはマイクです。\n
+                    o\tこれはペンです。\n
+        </item>
+
+        <item>
+            です এর negative form হচ্ছে じゃ（では）ありません।\n
+            যেমনঃ\n\n
+                   •\tわたしはがくせいじゃありません。\n
+        </item>
+
+        <item>
+            বাক্যের শেষে か particle টি যুক্ত করে প্রশ্ন করা হয়।\n
+        যেমনঃ\n\n
+                    •\tあなたのなまえはなんですか。\n
+                    •\tサントスさんはせんせいですか。\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer02_titles">
+        <item>১) これ , それ , あれ </item>
+        <item>২) この , その , あの </item>
+        <item>২) そうです・ \n そうじゃありません </item>
+        <item>২) の এর ব্যবহার </item>
+        <item>২) そうですか </item>
+    </string-array>
+    <string-array name="grammer02_details">
+       <item>これ , それ , あれ  এগুলো হচ্ছে Noun. এর পর subject এর প্রয়োজন নেই।\n
+           যেমনঃ\n\n
+                    •\tそれはじしょですか。\n
+                    •\tこれはめいしです。\n
+       </item>
+
+        <item>
+            この その あの এই Noun গুলো পর অবশ্যই subject বসাতে হবে।\n
+        যেমনঃ\n\n
+                    •\tそのかぎはわたしのです。\n
+                    •\tあれかばんはわたしのです。\n
+        </item>
+
+        <item>
+            そうです、そうじゃありません এই শব্দ গুলো conversation করার সময় ব্যবহার করা হয়।\n
+        যেমনঃ\n\n
+                    •\tそれはテレホンカードですか。\n
+                    はい、そうです。\n
+                    \n
+                    •\tそれはテレホンカードですか　\n
+                    いいえ、そうじゃありません。\n
+        </item>
+
+        <item>
+            の particle টি র,এর অর্থে ব্যবহার করা হয়। の particle টি ব্যক্তি , স্থানের ক্ষেত্রে ও বসে।\n
+        যেমনঃ\n\n
+                    •\tあれはミラーさんのほんです。\n
+                    •\tこれはにほんのかばんです。\n
+        </item>
+
+        <item>
+           そうですか　এই শব্দ টি conversation করার সময় ব্যবহার করা হয়।\n
+        যেমনঃ\n\n
+                    •\tこのかさはあなたのですか。\n
+                    いいえ、ちがいます。スユミットさんのです。\n
+                    •\tそうですか。\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer03_titles">
+        <item>১) ここ , そこ , あそこ </item>
+        <item>২) の এর ব্যবহার </item>
+    </string-array>
+    <string-array name="grammer03_details">
+       <item>ここ、そこ、あそこ এই শব্দ গুলা সাধারনত place বা স্থান কে নির্দেশ করার জন্য ব্যবহার করা হয়। বাক্যে Topic(বিষয়/প্রসঙ্গ)আলোচনার বিষয় এর পর は বসে।\n\n
+                    ভোগলিক অবস্থান বা স্থানকে,সময় প্রকাশক বা নির্দেশক শব্দকে Topic হিসেবে ব্যবহার এর জন্য এগুলোর (noun) পর は বসে।\n\
+                    どこদিয়ে কোথায়どちらদিয়ে কোন দিকে নির্দেশ করা বুঝায়।\n
+           যেমনঃ\n\n
+                    •\tここはきょうしつです。\n
+                    •\tそこはだいがくです。\n
+                    •\tあそこはひろしまです。\n
+                    •\tおてあらいはあそこです。\n
+                    •\tでんわは２かいです。\n
+                    •\tやまださんはじむしょです。\n
+                    •\tおてあらい は どこですか。\n
+                    •\tエレベーターはどちらですか。\n\n
+       </item>
+
+        <item>
+            の particle টি「র, এর 」অর্থে ব্যবহার করা হয়।বাক্যে পাশাপাশি দুটি noun যখন একটি আরেকটি কে modify করে তখন noun দুটির মাঝে の particle বসে।\n
+        যেমনঃ\n\n
+                    •\tこれはどこのコンピューターですか。\n
+                    にほんのコンピューターです。\n
+                    •\tこれはにほんのじどうしゃです。\n
+                    •\tそれはアメリカのテレビです。\n
+        </item>
+
+
+    </string-array>
+
+    <string-array name="grammer04_titles">
+        <item>১) にparticle এর ব্যাবহার </item>
+        <item>২) ますform </item>
+        <item>৩) ヘparticle এর ব্যবহার </item>
+        <item>৪) でparticle এর ব্যবহার </item>
+    </string-array>
+    <string-array name="grammer04_details">
+       <item>に দিয়ে ইংরেজীতে in, at, to, for ইত্যাদি preposition বুঝায়। Verb এর কাজ সংঘটিত হওয়ার সময়টিকে নির্দেশ করতে সময়ের পর にparticle বসে।\n
+           কিন্তু সময়টিকে শুধু সংখ্যা প্রকাশ করলেই সময়ের পর にবসবে অন্যথায় নয়।\n
+        যেমন : \n\n
+        •\tふゆにゆきがふります。\n
+        •\tわたしは6じはんにおきます。\n
+        •\t12じ にねます。\n
+        •\t5がつににほんへきました。\n
+        •\tあしたうちへかえります。\n
+        •\tかようびににほんへいきます。\n\n</item>
+
+        <item>কোন শব্দের শেষে ますযুক্ত থাকলে সাধারণত সেই শব্দগুলোকে verb বলা হয়। আর এই যুক্ত verb গুলোই verb এর ますform হিসেবে পরিচিত।\n\n
+            যেমন :\n\n
+            বর্তমান এবং ভবিষ্যৎকাল (হ্যাঁবোধক) হচ্ছেঃ\n
+            おきます(okimasu)\n
+            ঘুম থেকে উঠবো।/ ঘুম থেকে উঠি।\n
+            ねます(nemasu)\n
+            ঘুমাব / ঘুমাই।\n\n
+            বর্তমান এবং ভবিষ্যৎকাল (নাবোধক) হচ্ছে 〜ません\n
+            অতীতকালের(হ্যাঁবোধক)হচ্ছে 〜ました\n
+            অতীতকালের(নাবোধক)হচ্ছে 〜ませんでした\n\n</item>
+        <item>কোন স্থানে যাওয়া,আসা,ফিরে আসা/ যাওয়া বুঝালে ঐ স্থানের নামের পর ヘ particle ব্যবহৃত হয়। ヘ particle টি বাংলা এ এর মত উচ্চারণ হয়।\n
+            どこも、なにも、だれも এসব শব্দ যদি কোন sentence এ থাকে তাহলে sentence টি না বোধক form করতে হবে। \n\n
+            যেমন : \n
+            •\tきようとへいきます。\n
+            •\tにほんへきました。\n
+            •\tうちへかえります。\n
+            •\tどこもいきません。\n
+            •\tなにもたべません。\n
+            •\tだれもいません。\n\n</item>
+        <item>যানবাহন দিয়ে যাওয়া বা আসা বুঝালে যানবাহনের নামের পর で particle বসে।\n
+            কিন্তু পায়েহেঁটে কোথাও যাওয়া বুঝালে সে ক্ষেত্রে で particle টি বসবে না।\n
+            যেমন : \n
+            •\tバスーでいきます。\n
+            •\tタクシーできました。\n
+            •\tえきからあるいてかえりました。\n</item>
+
+
+    </string-array>
+
+    <string-array name="grammer05_titles">
+        <item>১) をparticle এর ব্যাবহার </item>
+        <item>২) なんএবংなに এর ব্যাবহার </item>
+        <item>৩) で এর ব্যাবহার </item>
+        <item>৪) 〜ませんか・〜ましょう এর ব্যাবহার </item>
+    </string-array>
+    <string-array name="grammer05_details">
+       <item>Verb এর object (উদ্দেশ্য বা লক্ষ্য) কে নির্দেশ করতে を particle টি ব্যাবহার করা হয়\n
+        যেমন : \n\n
+                    •\t わたしはごはんをたべます。\n
+                    •\t わたしはみずをのみます。\n
+                    •\t わたしはえいがをみます。\n
+                    •\t わたしはしゃしんをとります。\n
+                    •\t わたしはタバコをすいます。\n
+                    •\t しゅくだいをします。\n
+                    •\t しごとをします。\n
+                    •\t サッカーをします。\n</item>
+
+        <item>なんএবংなに:\n
+            যেমন :\n\n
+            なん:\n\n
+                    •\tそれはなんですか。\n
+                    •\tなんのほんですか。\n
+                    •\tたべるまえになんといいますか。\n
+                    •\tあなたはなんかいですか。\n
+                    •\tかぞくはなんにんですか。\n\n
+                    なに：\n\n
+                    •\tなにをかいますか\n
+                    •\tないをたべますか\n
+                    •\tなにをのみますか。\n
+                    •\tなにをみますか。\n
+                    •\tなにをしますか。\n</item>
+
+        <item>কোন নির্দিষ্ট স্থানে কোন কাজ সংগঠিত হলে সেই নির্দিষ্ট স্থানের পর で　বসে।\n
+            কোন কিছু ( tools , method) দারা কোন কাজ করলে ঐ tools বা method এর নামের পর でparticle বসে। ভাষাটাও এক প্রকার tools এর জন্য ভাষার পর で বসেছে।\n
+            যেমন : \n\n
+            •\tわたしはデパートでとけいをかいました。\n
+            •\tわたしはえきでしんぶんをきいます。\n
+            •\tはしでたべます。\n
+            •\tにほんごでてがみをかきます。\n</item>
+
+        <item>Negative এর সাথে প্রশ্নবোধক  যোগ হয়ে offer করা বুঝায়।\n
+                    আমন্ত্রণ জানানোর ক্ষেত্রে Verb এর সাথে ましょう থাকলে না করার কোন option  থাকে না।\n\n
+            যেমন : \n\n
+            •\tバスーでいきます。\n
+            •\tタクシーできました。\n
+            •\tえきからあるいてかえりました。\n</item>
+
+    </string-array>
+
+    <string-array name="grammer06_titles">
+        <item>১)に particle এর ব্যাবহার </item>
+        <item>২)もう এর ব্যাবহার </item>
+        <item>৩)Adjective </item>
+        <item>৪)なAdjective এর ব্যাবহার</item>
+        <item>৫)いAdjective এর ব্যাবহার</item>
+    </string-array>
+    <string-array name="grammer06_details">
+       <item>   ১) কারো কাছ থেকে কোন কিছু পাওয়া,ধারকরা,নেওয়া,শেখা অথবা কাউকে কোন কিছু দেওয়া,
+                শেখানো ইত্যাদি ক্ষেত্রে যাকে দেওয়া হলো বা যার কাছ থেকে পাওয়া হলো তার নামের পর にparticle বসে ।\n
+                ২) কোন দিক নির্দেশ করলে তার পর に particle বসে।\n
+                ৩) কোন স্থান বুঝালে তারপর に particle বসে।\n\n
+                যেমনঃ \n\n
+
+                    •\t やまださんはきむらさんにはなをあげました。\n
+                    ইয়ামাদা সাহেব কিমুরা সাহেবকে ফুল দিয়েছেন । \n
+                    •\t スーパーのまえにきっさてんがあります。\n
+                    সুপারমার্কেট এর সামনে ক্যান্টিন আছে ।\n
+                    •\t ミラーさんはかいぎしつにいます。\n
+                    মিরা সাহেব মিটিং রুমে আছে ।
+       </item>
+
+        <item>もう অর্থ ইতিমধ্যে যা ঘটেগেছে বা হয়েগেছে।もう এরপরে verb এর Vましたবসে।\n
+            •\t もうにもつをおくりました。\n
+            •\t もうおおさかじょうへいきました。\n
+            •\t もうひるごはんをたべました。\n
+        </item>
+
+
+        <item>জাপানি ভাষায় দুই প্রকারের adjective আছে। なadjective এবংいadjective. যে word এর শেষে い অক্ষর যুক্ত আছে তাকে い adjective বলে।আর বাকী adjective গুলোকেな adjective বলে।\n
+            যেমনঃ \n\n
+            なAdjective :\n ハンサムな\nきれいな\nしずかな\nにぎやかな\nゆうめいな\nしんせつな\n\n
+            いAdjective :\nおおきい\nちいさい\nふるい\nわるい\nあつい\nさむい\n\n
+        </item>
+
+        <item>
+            ১ ）সাধারনত বাক্যে な　adjective な ব্যতিত ব্যবহার হয়। Sentence এ なadjective এর পর noun থাকলে なadjective এর な যুক্ত হয়। なadjective এর নাবোধক করলে এরসাথেじゃありません　যুক্ত হয়। \n\n
+            ২ ）な　adjective গুলোর past from করার জন্য adjective এর শেষে です এর পরিবর্তে でした　বসে।Noun এর ক্ষেত্রেও でした বসে।আবার な　adjective এর negative করার জন্য じゃありませんでした　বসে।\n
+            যেমনঃ \n\n
+
+
+                    •\t ミラーさんはしんせつです。\n
+                    •\t ならはきれいなまちです。\n
+                    •\t ミラーさんはしんせつなひとです。\n
+                    •\t ならはしずかなまちです。\n
+                    •\t きれいですーきれいじゃありません\n
+                    •\t げんきですーげんきじゃありません\n
+        </item>
+
+        <item> ১ ）সাধারনত বাক্যে い　adjective　এর কোন পরিবর্তন হয় না ।\n
+            い adjective এর নাবোধক করার জন্য শেষের い বাদ দিয়েくないযোগ করতে হয়।\n\n
+            ২ ）いadjective গুলোর past from করার জন্য adjective এর শেষের い টাকে বাদদিয়ে かった　যোগ করতে হয়।আবার い　adjective এর নাবোধক করার সময় かった এর পরিবর্তে くなかった　বসে।\n
+            যেমনঃ\n\n
+            •\t きょうはあついです。\n
+            •\t あたたかいコーヒーをのみます。\n
+            •\t このりょうりはおいいしいくないです。\n
+            •\t にほんごはむずかしくないです。\n
+            •\t きのうはあつかったです。\n
+            •\t きのうのパーティはあまりたのしくなかったです。\n
+            •\t きのうはしずかでした。\n
+            •\t きのうはしずかじゃありませんでした。\n
+            •\t きのうはあめでした。\n
+            •\t きのうはあめじゃありませんでした。\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer07_titles">
+        <item>১)とても এবং あまり</item>
+        <item>২)どうですか এবং どんな</item>
+        <item>৩)がএর ব্যাবহার </item>
+    </string-array>
+    <string-array name="grammer07_details">
+       <item>
+           ১ ）とても অর্থ খুব; এটি সাধারণত adjective এর আগে বসে। এটি হ্যাঁ বোধক বাক্যে ব্যবহৃত হয়। এটি একটি adverb.\n
+           ২ ）あまりঅর্থ তেমন না, এটি ও সাধারণত adjective এর আগে বসে এবং adjective কে modify করে। এটি একটি adverb . এটি না বোধক বাক্যে ব্যবহৃত হয়।\n
+           যেমনঃ \n\n
+
+           a. ペキンはとてもさむいです。\n
+           b. これはとてもゆうめいなえいがです。\n
+           c. シャンハイはあまりさむくないです。\n
+           d. さくらだいがくはあまりゆうめいなだいがくじゃありません。\n
+       </item>
+
+        <item>
+            ১ ）どうですか　এর অর্থ হলো কেমন।এটি question word সাধারণত প্রশ্ন করার জন্য এই শব্দ টা ব্যবহার করা হয়।\n
+            ২ ）どんな　এর অর্থ হলো কেমন।どんな দ্বারা কেমন ধরনের বা কোন ধরনের অর্থ বুঝায়। এই word টি ও প্রশ্ন করার সময় ব্যবহার করা হয়।\n
+            যেমনঃ\n\n
+            a. にほん　の　せいかつ　は　どうですか。\n
+            ・・・たのしいです。\n
+            b. これはどうですか。\n
+            c. ならはどんなまちですか。\n
+            ・・ふるいまちです。\n
+            d. どんなスポーツがすきですか。\n
+            e. サッカーがすきです。\n
+        </item>
+
+
+        <item>
+            ১) がএর অর্থ হলো কিন্তু। দুটি বিপরীতার্থক বাক্যকে সংযুক্ত করতে がবসে।\n
+            ২) পাঁচটি verb (います、あります、できます、分かります、いります) এই পাঁচটি verbএর objects(উদ্দেশ্য বা লক্ষ্য ) কে নির্দেশ করতে verb ও objects এর মাঝে が particle ব্যবহার হয়। \n
+            যেমনঃ \n\n
+            a. にほんのたべものはおいしいですが、たかいです。\n
+            জাপানের খাবার মজার কিন্তু দামি । \n
+            b. いぬがいます。\n
+            কুকুর আছে ।\n
+            c. 車があります。\n
+            গাড়ি আছে ।\n
+            d. 私は日本ごが分かります。\n
+            আমি জাপানিজ ভাষা বুঝি । \n
+            e. ビザがいります。\n
+            ভিসা আছে ।\n\n
+
+            ৩) কোনো কিছু থাকা, বুঝা, পারা , প্রয়োজন ( います、あります、いります、分かります、できます) পছন্দ , অপছন্দ , দক্ষতা ( 好きです、きらいです、へたです、じょうずです) ইত্যাদি বুঝাতে উল্লেখিত verb ও adjective এর আগে noun থাকলে noun এবং verb , noun এবং objective এর মাঝে が particle বসে। \n
+            ৪) জীবিত প্রাণী বা ব্যক্তিকে নির্দেশ করতে います　ব্যবহার করা হয় এবং এর পূর্বে がবসে।\n
+            যেমনঃ\n\n
+            a. 私はイタリアりょうりがすきです。\n
+            আমি ইতালিয়ান রান্না পছন্দ করি । \n
+            b. 私はサッカーがきらいです。\n
+            আমি ফুটবল অপছন্দ করি । \n
+            c. 私は日本語がへたです\n
+            আমি জাপানিজ ভাষা অদক্ষ । \n
+            d. わたしはえいごがじょうずです。\n
+            আমি ইংরেজি ভাষা দক্ষ । \n
+            e. あそこにやまださんがいます。\n
+            ঐখানে ইয়ামাদা সাহেব আছে । \n\n
+            ৫) জড়বস্তুকে নির্দেশ করতে ありますব্যবহৃত হয় এবং এর পূর্বে が বসে।\n
+            ৬) যখন subject　প্রশ্নবিদ্ব হয়, তখন subject কে が দ্বারা নির্দেশ করা হয়।\n
+            যেমনঃ\n\n
+            a. あそこにでんわがあります。\n
+            ঐখানে ফোন আছে । \n
+            b. にわにだれがいますか。\n
+            বাগানে কে আছে ?\n\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer08_titles">
+        <item>১)গণনা</item>
+        <item>২)より,どちらがএর ব্যবহার</item>
+        <item>৩)いちばんএর ব্যবহার</item>
+    </string-array>
+    <string-array name="grammer08_details">
+       <item>
+            ১) কোন বস্তু যেমন (আপেল, কমলা, চাবি) ইত্যাদি গণনা করতে ひとつ、ふたつ　ব্যবহার করা হয়। \n
+            ২) পাতলা জিনিস গণনার জন্য まいব্যবহার করা হয়।\n
+            ৩) মানুষ গণনা করার জন্য にんব্যবহার করা হয়। তবে প্রথম ২ জন এর ক্ষেত্রে ব্যতিক্রম।\n
+            ৪) কোন কাজে কত সময় প্রয়োজন হয়েছে বা হবে এমন প্রশ্ন জিজ্ঞাস করতে どのくらい　ব্যবহার করতে হয়।\n
+            ৫) সময়ের পরিসর বা ব্যাপ্তির আনুমানিক (প্রায়) হিসাব বুঝাতে ぐらいব্যবহার করা হয়।\n
+            যেমনঃ \n\n
+            a. りんごをよっつかいました。\n
+            আপেল চারটা কিনেসিলাম । \n
+            b. 90 えんのきってを１まいください。\n
+            ৯০ইয়েন এর ডাকটিকেট ১ পাতা দিন। \n
+            c. このかいしゃにがいこくじんがひとりいます。\n
+            এই কোম্পানি বিদেশি স্টাফ ১ জন আছে । \n
+            d. あなたはくにでどのくらいにほんごをべんきょうしましたか。\n
+            আপনি দেশে প্রাই কত সময়ই জাপানিজ ভাষা পড়াশোনা করেছিলেন। \n
+            e. がっこうにせんせいが３０にんぐらいいます。\n
+            স্কুলে শিক্ষক প্রাই ৩০ জন আছে ।\n\n
+       </item>
+
+        <item>
+            ১)よりএর অর্থ চেয়ে ।এই শব্দটি দুটি বাক্যের মধ্যে তুলনা বুঝায়।\n
+            ২)どちらঅর্থ কোনটি।দুটি জিনিসের মধ্যে কোনটি বুঝাতে どちらがব্যবহৃত হয়। এবং দুটির মধ্যে একটি choice বুঝাতে ほうがব্যবহৃত হয়\n
+            যেমনঃ \n\n
+            a. このくるまはあのくるまよりおおきいです。\n
+            এই গাড়ি ঐ গাড়ি থেকে বড়। \n
+            b. サッカーと　やきゅうと　どちらが　おもしろい　ですか。\n
+            ফুটবল এবং বেসবল কোনটা আনন্দদায়ক । \n
+            サッカーの　ほうが　おもしろいです。\n
+            ফুটবলটাই আনন্দদায়ক।
+        </item>
+
+        <item>
+            কোন বাক্যে যদি いちばんএবং adjective থাকে তাহলে いちばん এর পূর্বে যে শব্দ থাকবে তার সাথে が যোগ করতে হবে।\n
+            যেমনঃ\n\n
+            a. にほんりょうりのなかでなにがいちばんおいしいですか。\n
+            জাপানিজ রান্না ভিতরে কি সবচেয়ে মজা? \n
+            てんぷらがいちばんおいしいです。\n
+            তেনপুরা সবচেয়ে মজা । \n
+            b. ヨーロッパでどこがいちばんよかったですか。\n
+            ইউরোপের মধ্যে কোথায় ভাল ছিল । \n
+            スイスがいちばんよかったです。\n
+            সুইজারল্যান্ড সবচেয়ে ভাল ছিল । \n
+            c. かぞくでだれがいちばんせがたかいですか。\n
+            পরিবারের মধ্যে কে সবচেয়ে লম্বা । \n
+            おとうとがいちばんせがたかいです。\n
+            ছোট ভাই সবচেয়ে লম্বা ।
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer09_titles">
+        <item>১)ほしい,たいএর ব্যাবহার </item>
+        <item>২)Group of verb</item>
+
+    </string-array>
+    <string-array name="grammer09_details">
+       <item>
+           ১) ほしい হচ্ছে い adjectiveほしい অর্থ চাওয়া।কোন কিছু চাওয়া বা ইচ্ছা বুঝাতে ほしい এর object টি কে নির্দেশ করতে object ও ほしい এর মাঝে が　particle টি বসে।\n
+           ২) たい অর্থ নিজে নিজে কিছু করতে চাওয়া। verb এর মূল অংশের  সাথে たい　যোগ করে কোন কিছু চাওয়া বুঝায়।\n
+           ৩) কোন কিছু করতে না চাওয়া বুঝাতে verb এর মূল অংশের সাথে たくないবসে।\n\n
+           যেমনঃ\n
+           a. わたしはくるまがほしいです。\n
+           আমি গাড়ি চায় ।\n
+           b. わたしはカメラをかいたいです。\n
+           আমি ক্যামেরা কিনতে চাই।\n
+           c. わたしはにほんへいきたくないです。\n
+           আমি জাপান এ যাইতে চাই না।\n\n
+           ৪) কোন বাক্যে দুটি verb থাকলে প্রথম verb এর ます টাকে বাদ দিয়ে ঐ স্থানে にবসে।\n
+           ৫) どこか　অর্থ কোথাও বা যে কোনস্থানে এবং なにかঅর্থ কোনকিছু বা যেকোনকিছু। どこか　এর পরে へ　particle এবং なにか এর পর をparticle বসে।কিন্তু どこか ও なにか এর পর へ ওを particle বাদ দেওয়া যায়।\n\n
+           যেমনঃ\n
+           a. こうべへインドりょうりをたべにいきます。\n
+           কউবেতে ইন্ডিয়ান রান্না খাইতে চাই।\n
+           b. ふゆやすみはどこかへいきましたか。\n
+           শীতের ছুটিতে কোথাও গিয়েছিলেন কি ?\n
+           はい、いきました。\n
+           হ্যাঁ গিয়েছিলাম ।\n\n
+
+
+       </item>
+
+        <item>
+            Verb এর group তিনটি-\n\n
+            Group- I\n
+            Group- II\n
+            Group- III\n\n
+            Group- I：\n
+            ます　যুক্ত শব্দের ます এর পূর্বের বর্ণটি যদি いー column এর বর্ণ হয় তাহলে verb টি Group- I এর verb.\n
+            যেমনঃ \n\n かいます\nあります\nいりますইত্যাদি।\n\n
+            Group- II：\n
+            ます　যুক্ত শব্দের ます এর পূর্বের বর্ণটি যদি え　column এর বর্ণ হয় তাহলে verb টি Group- II এর verb.\n
+            যেমনঃ \n\n おしえます\nかけます\nたべますইত্যাদি।\n\n
+            ますযুক্ত শব্দের ます এর পূর্বে  যদি একটি মাত্র বর্ণ থাকে তাহলে ます যুক্ত শব্দটি সাধারণত Group- II এর  verb হয় ।\n
+            যেমনঃ\n\n います\nみます\nねますইত্যাদি।\n\n
+            Group- III: \n
+            Group- III এর verb গুলোর します、きます　থাকে এবং verb গুলো সাধারণত একটু বড় হয়।\n
+            যেমনঃ\n\n きます\nします\nかいものします\nうんてんします\n\n
+            *ব্যাতিক্রমঃকিছু ব্যাতিক্রমী verb আছে যে verb গুলো দেখতে Group- I এর verb এর মতো হলেও verb গুলো মূলত Group- II এর verb এর অন্তর্ভুক্ত।\n
+            যেমনঃ\n\nいます\nきます\nみます\nあびます\nかります\nたります\nおります\nおきます\nできます\n
+
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer10_titles">
+        <item>১)Form of verb </item>
+        <item>২)てーForm এ পরিবর্তন ।</item>
+        <item>৩)て ― form এর ব্যবহারください</item>
+        <item>৪)て ― form এর ব্যবহার います</item>
+
+    </string-array>
+    <string-array name="grammer10_details">
+       <item>
+           Verb এর Form পাঁচটি- \n
+           যেমনঃ \n\n
+           ১.\t ます　Form\n
+           ২.\t て　Form\n
+           ৩.\t じしょ　Form\n
+           ৪.\t ない　Form\n
+           ৫.\t た　Form\n
+       </item>
+
+        <item>
+            Group- I：\n
+                    ১.\t い、ち、リ  ーって\n
+                    ২.\t み、び、に　ーんで\n
+                    ৩.\t き        ーいて\n
+                    ৪.\t ぎ　       ーいで\n
+                    ৫.\t し　       ーして\n
+             যেমনঃ \n\n
+            かえりますーかえって\n
+            もちます　ーもって\n
+            のみます　ーのんで\n
+            かします　ーかして\n
+            ব্যাতিক্রমঃ いきます　― いって\n\n
+
+            Group- II：\n
+            Group- II ますএর পরিবর্তে て বসবে।\n
+            যেমনঃ \n\n
+            たべますーたべて\n
+            ねます　ーねて\n\n
+            Group- III:\n
+            Group- III ますএর পরিবর্তে て বসবে।\n
+            যেমনঃ \n\n
+            します　― して\n
+            きます　― きて\n
+
+        </item>
+
+        <item>
+            কোন কিছু করার জন্য অনুরোধ করা বুঝাতে てform　এর সাথে ください ব্যবহার করা হয়।\n
+            যেমনঃ \n\n
+            a. すみませんが、このかんじのよみかたをおしえてください。\n
+            মাফ করবেন,এই কানজির পড়ার প্রক্রিয়া দয়া করে বলবেন।\n
+            b. ここにじゅうしょとなまえをかいてください。\n
+            এই ঠিকানা এবং নাম দয়া করে লিখেন।
+
+        </item>
+
+        <item>
+            কোন কাজ চলমান অবস্থায় আছে বা চলছে বুঝাতে এই expression টি ব্যবহৃত হয় । \n
+            যেমনঃ\n\n
+            a. ミラーさんはいまでんわをかけています。\n
+            মিরা সাহেব এখন ফোন করতেছে\n
+            b. いま雨がふっていますか。\n
+            এখন বৃষ্টি পড়তেছে কি ?\n
+            ・・・はい、ふっています。\n
+            হ্যাঁ পড়তেছে ।
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer11_titles">
+        <item>১)て ― form もいいです </item>
+        <item>২)て ― form はいけません</item>
+        <item>৩)て ― form ব্যবহার।</item>
+        <item>৪)Adjective এর ব্যবহার।</item>
+
+    </string-array>
+    <string-array name="grammer11_details">
+       <item>
+            কোন কাজের জন্য অনুমতি চাওয়া বা কাউকে অনুমতি দেওয়া বুঝাতে verbএরてformএরপরもいいです ব্যবহৃত হয়।\n
+            যেমনঃ\n\n
+            a.　ここでしゃしんをとってもいいです。\n
+            এখানে ছবি তুলতে পার।\n
+            b.　たばこをすってもいいですか。\n
+            এখানে সিগারেট পান করতে পারব কি ?\n
+            c. おかねをかりてもいいですか。\n
+            টাকা ধার নিতে পারব কি ?\n
+            d. こんげつくるまをかってもいいです。\n
+            এই সপ্তাহ গাড়ি কিনতে পার ।\n
+       </item>
+
+        <item>
+            কোন কাজ করতে নিষেধ করা বুঝাতে verb এরてform এর পর はいけませんব্যবহৃত হয়।\n
+            যেমনঃ\n\n
+            a. ここでたばこをすってはいけません。\n
+            এখানে ধূমপান করা নিষিদ্ধ।\n
+            b. ここでしゃしんとってはいけません。\n
+            এখানে ছবি তোলা নিষিদ্ধ।\n
+            c. ここでおかねをかりてはいけません。\n
+            এখানে টাকা ধার নিয়া নিষিদ্ধ।\n
+            d. クラスにおさけをのんではいけません。\n
+            এই ক্লাসে মদ্য পান করা নিষিদ্ধ ।
+
+        </item>
+
+        <item>
+            কতগুলো ছোট ছোট sentence কে একসাথে যোগ করার জন্য て form ব্যবহার করা হয়।て form দিয়ে অনেকগুলো কাজ একসাথে করা হয়। অনেক গুলো কাজের বর্ণনা একসাথে দেয়া যায়।\n
+            একটি কাজ শেষ করার পর আরেকটি কাজ করা বুঝাতে てform এর সাথে からবসে।\n
+            যেমনঃ\n\n
+
+             a. あさジョギングをして、シャワーをあびて、かいしゃへいきます。\n
+             সকালে জগিং করে গোসল করে কোম্পানিতে যাব।\n
+             b. こうべへいって、えいがをみて、おちゃをのみました。\n
+             কউভেতে গিয়ে সিনেমা দেখে চা পান করব ।\n
+             c. くにへかえってから、ちちのかいしゃではたらきます。\n
+             দেশে ফিরে তারপর বাবার কোম্পানিতে কাজ করব ।\n
+
+        </item>
+
+        <item>
+            ১) দুটি sentence কে একসাথে যোগ করার জন্যいadjective এরい উঠে গিয়ে くて　যুক্ত হবে। \n
+            ২) দুটি sentence কে একসাথে যোগ করার জন্য প্রথম sentence এ noun বা なadjective এরপর で বসে।\n
+            ৩) একটি কাজ শেষ করার পর আরেকটি কাজ করা বুঝাতে てform এর সাথে からবসে।\n
+            ৪) কোন ব্যাক্তি বা বস্তুর দোষ গুণ অবস্থা বুঝাতে adjective এর আগের noun টিকে が　দ্বারা নির্দেশ করা হয়।\n
+            যেমনঃ\n\n
+
+             a. きのうはてんきがよくて、あつかったです。\n
+             গতকাল আবহাওয়া ভাল ছিল এবং গরম ছিল।\n
+             b. カリナーさんはインドネシアじんで、きょうとだいがくのりゅうがくせいです。\n
+             কারিনা সাহেব ইন্দোনেশিয়ান এবং কিয়উত বিশ্ববিদ্যালয়ের ছাত্র।\n
+             c. ミラーさんはハンサムで、しんせつです。\n
+             মিরা সাহেব হান্দসাম এবং দয়ালু ।\n
+             d. くにへかえってから、ちちのかいしゃではたらきます。\n
+             দেশে ফিরে তারপর বাবা কোম্পানিতে কাজ করব।\n
+             e. おおさかはたべものがおいしいです。\n
+             ওসাকা খাবার মজা ।\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer12_titles">
+        <item>১)どうやって এর ব্যবহার </item>
+        <item>২)ないform</item>
+        <item>৩)ないform ないでください</item>
+        <item>৪)ないform なければなりません</item>
+        <item>৫)ないform なくてもいいです </item>
+
+    </string-array>
+    <string-array name="grammer12_details">
+       <item>
+           どうやって　এর অর্থ হলো কিভাবে বা কি করে।কোন  স্থানে কিভাবে যাবে এটা জানার জন্য どうやって　ব্যবহার করা হয়।\n
+           যেমনঃ \n\n
+           a. だいがくまでどうやっていきますか。\n
+           বিশ্ববিদ্যালয় পর্যন্ত কেমন করে যাব?\n
+           ・・きょうとえきから１６ばんのバスにのって、だいがくまえでおります。\n
+           কিয়উত স্টেশন থেকে ১৬ নম্বর এর বাসে উঠে বিশ্ববিদ্যালয়ের সামনে নামবো। \n
+       </item>
+
+        <item>
+            ます – form থেকে ない – form এ পরিবর্তনের ক্ষেত্রে ます – এর আগের い　column  এর বর্ণ গুলো পরিবর্তন হয়ে あ- column এর বর্ণ গুলো বসবে এবং ます উঠে যাবে।\n\n" +
+            যেমনঃ ",
+
+            1.\tかきます　　　　―  かかない\n
+            2.\tよみます　　　　― よまない\n
+            3.\tとります　　　　― とらない\n
+            4.\tすいます　　　　― すわない\n
+            ব্যাতিক্রমঃ い এর পরিবর্তে あ　না হয়ে わ　হয়।\n
+            1.\tあいます　― あわない\n
+            2.\tいいます　― いわない\n
+
+        </item>
+
+        <item>
+            কোন কিছু না করার জন্য অনুরোধ করতে এই ないでください ব্যবহৃত হয়।\n
+            যেমনঃ\n\n
+            a. ここでしゃしんをとらないでください。\n
+            দয়া করে ছবি তোলা মানা।\n
+            b. わたしはげんきですから、しんぱいしないでください。\n
+            আমি ভাল আছি তাই দয়া করে চিন্তা করবেন না ।\n
+        </item>
+
+        <item>
+            কোন কাজ অবশ্যই করতে হবে বুঝাতে এই word টিなければなりません ব্যবহৃত হয়। এই word টি নাবোধক অর্থে ব্যবহৃত হয় না।\n
+            যেমনঃ
+            a. くすりをのまなければなりません。\n
+            মেডিসিন না পান করলেই নয় ।\n
+            b. ごはんをたべなけらばなりません。\n
+            ভাত না খেলে চলবে না ।\n
+            c. くにへかえらなければなりません。\n
+            দেশে না ফিরলে চলবে না ।\n
+        </item>
+
+        <item>
+            কোন কাজ করতে হবে না বা করার প্রয়োজন নেই এমন কিছু বুঝাতে এই なくてもいいです টি ব্যবহৃত হয়।\n
+            যেমনঃ\n\n
+            a. あしたこなくてもいいです。。\n
+            আগামীকাল না আসলে চলবে ।\n
+            b. なまえ をかかなくてもいいです。\n
+            নাম না লিখলে চলবে ।\n
+            c. くにへかえらなくてもいいです。\n
+            দেশে না ফিরলে চলবে।\n
+        </item>
+
+    </string-array>
+
+    <string-array name="grammer13_titles">
+        <item>১)じしょ form  </item>
+        <item>২)じしょ form ことができます</item>
+        <item>৩)じしょ form ことです,まえに</item>
+
+    </string-array>
+    <string-array name="grammer13_details">
+       <item>
+           Group – 1\n\n
+           ১) Dictionary Form : ますForm থেকে Dictionary Form এ পরিবর্তনের ক্ষেত্রে ます এর আগের いーcolumn এর বর্ণ গুলো পরিবর্তন হয়ে うー　column এর বর্ণগুলো বসবে এবং \n
+           ます উঠে যাবে।\n
+           যেমনঃ \n\n
+
+           かいます　― かう\n
+           かきます　― かく\n
+           あります　― ある\n\n
+           Group – 3\n\n
+           ২) ます　এর পূর্বের বর্ণের （　き、し）পরিবর্তে যথাক্রমে くও　す বসবে এবং ます উঠে る বসবে।\n
+           যেমনঃ \n\n
+           きます　― くる\n
+           します　― する\n
+       </item>
+
+        <item>
+            ৩) ことができます　দিয়ে কোন কিছু করতে পারার সামর্থ্য বা সম্ভাবনা বুঝায়।\n
+            যখন কোন verb দিয়ে সামর্থ্য ,যোগ্যতা , দক্ষতা বা সম্ভাবনা বুঝায় ,তখন verb টির Dictionary form এর সাথে こと যুক্ত করা হয় এবং পরে ができます বসে।\n
+            যেমনঃ\n\n
+            a. わたしはかんじよむことができます\n
+            আমি কাঞ্জি পড়তে পারি ।\n
+            b. わたしはにほんへいくことができます。\n
+            আমি জাপান এ যেতে পারি ।
+
+        </item>
+
+        <item>
+            ৪) বাক্য সখ বুঝাতে しゅみ　ব্যবহার করা হয় এবং Dictionary form এর পর こと　です বসে।\n
+            ৫) কোন একটি কাজ করার আগে অন্য আরেকটি কাজ করা বুঝাতে Dictionary form まえに টি ব্যবহৃত হয়।\nまえにএর আগে noun থাকলে noun এবং まえに এর মাঝে のবসে।\n
+            যেমনঃ\n\n
+            a. わたしのしゅみはほんをよむことです。\n
+            আমার শখ বই পড়া।\n
+            b. にほんへくるまえににほんごをべんきょうしました。\n
+            জাপান এ আসার আগে জাপানিজ ভাষা পড়াশোনা করেছিলাম।\n
+            c. しょくじのまえにてをあらいます。\n
+            খাবারের আগে হাত ধুয়ে নিব ।
+        </item>
+
+
+    </string-array>
+
+    <string-array name="grammer14_titles">
+        <item>১)た - form こと、りします </item>
+        <item>২)なります এর ব্যাবহার</item>
+        <item>৩)とおもいます,といいまいた এর ব্যাবহার</item>
+        <item>৩)でしょう এর ব্যাবহার</item>
+
+    </string-array>
+    <string-array name="grammer14_details">
+       <item>
+           ১) অতীতে কোন কিছু করার অভিজ্ঞতাকে বলার ক্ষেত্রে た　form এর পর こと　が　\n
+           あります　ব্যবহৃত হয়।\n
+           ২) অনেক গুলো কাজের মধ্যে কয়েকটি কাজ  উল্লেখ করে ইত্যাদি দিয়ে শেষ করা হলে た form り、た form りします　বসাতে হয়।\n
+           যেমনঃ \n\n
+           a. うまにのったことがあります。\n
+           ঘোড়াতে উঠার অভিজ্ঞতা আছে ।\n
+           b. わたしははしでたべたことがあります。\n
+           আমার চপস্তিক দিয়ে খাবার অবিজ্ঞতা আছে।\n
+           c. にちようびはテニスをしたり、えいがをみたりします。\n
+           রবিবার টেনিস খেলি ছিনেমা দেখি ।\n
+           d. まいあさおきたり、あさごはんをたべたりします。\n
+           প্রতিদিন সকাল ঘুম থেকে উঠবো সকালের নাস্তা খাব।\n\n
+
+       </item>
+
+        <item>
+            ১) なります　এর আগে  い　adjective থাকলে い　adjective এর い উঠে গিয়ে く　যুক্ত হয় ।\n
+            ২) なりますএর আগে な　adjective থাকলে な　adjective এর পর に　বসে।\n
+            ৩) なります　এর আগে Noun থাকলে Noun এর পর に বসে ।\n
+            যেমনঃ\n\n
+            a. しけんがよくなりました。\n
+            পরীক্ষা ভাল হয়েছিল।\n
+            b. にほんごがじょうずになりました。\n
+            জাপানিজ ভাষা দক্ষ হয়েছিলাম।\n
+            c. ことし18 さいになります。\n
+            এই বছর ১৮ বছর হব।\n\n
+
+        </item>
+
+        <item>
+            Verb এর plain form চলতি রূপ অথবা い এবংな  Adjective , noun এর plain form সাথে とおもいますযোগ করলে অর্থ দাড়ায় বলে মনে হয়।\n
+            Plain form といいまいた　এর অর্থ দাড়ায় বলে বলেছি।\n
+            যেমনঃ\n\n
+            a. あしたあめがふるとおもいます。\n
+            আগামীকাল বৃষ্টি হবে বলে মনে হইতেছে ।\n
+            b. わたしはかちょうにやすみがほしいといいました。\n
+            আমি ম্যানেজার এর কাছে ছুটি চাই বলেছিলাম।\n\n
+
+        </item>
+
+        <item>
+            plain form でしょうএর অর্থ দাড়ায় সম্ভাবনা।\n
+            যেমনঃ\n\n
+            a. あしたパーテイーにくるでしょう。\n
+            আগামীকাল পার্টি সম্ভবনা আছে ।\n
+            b. おてらでコンサートがあったでしょう。\n
+            ওঁতেরাতে কন্সার্টএর সম্ভবনা আছে ।\n\n
+        </item>
+
+
+    </string-array>
+
+    <string-array name="grammer15_titles">
+        <item>১)とき এর ব্যাবহার</item>
+        <item>২)Plain form と</item>
+        <item>৩)くれます এর ব্যাবহার</item>
+        <item>৩)た form たら এর ব্যাবহার</item>
+
+    </string-array>
+    <string-array name="grammer15_details">
+       <item>
+           ১) とき　মানে যখন। とき এর পূর্বে plain form বসে।\n
+           ২) とき　এর পূর্বে い　adjective থাকলে কিছু বসে না । な　adjective এর সাথে な বসে এবং Noun এর সাথে の　বসে।\n
+           যেমনঃ \n \n
+           a. みちをわたるときくるまにきをつけます。\n
+           যখন রাস্তা পার হবে গাড়ি থেকে সাবধান ।\n
+           b. うちへかえるときケーキをかいます。\n
+           যখন বাড়িতে ফিরব তখন কেক কিনব ।\n
+           c. ねむいときコーヒーをのみます。\n
+           গুমানর সময় কফি পান করব।\n
+           d. ひまなときほんをよみます。\n
+           অবসর সময় বই পড়ি ।\n \n
+       </item>
+
+        <item>
+            Plain form とমানে শর্ত।\n
+            যেমনঃ \n \n
+            a. これをまわすとおとがおおきくなります。\n
+            b. ここをおすとおりがでます。\n
+
+        </item>
+
+        <item>
+            くれます　অর্থ হল আমাকে দেয়া। এই শব্দ টি বাক্যের শেষে বসে।\n \n" +
+            যেমনঃ \n \n
+            a. ミラーさんはわたしにワインをくれました。\n
+            b. わたしはきむらさんにほんをかしてあげます。\n
+
+        </item>
+
+        <item>
+            Verb এর た form এর সাথে らযোগ করলে এটা たら　হয়ে যায় এবং এর অর্থ দাড়ায় যদি।\n
+            যেমনঃ \n \n
+            a. あめがふったらいきません。\n
+            বৃষ্টি হলে যাব না।\n\n
+        </item>
+
+    </string-array>
+
+
+    // for lisening arraylist
+
+
+    <string-array name="lisening01_titles">
+
+        <item> bangladesh.</item>
+
+    </string-array>
+
+
+
+
+    //for kanji arrayList
+
+    <string-array name="kanji01_titles">
+        <item>০১) 魚\n さかな\n মাছ।</item>
+        <item>০২) 一\n いち\n এক।</item>
+        <item>০৩) 人\n ひと\n মানুষ।</item>
+        <item>০৪) 何\n なに\n কি？</item>
+        <item>০৫) 今\n いま\n এখন।　</item>
+        <item>০৬) 入る\n はいる\n প্রবেশ করা</item>
+        <item>০৭) 出る\n でる\n বাহির হওয়া　</item>
+        <item>০৮) 何時\n なんじ\n কয়টা　</item>
+        <item>০৯) 今週\n こんしゅう\n এই সপ্তাহ　</item>
+        <item>১০) 日本\n にほん\n জাপান</item>
+    </string-array>
+    <string-array name="kanji01_details">
+        <item>　これは魚です\n এটা মাছ।</item>
+        <item>　一つおねがいします。\n　একটা প্লিজ।</item>
+        <item>　あの人はエンジニアです。\n ঐ লোকটা ইঞ্জিনিয়ার।　</item>
+        <item>　なにをたべますか。\n কি খাবেন?　</item>
+        <item>　今なんじですか。\n এখন কয়টা বাজে?　</item>
+        <item>　入ってもいいですか。\n প্রবেশ করতে পারব কি?　</item>
+        <item>　だいがくを出ます。\n বিশ্ববিদ্যালয় ছেড়ে দেওয়া। 　</item>
+        <item>　今なんじですか。\n এখন কয়টা বাজে?</item>
+        <item>　今週どこへもいきません。\n এই সপ্তাহে কোথাও যাব না।</item>
+        <item>　日本へいきます。\n জাপানে যাব।</item>
+    </string-array>
+
+
+    <string-array name="kanji02_titles">
+        <item>০১) 日本人\n にほんじん\nজাপানিজ।</item>
+        <item>০২) 上\n うえ\n উপরে।</item>
+        <item>০৩) 下\n した\n নিচে।</item>
+        <item>০৪) 中\n なか\n ভিতরে।</item>
+        <item>০৫) 右\n みぎ\n ডান।</item>
+        <item>০৬) 左\n ひだり\n বাম।</item>
+        <item>০৭) 道\n みち\n রাস্তা　</item>
+        <item>০৮) 北\n きた\n উত্তর　</item>
+        <item>০৯) 東\n ひがし\n পূর্ব　</item>
+        <item>১০) 南\n みなみ\n দক্ষিণ</item>
+    </string-array>
+    <string-array name="kanji02_details">
+        <item>　たなかさんは日本人です。\n তানাকা সাহেব জাপানিজ নাগরিক।</item>
+        <item>　テーブルの上にほんがあります。\n টেবিলের উপরে বই আছে ।</item>
+        <item>　テーブルの下にいぬがいます。\n টেবিলের নিচে কুকুর আছে ।</item>
+        <item>　ハコの中にじゃがいもがあります。\n বক্সের মধ্যে আলু আছে ।　</item>
+        <item>　わたしの右にともだちがいます。\n আমার ডানে বন্ধু আছে ।　</item>
+        <item>　わたしの左にともだちがいます。\n আমার বামে বন্ধু আছে ।　</item>
+        <item>　この道はしずかです。\n এই রাস্তা শান্ত।</item>
+        <item>　北ぐちにせんせいがいます。\n উত্তর প্রবেশ পথে শিক্ষক আছে ।</item>
+        <item>　東ぐちにおくさんがいます。\n পূর্ব প্রবেশ পথে বউ আছে।</item>
+        <item>　南ぐちにおとうさんがいます。\n দক্ষিণ প্রবেশ পথে বাবা আছে।</item>
+    </string-array>
+
+
+    <string-array name="kanji03_titles">
+        <item>০১) 何曜日\n なんようび\n কি বার।</item>
+        <item>০২) 月曜日\n げつようび\n সোম বার।</item>
+        <item>০৩) 火曜日\n かようび\n মঙ্গল বার।</item>
+        <item>০৪) 水曜日\n すいようび\n বুধ বার</item>
+        <item>০৫) 木曜日\n もくようび\n ব্রহস্প্রতি বার।</item>
+        <item>০৬) 金曜日\n きんようび\n শুক্র বার।</item>
+        <item>০৭) 土曜日\n どようび\n শনি বার।　</item>
+        <item>০৮) 日曜日\n にちようび\n রবি বার।　</item>
+        <item>০৯) 会社\n かいしゃ\n কোম্পানি।</item>
+        <item>১০) 医者\n いしゃ\n ডাক্তার।</item>
+    </string-array>
+    <string-array name="kanji03_details">
+        <item>　あした何曜日ですか。\n আগামীকাল কি বার ?</item>
+        <item>　あした月曜日です。\n আগামীকাল সোমবার।</item>
+        <item>　あさって火曜日です。\n আগামী পরশু মঙ্গলবার।</item>
+        <item>　きのう水曜日でした。\n গতকাল বুধবার ছিল।　</item>
+        <item>　おととい木曜日でした。\n গত পরশু ব্রহস্প্রতি বার ছিল ।</item>
+        <item>　金曜日はやすみです。\n শুক্রবার ছুটি।　</item>
+        <item>　土曜日えいがをみにいきます。\n শনিবার ছিনেমা দেখতে যাব।</item>
+        <item>　日曜日はどこへもいきません。\n রবিবার কোথাওই যাব না।</item>
+        <item>　わたしの会社はごぜん９じからごご５じまでです。\n আমার কোম্পানি সকাল ৯টা থেকে বিকাল ৫টা পর্যন্ত ।</item>
+        <item>　にほんのいしゃはどうですか。\n জাপানের ডাক্তার কেমন ?</item>
+
+
+
+
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ",
+        "",
+        "",
+        " ",
+    </string-array>
+
+
+    <string-array name="kanji04_titles">
+        <item>০১) 月\n つき\nচাঁদ।</item>
+        <item>০২) 火\n ひ\nআগুন।</item>
+        <item>০৩) 水\n みず\nপানি।</item>
+        <item>০৪) 木\n き\nগাছপালা।</item>
+        <item>০৫) 金\n きん\nস্বর্ণ।</item>
+        <item>০৬) 土\n つち\nমাটি।</item>
+        <item>০৭) 日\n にち\nদিন।　</item>
+        <item>০৮) 駅\n えき\nস্টেশন।　</item>
+        <item>০৯) 目\n め\nচক্ষু।</item>
+        <item>১০) 手\n て\nহাত।</item>
+    </string-array>
+    <string-array name="kanji04_details">
+        <item>　そらに月がみえました。\nআকাশে চাঁদ দেখতে পারি।</item>
+        <item>　火でりょうりをつくりました。\nআগুন দিয়া রান্না করেছিলাম।</item>
+        <item>　わたしは水をのみました。\nআমি পানি পান করেছিলাম ।</item>
+        <item>　木でほんをつくりました。\nগাছপালা দিয়ে বই তৈরি করেছিলাম।　</item>
+        <item>　金はたかいです。\nস্বর্ণ দামি।</item>
+        <item>　土のなかにひとがすんでいます。\nমাটি মধ্যে মানুষ বসবাস করে।</item>
+        <item>　きょうはなん日ですか。\nআজকে কত তারিখ? </item>
+        <item>　駅でしんぶんをかいました。\nস্টেশনে পত্রিকা কিনছিলাম ।</item>
+        <item>　目がわるいですから、メガネをかけます。\nচক্ষু খারাপ বলে চশমা পড়ি ।</item>
+        <item>　手でごはんをたべます。\nহাত দিয়ে ভাত খাব।</item>
+    </string-array>
+
+
+    <string-array name="kanji05_titles">
+        <item>০১) 食べます\n  たべます\n খাওয়া।</item>
+        <item>০২) 飲みます\n のみます\n পানকরা।</item>
+        <item>০৩) 行きます\n いきます\n যাব।</item>
+        <item>০৪) 来ます\n  きます\n আসব।</item>
+        <item>০৫) 帰ります\n  かえります\n ফিরবো।</item>
+        <item>০৬) 買います\n  かいます\n কিনবো।</item>
+        <item>০৭) 読みます\n  よます\n পড়বো।　</item>
+        <item>০৮) 書きます\n   かきます\n লিখবো।　</item>
+        <item>০৯) 聞きます\n ききます\nশুনবো।</item>
+        <item>১০) 見ます\n みます\nদেখবো।</item>
+
+
+    </string-array>
+    <string-array name="kanji05_details">
+        <item>　あさごはんを食べます。\nসকালের খাবার খাব।</item>
+        <item>　みずを飲みます。\nপানি পান করবো।</item>
+        <item>　にほんへ行きます。\nজাপানে যাব।</item>
+        <item>　がっこうへ来ます。\nস্কুলে আসবো।　</item>
+        <item>　うちへ帰ります。\nবাড়িতে ফিরবো।</item>
+        <item>　カメラを買います。\nক্যামেরা কিনবো।</item>
+        <item>　しんぶんを読ます。\nসংবাদপত্র পড়বো।</item>
+        <item>　てがみを書きます。\nচিঠি লিখবো।</item>
+        <item>　うたを聞きます。\nগান শুনবো।</item>
+        <item>　えいがを見ます。\nছিনেমা দেখবো।</item>
+    </string-array>
+
+
+    <string-array name="kanji06_titles">
+        <item>০১) 学校\n  がっこう\nস্কুল।</item>
+        <item>০২) 大学\n だいがく\nবিশ্ববিদ্যালয়।</item>
+        <item>০৩) 学生\n がくせい\nছাত্র।</item>
+        <item>০৪) 大学生\n だいがくせい\nবিশ্ববিদ্যালয়ের ছাত্র।</item>
+        <item>০৫) 先生\n  せんせい\nশিক্ষক।</item>
+        <item>০৬) 西\n  にし\nপশ্চিম।</item>
+        <item>০৭) 〜週\n  しゅう\nসপ্তাহ।　</item>
+        <item>০৮) 〜月\n   がつ\nমাস।　</item>
+        <item>০৯) 〜年\n ねん\nবছর।</item>
+        <item>১০) 〜時\n じ\nসময়।</item>
+
+    </string-array>
+    <string-array name="kanji06_details">
+        <item>　学校へきます\nস্কুলে আসব।।</item>
+        <item>　大学へきます。\nবিশ্ববিদ্যালয়ে আসবো।</item>
+        <item>　学生はなんにんいますか。\nছাত্র কত জন্ আছে ?</item>
+        <item>　わたしは大学生です。\nআমি বিশ্ববিদ্যালয়ের ছাত্র।　</item>
+        <item>　たなかさんはせんせいです。\nতানাকা সাহেব একজন শিক্ষক।</item>
+        <item>　西ぐちはどちらですか。\nপশ্চিম প্রস্থান কোনদিকে?</item>
+        <item>　１週かんに１かいにほんごをべんきょうします。\nএক সপ্তাহে এক বার জাপানিজ ভাষা পড়াশোনা করি ।</item>
+        <item>　１月ににほんへいきます。\nজানুয়ারি মাসে জাপান যাব ।</item>
+        <item>　１年のなかなんかいがいこくへいきますか。\nএক বছরে কতবার জাপান যান।</item>
+        <item>　ごご１１じにねます。\nরাত ১১টা ঘুমাব।</item>
+
+    </string-array>
+
+
+    <string-array name="kanji07_titles">
+        <item>০১) 午後\n  ごご\n　PM।</item>
+        <item>০২) 午前\n ごぜん\n　AM।</item>
+        <item>০৩) 毎日\n まいにち\n　প্রতিদিন।</item>
+        <item>০৪) 毎晩\n まいばん\n　প্রতি রাত।</item>
+        <item>০৫) 毎朝\n まいあさ\n　প্রতি সকাল।</item>
+        <item>০৬)　分\n ふん\n　মিনিট।</item>
+        <item>০৭) 　半\n はん\n　৩০মিনিট।　</item>
+        <item>০৮) 　人\n ひと\n　মানুষ।　</item>
+        <item>০৯) 男\n おとこ\n　ছেলে।</item>
+        <item>১০) 女\n おんな\n　মেয়ে।</item>
+
+    </string-array>
+    <string-array name="kanji07_details">
+        <item>　午後１１じにねます\n　রাত ১১টা ঘুমাব।</item>
+        <item>　午前６じにおきました。\nসকাল ৬ টা ঘুম থেকে উঠেছিলাম।</item>
+        <item>　毎日わたしはにほんごをべんきょうします。\nপ্রতিদিন আমি জাপানিজ ভাষা পড়াশোনা করি।</item>
+        <item>　毎晩６じにコーヒーを飲みます。\nপ্রতি সন্ধ্যা বেলা ৬ টা কফি পান করি।</item>
+        <item>　毎朝６じにおきます。\nপ্রতি সকাল ৬ টা ঘুম থেকে উঠি।</item>
+        <item>　いまは１０じ３３分です。\nএখন সময় ১০ টা ৩৩ মিনিট।</item>
+        <item>　いまは１じ半です。\nএখন সময় ১ টা ৩০ মিনিট ।</item>
+        <item>　あの人はだれですか。\nঐ লোকটা কে?</item>
+        <item>　男のひとははいってください。\nছেলে মানুষ দয়া করে প্রবেশ করুন ।</item>
+        <item>　女のひとははいってください。\nমেয়ে মানুষ দয়া করে প্রবেশ করেন ।</item>
+
+    </string-array>
+
+
+    <string-array name="kanji08_titles">
+        <item>০১) 多い\n おおい\n　বেশি।</item>
+        <item>০২) 少し\n すこし\n　অল্প।</item>
+        <item>০৩) 古い\n ふるい\n　পুরাতন।</item>
+        <item>০৪) 新しい\n あたらしい\n　নতুন।</item>
+        <item>০৫) 大きい\n おおきい\n　বড়।</item>
+        <item>০৬)　小さい\n ちいさい\n　ছোট।</item>
+        <item>০৭) 安い\n やすい\n　সস্তা।　</item>
+        <item>০৮) 高い\n たかい\n　দামি।　</item>
+        <item>০৯) 長い\n ながい\n　লম্বা।</item>
+        <item>১০) 白い\n しろい\n সাদা।</item>
+
+
+    </string-array>
+    <string-array name="kanji08_details">
+        <item>　ひとが多いです。\n　লোক বেশি।</item>
+        <item>　ひとが少ないです。\n　লোক অল্প।</item>
+        <item>　このたてものは古いです。\n　এই বিল্ডিংটা পুরাতন।</item>
+        <item>　このけいたいは新しいです。\n　এই মোবাইলটা নতুন।</item>
+        <item>　もうちょっと大きくかいてください。\n　দয়া করে আর অল্প বড় করে লিখ।</item>
+        <item>　しけんですから小さいこえではなしてください。\n　পরিক্ষা বলে ছোট গলায় দয়া করে কোথা বলো।</item>
+        <item>　バングラデシュのたべものは安いです。\n বাংলাদেশের খাবার সস্তা।</item>
+        <item>　にほんのたべものは高いです。\n　জাপানের খাবার দাম বেশি।</item>
+        <item>　あなたのかみは長いです。\n　আপনার চুল লম্বা ।</item>
+        <item>　白いぼうしがほしいです。\n　সাদা টুপি চাই।</item>
+
+    </string-array>
+
+
+    <string-array name="kanji09_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+
+    </string-array>
+    <string-array name="kanji09_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+
+
+    </string-array>
+
+
 
     <string name="grammerName">ব্যাকরণ</string>
     <string name="vocabularyName">শব্দার্থ</string>
