@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="@color/background_color"
     android:gravity="center"
-    tools:context=".splashScreen">
+    tools:context=".utility.splashScreen">
 
     <ImageView
         android:layout_width="match_parent"

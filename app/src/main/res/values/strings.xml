@@ -4740,8 +4740,6 @@
     </string-array>
 
 
-
-
     //for kanji arrayList
 
     <string-array name="kanji01_titles">
@@ -4756,6 +4754,7 @@
         <item>০৯) 今週\n こんしゅう\n এই সপ্তাহ　</item>
         <item>১০) 日本\n にほん\n জাপান</item>
     </string-array>
+
     <string-array name="kanji01_details">
         <item>　これは魚です\n এটা মাছ।</item>
         <item>　一つおねがいします。\n　একটা প্লিজ।</item>
@@ -4808,6 +4807,7 @@
         <item>০৯) 会社\n かいしゃ\n কোম্পানি।</item>
         <item>১০) 医者\n いしゃ\n ডাক্তার।</item>
     </string-array>
+
     <string-array name="kanji03_details">
         <item>　あした何曜日ですか。\n আগামীকাল কি বার ?</item>
         <item>　あした月曜日です。\n আগামীকাল সোমবার।</item>
@@ -4819,20 +4819,6 @@
         <item>　日曜日はどこへもいきません。\n রবিবার কোথাওই যাব না।</item>
         <item>　わたしの会社はごぜん９じからごご５じまでです。\n আমার কোম্পানি সকাল ৯টা থেকে বিকাল ৫টা পর্যন্ত ।</item>
         <item>　にほんのいしゃはどうですか。\n জাপানের ডাক্তার কেমন ?</item>
-
-
-
-
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ",
-        "",
-        "",
-        " ",
     </string-array>
 
 
@@ -4848,6 +4834,7 @@
         <item>০৯) 目\n め\nচক্ষু।</item>
         <item>১০) 手\n て\nহাত।</item>
     </string-array>
+
     <string-array name="kanji04_details">
         <item>　そらに月がみえました。\nআকাশে চাঁদ দেখতে পারি।</item>
         <item>　火でりょうりをつくりました。\nআগুন দিয়া রান্না করেছিলাম।</item>
@@ -4873,9 +4860,8 @@
         <item>০৮) 書きます\n   かきます\n লিখবো।　</item>
         <item>০৯) 聞きます\n ききます\nশুনবো।</item>
         <item>১০) 見ます\n みます\nদেখবো।</item>
-
-
     </string-array>
+
     <string-array name="kanji05_details">
         <item>　あさごはんを食べます。\nসকালের খাবার খাব।</item>
         <item>　みずを飲みます。\nপানি পান করবো।</item>
@@ -4901,8 +4887,8 @@
         <item>০৮) 〜月\n   がつ\nমাস।　</item>
         <item>০৯) 〜年\n ねん\nবছর।</item>
         <item>১০) 〜時\n じ\nসময়।</item>
-
     </string-array>
+
     <string-array name="kanji06_details">
         <item>　学校へきます\nস্কুলে আসব।।</item>
         <item>　大学へきます。\nবিশ্ববিদ্যালয়ে আসবো।</item>
@@ -4914,9 +4900,7 @@
         <item>　１月ににほんへいきます。\nজানুয়ারি মাসে জাপান যাব ।</item>
         <item>　１年のなかなんかいがいこくへいきますか。\nএক বছরে কতবার জাপান যান।</item>
         <item>　ごご１１じにねます。\nরাত ১১টা ঘুমাব।</item>
-
     </string-array>
-
 
     <string-array name="kanji07_titles">
         <item>০১) 午後\n  ごご\n　PM।</item>
@@ -4929,8 +4913,8 @@
         <item>০৮) 　人\n ひと\n　মানুষ।　</item>
         <item>০৯) 男\n おとこ\n　ছেলে।</item>
         <item>১০) 女\n おんな\n　মেয়ে।</item>
-
     </string-array>
+
     <string-array name="kanji07_details">
         <item>　午後１１じにねます\n　রাত ১১টা ঘুমাব।</item>
         <item>　午前６じにおきました。\nসকাল ৬ টা ঘুম থেকে উঠেছিলাম।</item>
@@ -4942,9 +4926,7 @@
         <item>　あの人はだれですか。\nঐ লোকটা কে?</item>
         <item>　男のひとははいってください。\nছেলে মানুষ দয়া করে প্রবেশ করুন ।</item>
         <item>　女のひとははいってください。\nমেয়ে মানুষ দয়া করে প্রবেশ করেন ।</item>
-
     </string-array>
-
 
     <string-array name="kanji08_titles">
         <item>০১) 多い\n おおい\n　বেশি।</item>
@@ -4957,9 +4939,8 @@
         <item>০৮) 高い\n たかい\n　দামি।　</item>
         <item>০৯) 長い\n ながい\n　লম্বা।</item>
         <item>১০) 白い\n しろい\n সাদা।</item>
-
-
     </string-array>
+
     <string-array name="kanji08_details">
         <item>　ひとが多いです。\n　লোক বেশি।</item>
         <item>　ひとが少ないです。\n　লোক অল্প।</item>
@@ -4971,9 +4952,7 @@
         <item>　にほんのたべものは高いです。\n　জাপানের খাবার দাম বেশি।</item>
         <item>　あなたのかみは長いです。\n　আপনার চুল লম্বা ।</item>
         <item>　白いぼうしがほしいです。\n　সাদা টুপি চাই।</item>
-
     </string-array>
-
 
     <string-array name="kanji09_titles">
         <item>০১) 店\n みせ\nদোকান।</item>
@@ -4986,8 +4965,8 @@
         <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
         <item>০৯) 車\n くるま\nগাড়ি।</item>
         <item>১০) 電車\n でんしゃ\nট্রেন।</item>
-
     </string-array>
+
     <string-array name="kanji09_details">
         <item>　店にほんがあります。\nদোকানে বই আছে।</item>
         <item>　国へ帰ります。\nদেশে ফিরবো।</item>
@@ -4999,11 +4978,163 @@
         <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
         <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
         <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
-
-
     </string-array>
 
+    <string-array name="kanji10_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
 
+    <string-array name="kanji10_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
+
+    <string-array name="kanji11_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
+
+    <string-array name="kanji11_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
+
+    <string-array name="kanji12_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
+
+    <string-array name="kanji12_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
+
+    <string-array name="kanji13_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
+
+    <string-array name="kanji13_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
+
+    <string-array name="kanji14_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
+
+    <string-array name="kanji14_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
+
+    <string-array name="kanji15_titles">
+        <item>০১) 店\n みせ\nদোকান।</item>
+        <item>০২) 国\n くに\nদেশ।</item>
+        <item>০৩) 山\n やま\nপাহাড়।</item>
+        <item>০৪) 雨\n あめ\nবৃষ্টি।</item>
+        <item>০৫) 花\n はな\nফুল।</item>
+        <item>০৬)　川\n かわ\nনদী।</item>
+        <item>০৭) 空\n そら\nআকাশ।　</item>
+        <item>০৮) 天気\n てんき\nআবহাওয়া।　</item>
+        <item>০৯) 車\n くるま\nগাড়ি।</item>
+        <item>১০) 電車\n でんしゃ\nট্রেন।</item>
+    </string-array>
+
+    <string-array name="kanji15_details">
+        <item>　店にほんがあります。\nদোকানে বই আছে।</item>
+        <item>　国へ帰ります。\nদেশে ফিরবো।</item>
+        <item>　山がみえます。\nপাহাড় দেখতে পারি।</item>
+        <item>　雨がふっています。\nবৃষ্টি পরতেছে।</item>
+        <item>　花をかいました。\nফুল কিনেছিলাম।</item>
+        <item>　川でおよぎます\nনদিতে সাঁতার কাটব।</item>
+        <item>　とりはそらでとびます。\nপাখি আকাশে উড়ে।</item>
+        <item>　きょうは天気がいいです。\nআজ আবহাওয়া ভাল।</item>
+        <item>　車でうちへかえりました。\nগাড়ি দিয়ে বাড়ি ফিরেছিলাম।</item>
+        <item>　電車でとうきょうへいきます。\nট্রেন দিয়ে টোকিয়ো যাব।</item>
+    </string-array>
 
     <string name="grammerName">ব্যাকরণ</string>
     <string name="vocabularyName">শব্দার্থ</string>

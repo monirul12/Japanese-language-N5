@@ -9,7 +9,7 @@
     android:padding="5dp"
     android:background="@color/background_color"
     android:gravity="center"
-    tools:context=".lessonActivity">
+    tools:context=".activitys.LessonActivity">
     <!-- first linear layout -->
 
     <LinearLayout
@@ -67,7 +67,7 @@
             android:foreground="?selectableItemBackground"
             android:clickable="true"
             android:layout_margin="10dp"
-            android:id="@+id/vocabulary01CardViewId"
+            android:id="@+id/vocabularyCardViewId"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent">
@@ -120,7 +120,7 @@
             android:foreground="?selectableItemBackground"
             android:clickable="true"
             android:layout_margin="10dp"
-            android:id="@+id/lisening01CardViewId"
+            android:id="@+id/liseningCardViewId"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent">
@@ -164,7 +164,7 @@
             android:foreground="?selectableItemBackground"
             android:clickable="true"
             android:layout_margin="10dp"
-            android:id="@+id/kanji1CardViewId"
+            android:id="@+id/kanjiCharacterCardViewId"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent">

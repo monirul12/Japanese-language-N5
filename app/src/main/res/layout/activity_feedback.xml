@@ -8,7 +8,7 @@
     android:background="#54e687"
     android:orientation="vertical"
     android:weightSum="4"
-    tools:context=".FeedbackActivity">
+    tools:context=".activitys.FeedbackActivity">
 
    <LinearLayout
        android:layout_weight="0.5"

@@ -10,7 +10,7 @@
     android:padding="5dp"
     android:background="@color/background_color"
     android:gravity="center"
-    tools:context=".MainActivity">
+    tools:context=".activitys.MainActivity">
 
     <LinearLayout
         android:gravity="center"

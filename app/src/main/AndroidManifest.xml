@@ -15,85 +15,34 @@
         android:roundIcon="@drawable/music"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".vocabulary_15Activity"></activity>
-        <activity android:name=".vocabulary_14Activity" />
-        <activity android:name=".vocabulary_13Activity" />
-        <activity android:name=".vocabulary_12Activity" />
-        <activity android:name=".vocablary_11Activity" />
-        <activity android:name=".vocabulary_10Activity" />
-        <activity android:name=".vocabulary_09Activity" />
-        <activity android:name=".vocabulary_08Activity" />
-        <activity android:name=".vocabulary_07Activity" />
-        <activity android:name=".vocabulary_06Activity" />
-        <activity android:name=".vocabulary_05Activity" />
-        <activity android:name=".vocabulary_04Activity" />
-        <activity android:name=".vocabulary_03Activity" />
-        <activity android:name=".vocabulary_02Activity" />
-        <activity android:name=".vocabulary_01Activity" />
-        <activity android:name=".kanji_14Activity" />
-        <activity android:name=".kanji_13Activity" />
-        <activity android:name=".kanji_12Activity" />
-        <activity android:name=".kanji_11Activity" />
-        <activity android:name=".kanji_10Activity" />
-        <activity android:name=".katakanaActivity" />
-        <activity android:name=".alphabetScreenActivity" />
-        <activity android:name=".kanji_09Activity" />
-        <activity android:name=".kanji_08Activity" />
-        <activity android:name=".kanji_07Activity" />
-        <activity android:name=".kanji_06Activity" />
-        <activity android:name=".kanji_05Activity" />
-        <activity android:name=".kanji_04Activity" />
-        <activity android:name=".kanji_03Activity" />
-        <activity android:name=".lisening_01Activity" />
-        <activity android:name=".kanji_02Activity" />
-        <activity android:name=".kanji_01Activity" />
-        <activity android:name=".lesson_15Activity" />
-        <activity android:name=".lesson15Activity" />
-        <activity android:name=".lesson_14Activity" />
-        <activity android:name=".lesson14Activity" />
-        <activity android:name=".lesson_13Activity" />
-        <activity android:name=".lesson13Activity" />
-        <activity android:name=".lesson_12Activity" />
-        <activity android:name=".lesson12Activity" />
-        <activity android:name=".lesson_11Activity" />
-        <activity android:name=".lesson11Activity" />
-        <activity android:name=".lesson_10Activity" />
-        <activity android:name=".lesson10Activity" />
-        <activity android:name=".lesson_09Activity" />
-        <activity android:name=".lesson9Activity" />
-        <activity android:name=".lesson_08Activity" />
-        <activity android:name=".lesson8Activity" />
-        <activity android:name=".lesson_07Activity" />
-        <activity android:name=".lesson7Activity" />
-        <activity android:name=".lesson_06Activity" />
-        <activity android:name=".lesson6Activity" />
-        <activity android:name=".lesson_05Activity" />
-        <activity android:name=".lesson5Activity" />
-        <activity android:name=".lesson_04Activity" />
-        <activity android:name=".lesson4Activity" />
-        <activity android:name=".lesson03Activity" />
-        <activity android:name=".lesson_03Activity" />
-        <activity android:name=".lesson2Activity" />
-        <activity android:name=".lesson_02Activity" />
-        <activity
-            android:name=".KanjiActivity"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".lesson_01Activity" />
-        <activity
-            android:name=".lessonActivity"
-            android:parentActivityName=".MenuItem" />
-        <activity android:name=".FeedbackActivity" />
-        <activity
-            android:name=".MenuItem"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".splashScreen">
+
+        <activity android:name=".utility.splashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".activitys.KanjiActivity"
+            android:parentActivityName=".activitys.MainActivity" />
+        <activity android:name=".activitys.GrammerActivity" />
+        <activity
+            android:name=".activitys.LessonActivity"
+            android:parentActivityName=".activitys.LessonListActivity" />
+        <activity android:name=".activitys.FeedbackActivity" />
+        <activity
+            android:name=".activitys.LessonListActivity"
+            android:parentActivityName=".activitys.MainActivity" />
+        <activity android:name=".activitys.MainActivity" />
+
+        <activity android:name=".activitys.VocabularyActivity" />
+        <activity android:name=".activitys.katakanaActivity" />
+        <activity android:name=".activitys.alphabetScreenActivity" />
+        <activity android:name=".activitys.liseningActivity" />
+        <activity android:name=".activitys.KanjiCharacterActivity" />
+
     </application>
 
 </manifest>
