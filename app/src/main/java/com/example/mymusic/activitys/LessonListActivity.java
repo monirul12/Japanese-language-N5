@@ -77,8 +77,9 @@ public class LessonListActivity extends AppCompatActivity implements LessonListR
 
     @Override
     public void onItemClick(View view, int position) {
+        int lessonId = position + 1;
         Intent intent = new Intent(this, LessonActivity.class);
-        intent.putExtra("lessonId", position);
+        intent.putExtra("lessonId", lessonId);
         startActivity(intent);
     }
 }
